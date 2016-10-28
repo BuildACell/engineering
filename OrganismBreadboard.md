@@ -19,7 +19,7 @@ A computational toolset being developed for the Build a Cell project to interpre
 
 ## Installation
 Simply download OrganismBreadBoard.09-a4:
-['https://github.com/EndyLab/Gene-Mining-Scripts.git`](https://github.com/EndyLab/Gene-Mining-Scripts.git)
+[https://github.com/EndyLab/Gene-Mining-Scripts.git](https://github.com/EndyLab/Gene-Mining-Scripts.git)
 
 ## Contributing
 
