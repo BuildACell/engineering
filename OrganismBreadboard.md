@@ -5,6 +5,7 @@ permalink: /breadboard/
 ---
 
 A computational toolset being developed for the Build a Cell project to interpret dependencies between genes and enable unit-testing of gene function in both existing and forward engineered genomes. The near-term goal is to mine prokaryotic genome information from curated databases like Ecocyc and Kegg and provide ranked lists of candidate protospacers for CRISPRi knockdown (for unit-testing). The current version provides an interface with Ecocyc and extracts all E. coli annotations to generate an output spreadsheet consisting of:
+
 1. Promoter ID
 2. Promoter orientation
 3. Sequence surrounding promoters (specifiable)
