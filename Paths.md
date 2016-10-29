@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Motivations
+title: Build-A-Cell
 permalink: /paths/
 ---
 
