@@ -10,4 +10,4 @@ permalink: /paths/
 
 **Bottom-up approach**: Starting from first principles, atoms or small groups of atoms (molecules) are put together in an intentional manner to create a protocell. The goal is to create a cellular recipe of well-characterized, essential components. While this method would likely lead to the most powerful understanding of cells, current technologies do not provide sufficient engineering capabilities and are slow to scale.
 
-**Build a cell approach**. A top-down approach is taken to obtain a genome-less container while a bottom-up approach is taken to design lineage-agnostic genomes. Combining the two paradigms enables the design and understanding of genomes from first-principles without simultaneous concern for the remaining cellular components needed to instantiate the genome.
+**Build a cell approach**: A top-down approach is taken to obtain a genome-less container while a bottom-up approach is taken to design lineage-agnostic genomes. Combining the two paradigms enables the design and understanding of genomes from first-principles without simultaneous concern for the remaining cellular components needed to instantiate the genome.
