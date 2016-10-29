@@ -4,7 +4,7 @@ title: Motivations
 permalink: /paths/
 ---
 
-![Motivations for project](https://buildacell.io/engineering/images/Figure1-Approaches.png)
+![Motivations for project](/engineering/images/Figure1-Approaches.png)
 
 **Top-down approach**: Starting from entire existing genomes, genes are systematically removed and the genome is refactored until a cell with some minimal subset of components is created. The goal is to progressively obtain a deeper understanding of cells by characterizing essential components that remain. While this method could quickly provide an engineering platform, maximum potential knowledge gained is limited by a lack of first-principles design exploration.
 
