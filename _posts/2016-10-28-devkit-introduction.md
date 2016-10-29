@@ -9,9 +9,9 @@ Building the biokernel requires three major components: **architecture**, the de
 
 The first version of our development kit comprises three tools:
 
-- A [container]({% post_url 2016-10-28-devkit-introduction %}), based on E coli minicells, for testing constructs in a genome-free context.
-- A easy-to-use knockdown system based on [CRISPRi]({% post_url 2016-10-28-devkit-introduction %}), to target any gene, functional operon, or pathway, so that constructs designed to implement the targeted function can be tested in the context of an otherwise-functional growing cell system.
-- [Computational tools](#) to identify pathways and genes related to a function, design knockdown constructs, and identify components useful for implementing a function from across the domains of life.
+- A [container](http://buildacell.io/engineering/minicells/2016/10/28/containers.html), based on E coli [minicells](http://buildacell.io/engineering/minicells/2016/10/28/containers-minicells.html), for testing constructs in a genome-free context.
+- A easy-to-use knockdown system based on [CRISPRi](http://buildacell.io/engineering/minicells/2016/10/28/crispri-system.html), to target any gene, functional operon, or pathway, so that constructs designed to implement the targeted function can be tested in the context of an otherwise-functional growing cell system.
+- [Computational tools](http://buildacell.io/engineering/breadboard/) to identify pathways and genes related to a function, design knockdown constructs, and identify components useful for implementing a function from across the domains of life.
 
 Our expected workflow is as follows:
 
