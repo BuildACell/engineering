@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CRISPRi Knockdown System"
-date:   2016-10-28 13:57:24
+date:   2016-10-28 2:00:00
 categories: devtools crispri
 ---
 
