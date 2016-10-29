@@ -2,7 +2,7 @@
 layout: post
 title:  "E-CRISPie"
 date:   2016-10-28 15:00:00
-categories: containers
+categories:
 ---
 
 E-CRISPie
