@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Open source"
-date:	2016-10-28 3:00:00
-categories:
+title:  "Open Source"
 ---
 
 An open-source approach to building a cell is fundamentally different than
