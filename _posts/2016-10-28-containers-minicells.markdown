@@ -2,7 +2,7 @@
 layout: post
 title:  "Minicells"
 date:   2016-10-28 17:00:00
-categories: minicells
+categories:
 ---
 
 Minicells
