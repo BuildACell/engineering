@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Unix Philosophy"
-date:	2016-10-29 3:00:00
+date:	2016-10-28 3:00:00
 categories:
 ---
 Dennis Ritchie and Ken Thompson discussing Unix and the importance of distributed,
