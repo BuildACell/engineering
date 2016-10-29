@@ -14,7 +14,7 @@ In order to rapidly test functional modules in a running cell, we developed a CR
 
 We constructed a protospacer to knockdown the histidine biosynthetic pathway by targeting the [HisBHAFI operon](http://ecocyc.org/ECOLI/NEW-IMAGE?type=NIL&object=TU0-6650&redirect=T). The CRISPRi construct was transformed into *E. coli* MG1655, which were grown in LB, minimal media, and minimal media supplemented with histidine. Optical density was measured over 36 hours.
 
-![Histidine Knockdown]({{ site.url + site.baseurl }}/images/HisKDExp1.png)
+![Histidine Knockdown]({{ site.url }}/engineering/images/HisKDExp1.png)
 
 | Sample | Media | KD |
 | ------ | ----- | --------------------- |
