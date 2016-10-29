@@ -1,6 +1,11 @@
---- layout: page title: About permalink: /paths/ --- **Motivations**: Building a cell is a grand 
-challenge of science and engineering and there are many reasons why
-building a cell is important. 
+--- 
+layout: page 
+title: About 
+permalink: /paths/
+--- 
+
+**Motivations**: Building a cell is a grand challenge of science and engineering and there are many reasons why building a cell is important.
+ 
 ![Motivations for project](/engineering/images/Figure1-Approaches.png)
 
 **Top-down approach**: Starting from entire existing genomes, genes are systematically removed and the genome is refactored until a cell with 
