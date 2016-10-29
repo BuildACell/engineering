@@ -1,8 +1,9 @@
 --- 
 layout: page 
-title: About 
-permalink: /about/
---- 
+title: About The Project
+date: 2016-10-28
+categories: meta
+---
 
 **Motivations**: We are building a cell, but we are not alone. Researchers around the world are actively working on projects with similar goals, albeit different approaches. There are groups working to build cells from the bottom-up, chemically syntehsizing the constituent parts and combining them in such a way that my illucidate the fundamental physical mechanisms that result in a self-assembling cellular system. Other groups are working to construct a minimal genome by iteratively removing genes from a host genome until they have reached a subset of essential genes for growth and replication. The Build-A-Cell project combines the best parts of both approaches in an open and distributed way.  
  
@@ -21,3 +22,4 @@ scale.
 **Build a cell approach**: A top-down approach is taken to obtain a genome-less container while a bottom-up approach is taken to design 
 lineage-agnostic genomes. Combining the two paradigms enables the design and understanding of genomes from first-principles without 
 simultaneous concern for the remaining cellular components needed to instantiate the genome.
+
