@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Data</h1>
+  Welcome to the engineering page. We're excited to build a cell. Check out
+the  <a href="https://buildacell.io/engineering/about/">about</a> page for the motivation of the project,
+
+  our <a href="https://help.github.com/articles/about-pull-requests/">Development Kit introduction</a> to get oriented.
+  <!--h1 class="page-heading">Data</h1-->
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <!--<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>-->
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
+
+</div>
