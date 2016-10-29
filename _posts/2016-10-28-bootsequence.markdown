@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Boot Sequence"
-date:   2016-10-28 1:00:00
-categories:
 ---
 ![bootsequence](/engineering/images/Fig6_BootSequence.PNG)
 

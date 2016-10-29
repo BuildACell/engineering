@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "E-CRISPie"
-date:	2016-10-28 2:00:00
-categories:
 ---
 
 E-CRISPie

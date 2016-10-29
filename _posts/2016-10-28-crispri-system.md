@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "CRISPRi Knockdown System"
-date:   2016-10-28 2:00:00
-categories:
+title: "CRISPRi Knockdown System"
 ---
 
 # Introduction

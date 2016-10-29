@@ -21,6 +21,7 @@ baseurl: "/engineering" # the subpath of your site, e.g. /blog
 url: "http://buildacell.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: buildacellproj
 github_username:  buildacell
+timezone: America/Los_Angeles
 
 # Build settings
 markdown: kramdown

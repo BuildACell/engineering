@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Containers"
-date:   2016-10-28 23:00:00
-categories:
 ---
 ![Container](/engineering/images/Figure2-Containers.png)
 
