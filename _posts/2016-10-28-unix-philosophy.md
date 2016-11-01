@@ -6,7 +6,7 @@ Dennis Ritchie and Ken Thompson discussing Unix and the importance of distribute
 modularized development.
 
 
-<video id="unixmov" width="320" height="240" preload controls>
+<video id="unixmov" width="640" height="480" preload controls>
 	<source src="{{ site.url }}/engineering/images/Unix.mp4" type = "video/mp4">
 </video>
 
