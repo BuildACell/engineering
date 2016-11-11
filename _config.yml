@@ -31,3 +31,32 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+prose:
+  ignore: [
+    '.sass-cache',
+    '_includes',
+    '_layouts',
+    '_sass',
+    '_site',
+    'css',
+    'assets'
+    ]
+  siteurl: "http://buildacell.io/engineering"
+  media: "images"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          placeholder: "Enter a post title here"
+      - name: "date"
+        field:
+          element: "text"
+          label: "date"
+          value: "CURRENT_DATETIME"
