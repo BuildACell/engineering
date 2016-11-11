@@ -4,18 +4,30 @@ layout: default
 
 <div class="home">
 
+<h1>Documentation</h1>
   <!-- Look at icons at http://fontawesome.io/icons/ -->
   <ul class="fa-ul">
   <li><i class="fa fa-li fa-book"></i><a href="/engineering/about/">About</a>—an introduction to what we're doing.</li>
   <li><i class="fa fa-li fa-ravelry"></i><a href="/engineering/build-a-cell/">Why Build-A-Cell?</a>—why this project exists.</li>
   <li>
-  	<i class="fa fa-li fa-cogs"></i><a href="/engineering{% post_url 2016-10-28-introduction %}">Development Kit</a>—an overview of what we've built.
+  	<i class="fa fa-li fa-cogs"></i><a href="/engineering/devkit/">Development Kit</a>—an overview of what we've built.
 	<ul class="fa-ul">
-	  	<li><i class="fa fa-li fa-share-alt"></i><a href="/engineering{% post_url 2016-10-28-organism-breadboard %}">Organism Breadboard</a>—a computational toolset.</li>
-      <li><i class="fa fa-li fa-tasks"></i><a href="/engineering{% post_url 2016-10-28-crispri-system %}">CRISPRi</a>—a tool for knockdown of pathways and functions.</a></li>
-	 	<li><i class="fa fa-li fa-sun-o"></i><a href="/engineering{% post_url 2016-10-28-containers %}">Container</a>—what we're using to house new genomes.</li>
+	  	<li><i class="fa fa-li fa-share-alt"></i><a href="/engineering/devkit/organism-breadboard/">Organism Breadboard</a>—a computational toolset.</li>
+      <li><i class="fa fa-li fa-tasks"></i><a href="/engineering/devkit/crispri-system/">CRISPRi</a>—a tool for knockdown of pathways and functions.</a></li>
+	 	<li><i class="fa fa-li fa-sun-o"></i><a href="/engineering/devkit/containers/">Container</a>—what we're using to house new genomes.</li>
     </ul></li>
-    <li><i class="fa fa-li fa-code"></i><a href="/engineering{% post_url 2016-10-28-open-source %}">Open Source</a>—free to share and use.</li>
+    <li><i class="fa fa-li fa-code"></i><a href="/engineering/about/open-source/">Open Source</a>—free to share and use.</li>
   <li>
   </ul>
+
+{% if site.posts.size > 0 %}
+<h1>Latest Updates</h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}
 </div>

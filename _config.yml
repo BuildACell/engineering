@@ -22,6 +22,7 @@ url: "http://buildacell.io" # the base hostname & protocol for your site, e.g. h
 twitter_username: buildacellproj
 github_username:  buildacell
 timezone: America/Los_Angeles
+permalink: pretty
 
 # Build settings
 markdown: kramdown
@@ -40,7 +41,12 @@ prose:
     '_sass',
     '_site',
     'css',
-    'assets'
+    'assets',
+    '.gitignore',
+    'Gemfile',
+    'Gemfile.lock',
+    '_config.yml',
+    'feed.xml'
     ]
   siteurl: "http://buildacell.io/engineering"
   media: "images"
@@ -60,3 +66,15 @@ prose:
           element: "text"
           label: "date"
           value: "CURRENT_DATETIME"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Minicells"
+              value: "minicells"
+            - name: "CRISPRi"
+              value: "crispri"
+            - name: "Computational Tools"
+              value: "comptools"

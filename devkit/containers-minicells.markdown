@@ -7,10 +7,10 @@ categories:
 
 Minicells
 
-![minicellpic]({{ site.url }}/engineering/images/Fig2b_Minicells.PNG)
+![minicellpic](/engineering/images/Fig2b_Minicells.PNG)
 
 <video id="minicellsmov" width="503" height="492" preload controls>
-	<source src="{{ site.url }}/engineering/images/BF.mp4" type = "video/mp4">
+	<source src="/engineering/images/BF.mp4" type = "video/mp4">
 </video>
 
 

@@ -6,7 +6,7 @@ title:  "Containers"
 
 Containers are membrane-bound vesicles that contain cellular elements (e.g., polymerases, ribosomes, amino acids) in proportions expected in a typical prokaryote, but lack a genome. We hypothesize that the introduction of the biokernel (or any synthetic genome) into a container would recapitulate typical cellular activity.
 
-We are developing two types of containers from E. coli: [Minicells](http://buildacell.io/engineering/2016/10/28/containers-minicells.html) (strain DS410) and [E-CRISPie cells](http://buildacell.io/engineering/containers-ecrispie.html) (strain MG1655 + DNAi).
+We are developing two types of containers from E. coli: [Minicells](/engineering/devkit/containers-minicells/) (strain DS410) and [E-CRISPie cells](/engineering/devkit/containers-ecrispie/) (strain MG1655 + DNAi).
 
 Minicells are small genome-less progeny of E. coli, approximately 10% the volume of E. coli, that bleb off during asymmetric division of E. coli strains that either have a mutation in the min system (DS410) or are overexpressing ftsZ. These minicell containers cease to grow and divide, whereas their parent cells continue to produce clonal progeny as well as additional minicells.
 

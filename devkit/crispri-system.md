@@ -5,9 +5,9 @@ title: "CRISPRi Knockdown System"
 
 # Introduction
 
-![Blockdiagram]({{ site.url }}/engineering/images/Fig4_CRISPRiBlock.png)
+![Blockdiagram](/engineering/images/Fig4_CRISPRiBlock.png)
 
-![Partsdiagram]({{ site.url }}/engineering/images/Fig4_CRISPRiParts.png)
+![Partsdiagram](/engineering/images/Fig4_CRISPRiParts.png)
 
 In order to rapidly test functional modules in a running cell, we developed a CRISPRi-based knockdown system based on dCas9 (cite) and CRISPathBrick (cite). The system allows for the rapid construction of knockdown cassettes for one or more genes, and testing for both knockdown and complementation.
 

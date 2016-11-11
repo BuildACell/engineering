@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-date: {}
-categories: metaproject
 permalink: /about/
+mainmenu: true
+weight: 1
 published: true
 ---
 
@@ -24,4 +24,4 @@ scale.
 
 **Build a cell approach**: A top-down approach is taken to obtain a genome-less container while a bottom-up approach is taken to design 
 lineage-agnostic genomes. Combining the two paradigms enables the design and understanding of genomes from first-principles without 
-simultaneous concern for the remaining cellular components needed to instantiate the genome. Inspired by the [Unix Philosophy](/engineering{% post_url 2016-10-28-unix-philosophy %}), we aim to build an open and understandable platform for cell engineering.
+simultaneous concern for the remaining cellular components needed to instantiate the genome. Inspired by the [Unix Philosophy](/engineering/about/unix-philosophy/), we aim to build an open and understandable platform for cell engineering.
