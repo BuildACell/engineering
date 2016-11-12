@@ -12,7 +12,7 @@ Build-A-Cell is a distributed and global project. If you're captivated by any as
 ## Contributing to the Website
 There are a number of ways to contribute to this website. Regardless of which option you choose, you'll need to make an account on [GitHub](https://github.com/join). Your account then needs to be added to the Build-A-Cell team. Please [contact us](mailto:atg@buildacell.io) to get added to the team, or check the 'Forking the Repository' section of this document for other options.
 
-Once you have a GitHub account, there are two options for editing the website: prose.io, which is easier but less powerful, and downloading a local copy of the repository.
+Once you have a GitHub account, there are three options for editing the website: prose.io, which is easier but less powerful; directly editing in github, and downloading a local copy of the repository.
 
 ### Editing with prose.io
 [Prose.io](http://prose.io) is an easy-to-use online editor with support for both Markdown (the format we write web pages in), and GitHub pages/Jekyll (the technology that generates our website). To use prose.io, just [visit the website](http://prose.io) and authenticate with your GitHub account. You will then see a list of the repositories to which you have access. Filter by BuildACell in the right panel, and select the 'engineering' project from the list.
@@ -28,6 +28,10 @@ Once you have finished creating or editing the new page, you can preview it by c
 To commit, click on the save icon to the right. You will be presented with a list of your changes and a commit button. Add a message describing your changes (for example, "Added new instructions on how to contribute"), and click commit. Your changes should be visible on the website shortly.
 
 Prose has more features, such as writing draft posts (which won't be visible on the website) and then publishing them later. Check out the internal help for more details.
+
+### Editing in GitHub
+
+Once you have access to the GitHub repository, open the repository at [https://github.com/BuildACell/engineering](https://github.com/BuildACell/engineering), navigate to the file you want to edit, open it and click the 'edit' pen icon in the top right of the viewer pane. An editor will open, although it does not have helper functions for Markdown. You can preview using the 'Preview changes' button at the top. Once satisfied, fill out a commit message and commit your changes using the button at the bottom of the page.
 
 ### Editing Locally
 
