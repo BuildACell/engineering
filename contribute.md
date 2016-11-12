@@ -9,12 +9,12 @@ published: true
 
 Build-A-Cell is a distributed and global project. If you're captivated by any aspect of the project, get going and share your work. Yearning to build a cell but don't know where to begin? Check our [list of ideas](/engineering/about/bootsequence/) for a place to start.
 
-# Contributing to the Website
+## Contributing to the Website
 There are a number of ways to contribute to this website. Regardless of which option you choose, you'll need to make an account on [GitHub](https://github.com/join). Your account then needs to be added to the Build-A-Cell team. Please [contact us](mailto:atg@buildacell.io) to get added to the team, or check the 'Forking the Repository' section of this document for other options.
 
 Once you have a GitHub account, there are two options for editing the website: prose.io, which is easier but less powerful, and downloading a local copy of the repository.
 
-## Editing with prose.io
+### Editing with prose.io
 [Prose.io](http://prose.io) is an easy-to-use online editor with support for both Markdown (the format we write web pages in), and GitHub pages/Jekyll (the technology that generates our website). To use prose.io, just [visit the website](http://prose.io) and authenticate with your GitHub account. You will then see a list of the repositories to which you have access. Filter by BuildACell in the right panel, and select the 'engineering' project from the list.
 
 You will be presented with a list of files and directories available for editing. There are two kinds of webpages you can add: *pages*, which form the main website, and *posts*, which are dated and presented as updates or entries in a lab notebook. To edit a page or post, navigate to it and open it in prose. To create a new page, choose the appropriate directory (about, devkit, etc), and create a new file within it. To create a new post, create a file under the `_posts` directory and ensure its filename begins with the date. All file names should be lowercase, separated by hyphens, and end in `.md` for markdown. 
@@ -29,7 +29,7 @@ To commit, click on the save icon to the right. You will be presented with a lis
 
 Prose has more features, such as writing draft posts (which won't be visible on the website) and then publishing them later. Check out the internal help for more details.
 
-## Editing Locally
+### Editing Locally
 
 Downloading the website repository locally is more complex than using Prose, but has several advantages: you can make more changes, saving intermediate results, without affecting the main website; it is easier to move files around; it is easier to add additional files such as experimental data and analysis; and all of the collaborative power of git can be used to work on both analysis and documentation.
 
@@ -50,11 +50,11 @@ git commit
 
 You will be prompted to add a commit message describing your changes, which will then be committed as a version in your local repository. You can now push these changes up to the live site by running `git push`.
 
-## Forking the Repository
+### Forking the Repository
 
 If you don't have access to the main Build-A-Cell repositories, you can instead [fork](https://help.github.com/articles/fork-a-repo/) them. This creates your own copy of the repository on GitHub. You can then make changes to this version, following the above instructions, and submit a [pull request](https://help.github.com/articles/about-pull-requests/) to have the change integrated into the main website. See the [GitHub documentation](https://help.github.com/) for more details.
 
-## Other Resources
+### Other Resources
 
 Our data sharing relies on Git for eash of collaborating on code, information and documentation. Check out the following resources to learn more about the component technologies:
 
