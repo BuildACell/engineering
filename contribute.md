@@ -10,7 +10,7 @@ published: true
 Build-A-Cell is a distributed and global project. If you're captivated by any aspect of the project, get going and share your work. Yearning to build a cell but don't know where to begin? Check our [list of ideas](/engineering/about/bootsequence/) for a place to start.
 
 # Contributing to the Website
-There are a number of ways to contribute to this website. Regardless of which option you choose, you'll need to make an account on [GitHub](https://github.com/join). Your account then needs to be added to the Build-A-Cell team. Please [contact us](mailto:atg@buildacell.io) to get added to the team, or check the [forking the repository]() section of this document for other options.
+There are a number of ways to contribute to this website. Regardless of which option you choose, you'll need to make an account on [GitHub](https://github.com/join). Your account then needs to be added to the Build-A-Cell team. Please [contact us](mailto:atg@buildacell.io) to get added to the team, or check the 'Forking the Repository' section of this document for other options.
 
 Once you have a GitHub account, there are two options for editing the website: prose.io, which is easier but less powerful, and downloading a local copy of the repository.
 
@@ -39,7 +39,7 @@ The full Build-A-Cell engineering repository is now on your local machine, inclu
 
 To get a local preview of the entire site, you'll need to build a copy of it on your own machine. The website is built using a tool called [Jekyll](https://jekyllrb.com/), which converts the Markdown files and other information in git into HTML, with an appropriate file structure. When you commit changes into git and push them to the main repository on GitHub, this tool is run for you, building the site and making the new version live at [http://buildacell.io/engineering](http://buildacell.io/engineering/). To run it locally, you need to install Ruby and download the Jekyll RubyGem. If you're on a Mac, you have a local copy of Ruby already. Otherwise, download it from [http://ruby-lang.org/](https://www.ruby-lang.org/en/downloads/). Next, enter the terminal, naviate to your Build-A-Cell engineering repository directory (where you cloned the repository above), and run the command `bundle install`.
 
-This installs Jekyll and its requirements. You can now run `bundle exec jekyll serve`. This will start a webserver on your local machine, where you can browse a copy of the website as it will look after your edits. By default, the website will be available at [http://localhost:4000/engineering](http://localhost:4000/engineering), be sure to add the /engineering to the URL if you navigate by hand. As you edit files, this website will update to match the changes.
+This installs Jekyll and its requirements. You can now run `bundle exec jekyll serve`. This will start a webserver on your local machine, where you can browse a copy of the website as it will look after your edits. By default, the website will be available at [http://localhost:4000/engineering](http://localhost:4000/engineering); be sure to add the /engineering to the URL if you navigate by hand. As you edit files, this website will update to match the changes.
 
 Make edits to files as described above in the section on Prose. Once you're finished, you need to stage and commit your changes. While the specific of using git are out of scope of this document (check the [Git Book](https://git-scm.com/book/en/v2) for more details), you can commit all of your changes by running the following terminal commands in the engineering directory:
 
@@ -57,6 +57,7 @@ If you don't have access to the main Build-A-Cell repositories, you can instead 
 ## Other Resources
 
 Our data sharing relies on Git for eash of collaborating on code, information and documentation. Check out the following resources to learn more about the component technologies:
+
 * [Git Book](https://git-scm.com/book/en/v2)
 * [GitHub documentation](https://help.github.com/)
 * [Jekyll documentation](https://jekyllrb.com/docs/home/)
