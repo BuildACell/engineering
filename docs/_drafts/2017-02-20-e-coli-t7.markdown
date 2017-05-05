@@ -1,0 +1,10 @@
+---
+layout: post
+title: "E coli T7"
+date: "2017-02-20 13:49:58 -0800"
+---
+
+# The T7 promoter
+-17 to +6 common promoter sequence. Binding from -17 to -6, initiation from -5 to +6.
+
+Combinartorial FlowSeq analysis on all promoter sequences?
