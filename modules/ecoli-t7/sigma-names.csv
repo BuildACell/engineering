@@ -1,0 +1,8 @@
+SigmaFactor,Number,Gene,Description
+Sigma70,70,RpoD,Housekeeping
+Sigma54,54,RpoN,Nitrogen limitation
+Sigma38,38,RpoS,Stationary Phase
+Sigma32,32,RpoH,Heat shock
+Sigma28,28,RpoF,Flagella
+Sigma24,23,RpoE,Extracytoplasmic/extreme heat stress
+Sigma19,19,FecI,Iron transport

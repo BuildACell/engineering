@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Ideas"
+date: "2017-04-17 17:13:44 -0700"
+---
+
+Synthetic pilus -> download synthetic chromosome to *E. coli*. 
