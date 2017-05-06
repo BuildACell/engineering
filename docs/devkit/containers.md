@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Containers"
 ---
 ![Container](/engineering/images/Figure2-Containers.png)

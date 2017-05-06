@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title:  "Development Kit v0.1: Introduction"
 ---
 
-Building the biokernel requires three major components: **architecture**, the design for and of an effective engineerable cell, its subsystems, and their means of interaction; **implementation**, fabrication of the design as DNA and its introduction into a container; and **development tools**, the new tooling required for rapid and effective work on the other two. In order to begin the process, we have determined that several key tools are critical to guide design, test implementation and evaluate ideas. Specifically, we want to develop modules to provide core cell capabilities. 
+Building the biokernel requires three major components: **architecture**, the design for and of an effective engineerable cell, its subsystems, and their means of interaction; **implementation**, fabrication of the design as DNA and its introduction into a container; and **development tools**, the new tooling required for rapid and effective work on the other two. In order to begin the process, we have determined that several key tools are critical to guide design, test implementation and evaluate ideas. Specifically, we want to develop modules to provide core cell capabilities.
 
 The first version of our development kit comprises three tools:
 
@@ -22,4 +22,4 @@ Our expected workflow is as follows:
 * Iterate on module design.
 * Test functional modules in genome-free minicells, working toward implementing a complete boot sequence to begin growth and division.
 
-This development kit represents the basic tools to begin exploring the functional design space. We expect that all will grow in power and scope; see our [Roadmap] for details. 
+This development kit represents the basic tools to begin exploring the functional design space. We expect that all will grow in power and scope; see our [Roadmap] for details.

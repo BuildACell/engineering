@@ -2,7 +2,7 @@
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
+# yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Build-A-Cell Engineering
-email: engineering@buildacell.io
+email: atg@buildacell.io
 description: > # this means to ignore newlines until "baseurl:"
-  We're building a cell. Here are the details.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "/engineering" # the subpath of your site, e.g. /blog
 url: "http://buildacell.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: buildacellproj
 github_username:  buildacell
-timezone: America/Los_Angeles
-permalink: pretty
 
 # Build settings
 markdown: kramdown
@@ -32,49 +32,3 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
-prose:
-  ignore: [
-    '.sass-cache',
-    '_includes',
-    '_layouts',
-    '_sass',
-    '_site',
-    'css',
-    'assets',
-    '.gitignore',
-    'Gemfile',
-    'Gemfile.lock',
-    '_config.yml',
-    'feed.xml'
-    ]
-  siteurl: "http://buildacell.io/engineering"
-  media: "images"
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-          placeholder: "Enter a post title here"
-      - name: "date"
-        field:
-          element: "text"
-          label: "date"
-          value: "CURRENT_DATETIME"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Minicells"
-              value: "minicells"
-            - name: "CRISPRi"
-              value: "crispri"
-            - name: "Computational Tools"
-              value: "comptools"
