@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Boot Sequence"
 ---
 ![bootsequence](/engineering/images/Fig6_BootSequence.PNG)

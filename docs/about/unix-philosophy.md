@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "The Unix Philosophy"
 ---
 Dennis Ritchie and Ken Thompson discussing Unix and the importance of distributed,
