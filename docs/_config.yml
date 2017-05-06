@@ -32,3 +32,50 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+prose:
+  ignore: [
+    '.sass-cache',
+    '_includes',
+    '_layouts',
+    '_sass',
+    '_site',
+    'css',
+    'assets',
+    '.gitignore',
+    'Gemfile',
+    'Gemfile.lock',
+    '_config.yml',
+    'feed.xml'
+    ]
+  siteurl: "http://buildacell.io/engineering"
+  rooturl: "docs"
+  media: "images"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          placeholder: "Enter a post title here"
+      - name: "date"
+        field:
+          element: "text"
+          label: "date"
+          value: "CURRENT_DATETIME"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Minicells"
+              value: "minicells"
+            - name: "CRISPRi"
+              value: "crispri"
+            - name: "Computational Tools"
+              value: "comptools"
