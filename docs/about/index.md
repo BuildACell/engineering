@@ -10,7 +10,7 @@ published: true
 
 We are building a cell, but we are not alone. Researchers around the world are actively working on projects with similar goals, albeit different approaches. There are groups working to build cells from the bottom-up, chemically synthesizing the constituent parts and combining them in such a way that my elucidate the fundamental physical mechanisms that result in a self-assembling cellular system. Other groups are working to construct a minimal genome by iteratively removing genes from a host genome until they have reached a subset of essential genes for growth and replication. The Build-A-Cell project combines the best parts of both approaches in an open and distributed way.  
  
-<p style="text-align:center;">![Motivations for project](/engineering/images/Figure1-Approaches.png)</p>
+<p style="text-align:center;">[Motivations for project](/engineering/images/Figure1-Approaches.png)</p>
 
 **Top-down approach**: Starting from entire existing genomes, genes are systematically removed and the genome is refactored until a cell with 
 some minimal subset of components is created. The goal is to progressively obtain a deeper understanding of cells by characterizing essential 
