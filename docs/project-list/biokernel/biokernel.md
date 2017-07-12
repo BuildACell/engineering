@@ -5,24 +5,36 @@ permalink: /biokernel/
 weight: 5
 ---
 
+
+</body>
+</html>
+
+<!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
-<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
 
-	<p style="text-align:center;"><img src="/engineering/images/Biokernel.png"></p>
-  <div data-role="main" class="ui-content">
-    <div data-role="collapsible">
-      <h1>What is the biokernel?</h1>
-      <p>This is the answer.</p>
+<p style="text-align:center;"><img src="/engineering/images/Biokernel.png"></p>
+
+<div class="container">
+  <div class="panel-group">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#collapse1">What is the biokernel?</a>
+        </h4>
+      </div>
+      <div id="collapse1" class="panel-collapse collapse">
+        <div class="panel-body">This is the answer.</div>
+      </div>
     </div>
   </div>
-
-</div> 
-
+</div>
+    
 </body>
 </html>
