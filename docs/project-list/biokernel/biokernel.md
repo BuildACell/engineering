@@ -39,11 +39,13 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
       </div>
       <div id="collapse3" class="panel-collapse collapse">
         <div class="panel-body">
-				<p style="text-align:center;"><img src="/engineering/images/Approach.png"></p>
+				<p style="text-align:center;"><img src="/engineering/images/Approach.png" width = "700"></p>
+				<p> Construction of a semi-synthetic cell, or the design of a synthetic genome encoding and operating within biomolecules derived from natural organisms, is the most technically approachable path towards the goal of a molecularly defined simulatable cell. </p>
+				<p style="text-align:center;"><img src="/engineering/images/in vitro.png" width = "850"></p>
+				<p> The prototyping platform to validate modules involve the design of chosen genes encoding the production of biomolecules to perform functions, building and integrating those genetic constructs and reconstituted cytosol, and testing them in a defined background while taking the requisite measurements to inform the next design cycle. </p>	
 		</div>
       </div>
     </div>
-
 	
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -55,12 +57,14 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
         <div class="panel-body">
 		<p>Once separate groups have made the decision to collaborate, the transaction cost for working together can be minimized through two benchmarks.</p>
 		<p style="text-align:center;"><img src="/engineering/images/Distribution.png" width = "500"></p>
-		<p>The forward engineering of an entire genome provides opportunity for modularization and distributed development across multiple individuals and labs.</p>
+		<p><strong>Distributed development</strong>The forward engineering of an entire genome provides opportunity for modularization and distributed development across multiple individuals and labs.</p>
 		<p style="text-align:center;"><img src="/engineering/images/Standards.png" width = "500"></p>
-		<p>The testing of designs of an ensemble of defined molecular compenents that is accessible promotes communication and reproducibility of results for communal development.</p>
+		<p><strong>Standardization and Reproducibility</strong>The testing of designs within the background of an ensemble of defined molecular compenents that is also accessible promotes communication and reproducibility of results for communal development.</p>
 		</div>
       </div>
     </div>
+	
+	
   </div> 
 </div>
     
