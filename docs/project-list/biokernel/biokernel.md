@@ -25,7 +25,7 @@ weight: 5
         </h4>
       </div>
       <div id="collapse1" class="panel-collapse collapse">
-        <div class="panel-body">The biokernel is a set of genes and biomolecules, defined at single-molecule resolution, that when organized appropriately lead to a functioning, computationally-simulatable cell. It will possess the core components and functions necessary for an organism, and be developed in a manner amenable to the distributed construction of arbitrary organisms of desired function. For such a goal to be achieved, we believe the biokernel will require: a set of genes encoding a cell in which all biomolecules that are produced are accounted for, an operational understanding of the functionality of each biomolecule, and a comprehensive model of their abundancies and positions over time.
+        <div class="panel-body">The biokernel is a set of genes and biomolecules defined at single-molecule resolution that when organized appropriately lead to a functioning, computationally-simulatable cell. It will possess the core components and functions necessary for an organism, and be developed in a manner amenable to the distributed construction of arbitrary organisms of desired function. For such a goal to be achieved, we believe the biokernel will require: a set of genes encoding a cell in which all biomolecules that are produced are accounted for, an operational understanding of the functionality of each biomolecule, and a comprehensive model of their abundancies and positions over time.
 </div>
       </div>
     </div>
