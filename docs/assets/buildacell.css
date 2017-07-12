@@ -7,6 +7,16 @@
   margin-top: 2em;
 }
 
+.agenda-table th {
+  padding: 0.2em 1em;
+  text-align: left;
+}
+
+.agenda-table td {
+  padding: 0.2em 1em;
+  text-align: left;
+}
+
 .biokernel-figure {
   display: block;
   width: 80%;
