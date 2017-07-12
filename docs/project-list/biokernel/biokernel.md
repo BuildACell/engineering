@@ -16,18 +16,39 @@ weight: 5
 <img src="/engineering/images/Biokernel.png">
 
 <div class="container">
-  <div class="panel-group">
+
+  <div class="panel-group" id="accordion">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" href="#collapse1">What is the biokernel?</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">What is the biokernel?</a>
         </h4>
       </div>
       <div id="collapse1" class="panel-collapse collapse">
         <div class="panel-body">This is the answer.</div>
       </div>
     </div>
-  </div>
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">How can the biokernel be collaboratively developed?</a>
+        </h4>
+      </div>
+      <div id="collapse2" class="panel-collapse collapse">
+        <div class="panel-body">Yes.</div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">What is the strategy for developing the biokernel?</a>
+        </h4>
+      </div>
+      <div id="collapse3" class="panel-collapse collapse">
+        <div class="panel-body">Will be explained.</div>
+      </div>
+    </div>
+  </div> 
 </div>
     
 </body>
