@@ -3,10 +3,13 @@
 
 .contributor {
   display: block;
+  min-height: 150px;
+  width: 100%;
   padding: 1em 0;
 }
 
 .contributor h2 {
+  margin-top: 1em;
   font-size: 1.5em;
 }
 
@@ -28,4 +31,9 @@ ul.linkouts {
   border-radius: 50%;
 
   vertical-align: middle;
+}
+
+.cc-credit {
+  margin-top: 3em;
+  font-size: smaller;
 }
