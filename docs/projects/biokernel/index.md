@@ -48,7 +48,7 @@ Once separate groups have made the decision to collaborate, the transaction cost
 
 # What is PURE?
 
-PURE is a reconstituted expression system (mostly from E. coli) developed by <a href="http://www.nature.com/nbt/journal/v19/n8/full/nbt0801_751.html">Ueda et al. in 2001</a>. It contains all the purified components required to generate a polypeptide sequence from a DNA template. Its composition provides a <strong>defined</strong> background to drive consistent expression and can be used as the fundamental basis for building out into a understandable cell.
+PURE is a reconstituted expression system (mostly from E. coli) developed by <a href="http://www.nature.com/nbt/journal/v19/n8/full/nbt0801_751.html">Ueda et al. in 2001</a>. It contains all the purified components required to generate a polypeptide sequence from a DNA template. Its composition provides a <strong>defined</strong> background to drive consistent expression and can be used as the fundamental basis for building out into a molecularly defined cell.
 
 <img class="biokernel-figure" src="/engineering/images/PUREdata.png">
 
@@ -87,7 +87,7 @@ One fundamental aspect is for the cell to internally replicate and regenerate al
 
 <img class="biokernel-figure" src="/engineering/images/CDogGenes.png">
 
-The genes necessary to form a regenerative central dogma can be categorized in four ways: 1) Enzymes encoded by 1 or a few genes (RNAP, tRNA synthetases, translation factors) 2) Genes required for tRNA biogenesis 3) Genes required for ribosome biogenesis 4) Genes required to facilitate expression of all the above (chaperones, assembly factors).
+The genes necessary to form a regenerative central dogma can be categorized in four ways: 1) Enzymes encoded by one or a few genes (RNAP, tRNA synthetases, translation factors) 2) Genes required for tRNA biogenesis 3) Genes required for ribosome biogenesis 4) Genes required to facilitate expression of all the above (chaperones, assembly factors).
 
 Our belief is that successfully building out central dogma would be a key hallmark for the realization of building a molecularly defined cell. Achieving this would also greatly augment the ability for workers on synthetic cells to improve their own design and open the possibility of other cellular functions to be pursued.
 
