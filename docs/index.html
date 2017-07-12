@@ -4,32 +4,38 @@ layout: default
 
 <div class="home">
 
-<h1>Documentation</h1>
-  <!-- Look at icons at http://fontawesome.io/icons/ -->
-  <ul class="fa-ul">
-  <li><i class="fa fa-li fa-book"></i><a href="/engineering/about/">About</a>—an introduction to what we're doing.</li>
-  <li><i class="fa fa-li fa-ravelry"></i><a href="/engineering/build-a-cell/">Why Build-A-Cell?</a>—why this project exists.</li>
-  <li>
-  	<i class="fa fa-li fa-cogs"></i><a href="/engineering/devkit/">Development Kit</a>—an overview of what we've built.
-	<ul class="fa-ul">
-	  	<li><i class="fa fa-li fa-share-alt"></i><a href="/engineering/devkit/organism-breadboard/">Organism Breadboard</a>—a computational toolset.</li>
-      <li><i class="fa fa-li fa-tasks"></i><a href="/engineering/devkit/crispri-system/">CRISPRi</a>—a tool for knockdown of pathways and functions.</a></li>
-	 	<li><i class="fa fa-li fa-sun-o"></i><a href="/engineering/devkit/containers/">Container</a>—what we're using to house new genomes.</li>
-    </ul></li>
-    <li><i class="fa fa-li fa-code"></i><a href="/engineering/about/open-source/">Open Source</a>—free to share and use.</li>
-  </ul>
+<h1>What is Build-A-Cell?</h1>
+<p>The future of biotechnology is in realizing fully understood, lineage agnostic organisms, beginning with single cells.</p>
+<p>Building cells is hard. But, if we could better work together, then we should be able to build many cells for many purposes. Build-A-Cell is an open community supporting people working together to build a diversity of synthetic cells.</p>
 
-{% if site.posts.size > 0 %}
-<h1>Latest Updates</h1>
+<h1>Why?</h1>
+<p>Building a cell will do more than demonstrate and guide our understanding of life. It will create a biological platform upon which the next generation of biotechnology can be built. Rationally designed genomes will facilitate more rapid, more complex, and more controlled engineering. In the short term, this will provide tangible improvements across all areas of biotechnology application: human health, energy, environment, and industry. In the long term, we expect the combination of reliable forward engineering, an open and shared platform, and shared tools for abstraction and collaboration will lead to exponential growth in inspiration and innovation. We build a cell not for the applications we can predict, but for those that we can't.</p>
+
+<h1>Collaborate</h1>
+<p>The Build-A-Cell project welcomes anyone interested in contributing, anywhere. Join our <a href="http://buildacell-invite.slack.com">Slack team</a>. Check out our <a href="#projects">projects</a>. Jump in on the <a href="https://github.com/BuildACell/engineering">GitHub</a>.</p>
+
+<p>We are holding a Build-A-Cell workshop in Pasadena, California, on the 24th of July 2017. See <a href="/pasadena/">the workshop outline</a></p>
+
+
+<h1>What's happening?</h1>
+<h2>Molecules and Nucleotides</h2>
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
+  <li>Bottom Up Design and Testing in PURE</li>
+  <li>Middle Out Containers and Genomes</li>
+  <li>Whole Genome Conjugation</li>
+  <li>Phage-based Pathway Knockout</li>
+  <li>CRISPRi-based Pathway Knockout</li>
 </ul>
-{% endif %}
 
-<h1>Latest DOI</h1>
-The latest DOI release is <a href="https://zenodo.org/badge/latestdoi/72226803"><img src="https://zenodo.org/badge/72226803.svg" alt="DOI"></a>.
+<h2>Models</h2>
+<ul>
+  <li>PURE model</li>
+</ul>
+
+<h2>Distributed Development</h2>
+<ul>
+  <li>Developer Kit Distribution</li>
+  <li>Essential Gene Kits</li>
+  <li>Remote Run</li>
+</ul>
 </div>
