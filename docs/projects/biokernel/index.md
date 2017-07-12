@@ -6,7 +6,7 @@ weight: 5
 
 # Introduction
 
-<img class="biokernel-figure" src="/engineering/images/BioKernel.png">
+<img class="biokernel-figure" src="/engineering/images/Biokernel.png">
 
 The BioKernel is a set of genes and biomolecules defined at single-molecule resolution that when organized appropriately lead to a functioning, modellable, and understandable cell. It will possess the core components and functions necessary for an organism, and be developed in a manner amenable to the distributed construction of arbitrary organisms of desired function. For such a goal to be achieved, we believe the BioKernel will require a set of genes encoding a cell in which all biomolecules that are produced are accounted for, an operational understanding of the functionality of each biomolecule, and a comprehensive model of their abundances and locations and interactions over time.
 
