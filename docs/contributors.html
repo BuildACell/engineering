@@ -1,0 +1,46 @@
+---
+layout: page
+title: Contributors
+categories: metaproject
+mainmenu: true
+weight: 10
+published: true
+---
+
+<div class="contributors">
+  <div class="contributor">
+    <img src="/engineering/images/contributors/drewemoji.gif">
+
+    <h2>Drew Endy</h2>
+
+    <ul class="linkouts">
+      <li>OpenWetWare: <a href="http://www.openwetware.org/wiki/Drew_Endy">Endy</a></li>
+      <li>Twitter: @DrewEndy</li>
+      <li>GitHub: <a href="https://github.com/ugaug">ugaug</a></li>
+    </ul>
+  </div>
+
+  <div class="contributor">
+    <img src="/engineering/images/contributors/acjs.jpg">
+
+    <h2>Anton Jackson-Smith</h2>
+
+    <ul class="linkouts">
+      <li>OpenWetWare: <a href="http://www.openwetware.org/wiki/User:Anton_Jackson-Smith">Anton Jackson-Smith</a></li>
+      <li>Twitter: <a href="https://twitter.com/ajacksonsmith">@ajacksonsmith</a></li>
+      <li>GitHub: <a href="https://github.com/antonjs">antonjs</a></li>
+    </ul>
+  </div>
+</div>
+
+<script type="text/javascript">
+// From https://stackoverflow.com/questions/18483241/random-div-order-on-page-load
+
+var cards = $(".contributor");
+
+for (var i = 0; i < cards.length; i++){
+    var target = Math.floor(Math.random() * cards.length -1) + 1;
+    var target2 = Math.floor(Math.random() * cards.length -1) +1;
+    cards.eq(target).before(cards.eq(target2));
+}
+</script>
