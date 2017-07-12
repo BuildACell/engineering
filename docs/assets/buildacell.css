@@ -1,3 +1,8 @@
+.nav-divide {
+  padding: 0 1em;
+  border-left: 1px solid #cccccc;
+}
+
 .contributors {
 }
 
