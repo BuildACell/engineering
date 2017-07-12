@@ -34,7 +34,7 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
    <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">What is the strategy for developing the biokernel?</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">What is the strategy for developing the biokernel?</a>
         </h4>
       </div>
       <div id="collapse2" class="panel-collapse collapse">
@@ -51,7 +51,7 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
 	    <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">How can the biokernel be collaboratively developed?</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">How can the biokernel be collaboratively developed?</a>
         </h4>
       </div>
       <div id="collapse3" class="panel-collapse collapse">
@@ -68,7 +68,7 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
 	    <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">What is PURE?</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">What is PURE?</a>
         </h4>
       </div>
       <div id="collapse4" class="panel-collapse collapse">
