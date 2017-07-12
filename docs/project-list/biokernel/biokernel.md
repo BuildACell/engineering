@@ -39,7 +39,7 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
       </div>
       <div id="collapse3" class="panel-collapse collapse">
         <div class="panel-body">
-				<p style="text-align:center;"><img src="/engineering/images/Approaches.png"></p>
+				<p style="text-align:center;"><img src="/engineering/images/Approach.png"></p>
 		</div>
       </div>
     </div>
@@ -53,12 +53,11 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
       </div>
       <div id="collapse2" class="panel-collapse collapse">
         <div class="panel-body">
-		<p>Once seperate groups have made the decision to collaborate, the transaction cost for working together can be minimized through two benchmarks.</p>
-		<p style="text-align:center;"><img src="/engineering/images/Distribution.png"></p>
+		<p>Once separate groups have made the decision to collaborate, the transaction cost for working together can be minimized through two benchmarks.</p>
+		<p style="text-align:center;"><img src="/engineering/images/Distribution.png" width = "500"></p>
 		<p>The forward engineering of an entire genome provides opportunity for modularization and distributed development across multiple individuals and labs.</p>
-		<p style="text-align:center;"><img src="/engineering/images/Standards.png"></p>
+		<p style="text-align:center;"><img src="/engineering/images/Standards.png" width = "500"></p>
 		<p>The testing of designs of an ensemble of defined molecular compenents that is accessible promotes communication and reproducibility of results for communal development.</p>
-		
 		</div>
       </div>
     </div>
