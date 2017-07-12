@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "The Unix Philosophy"
+permalink: "/about/unix-philosophy/"
 ---
 Dennis Ritchie and Ken Thompson discussing Unix and the importance of distributed,
 modularized development.
