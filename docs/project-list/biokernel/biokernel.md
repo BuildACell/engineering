@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Biokernel
 permalink: /biokernel/
 weight: 5
 ---
@@ -14,7 +13,7 @@ weight: 5
 </head>
 <body>
 
-<p style="text-align:center;"><img src="/engineering/images/Biokernel.png"></p>
+<img src="/engineering/images/Biokernel.png">
 
 <div class="container">
   <div class="panel-group">
