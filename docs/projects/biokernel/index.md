@@ -20,12 +20,12 @@ The BioKernel is a set of genes and biomolecules defined at single-molecule reso
 * [What are the tools necessary to build out the BioKernel?](#what-are-the-tools-necessary-to-build-out-the-biokernel)
 * [How can I learn more?/How can I contribute?](http://buildacell-invite.herokuapp.com/)
 
-# What is the strategy for developing the biokernel?
+# What is the strategy for developing the BioKernel?
 
 <img class="biokernel-figure" src="/engineering/images/Approach.png">
 
 
- Construction of a semi-synthetic cell, or the design of a synthetic genome encoding and operating within single-molecule resolution defined biomolecules derived from natural organisms, is the most technically approachable path towards the goal of a understandable cell.
+ Construction of a semi-synthetic cell, or the design of a synthetic genome encoding and operating within single-molecule resolution defined biomolecules derived from natural organisms, is the most technically approachable path towards the goal of a functional molecularly defined cell.
 
 
 <img class="biokernel-figure" src="/engineering/images/in vitro.png">
