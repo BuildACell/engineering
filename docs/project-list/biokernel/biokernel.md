@@ -25,7 +25,8 @@ weight: 5
         </h4>
       </div>
       <div id="collapse1" class="panel-collapse collapse">
-        <div class="panel-body">This is the answer.</div>
+        <div class="panel-body">The biokernel is the genome and associated biomolecules that comprise a molecularly defined cell that can be computationally simulated. It will possess the core components and functions necessary for an organism and developed and constructed in a manner to form the basis in which designers can construct arbitrary organisms of desired function.
+For this to be achieved, we believe it will require a genome encoding a cell in which all biomolecules that are produced are accounted for, operational understanding of the functionality of each biomolecule, and a comprehensive model of their abundancies and position over time.</div>
       </div>
     </div>
     <div class="panel panel-default">
