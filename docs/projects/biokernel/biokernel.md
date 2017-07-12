@@ -93,13 +93,13 @@ weight: 5
         <p style="text-align:center;"><img src="/engineering/images/One.png" width = "600"></p>
        	<p>Constructs can be measured and prototyped on the same time order of the biochemical reactions taking place (no need to wait for cells to grow!).</p>
         <p style="text-align:center;"><img src="/engineering/images/Two.png" width = "600"></p>
-        <p>The reconstituted cytosol can be defined to your choosing allowing for measuring perturbations and changes that occur through tuning of the collections of biomolecules.</p>
+        <p>The reconstituted cytosol can be defined to your choosing enabling quantification of perturbations and changes that occur through tuning of the collections of biomolecules.</p>
 		<p style="text-align:center;"><img src="/engineering/images/Three.png" width = "600"></p>
-        <p>Collections of genes can be measured to confirm that the biomolecules expressed do indeed perform their predicted function.</p>
+        <p>Collections of genes can be measured to confirm that the biomolecules expressed perform their predicted function.</p>
 		<p style="text-align:center;"><img src="/engineering/images/Four.png" width = "600"></p>
         <p>If the molecule to perform a specific biochemical function is unknown, then systematic screens can be used to discover genes that perform unknown functions.</p>
         
-        <p>The major drawback of PURE (aside from cost) is that what you prototype in PURE has a risk of not working in another in vitro or in vivo context. Thus it is highly advisable to build out of the same context to test within - build out a cell from defined reconstituted biomolecules expressing a synthetic genome.</p>
+        <p>The major drawback of PURE (aside from cost) is that what you prototype in PURE has a risk of not working in another in vitro or in vivo context. Thus it is highly advisable to build out of the same context as the testbed - build out a cell from defined reconstituted biomolecules expressing a synthetic genome.</p>
         
         </div>
       </div>
