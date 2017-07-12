@@ -7,27 +7,12 @@ weight: 10
 published: true
 ---
 
-Build-A-Cell is a distributed and global project. If you're captivated by any aspect of the project, get going and share your work. Yearning to build a cell but don't know where to begin? Check our [list of ideas](/engineering/about/bootsequence/) for a place to start.
+Build-A-Cell is a distributed and global project. If you're captivated by any aspect of the project, get going and share your work. Yearning to build a cell but don't know where to begin? Follow the instructions on this page and start contributing.
 
 ## Contributing to the Website
 There are a number of ways to contribute to this website. Regardless of which option you choose, you'll need to make an account on [GitHub](https://github.com/join). Your account then needs to be added to the Build-A-Cell team. Please [contact us](mailto:atg@buildacell.io) to get added to the team, or check the 'Forking the Repository' section of this document for other options.
 
 Once you have a GitHub account, there are three options for editing the website: prose.io, which is easier but less powerful; directly editing in github, and downloading a local copy of the repository.
-
-### Editing with prose.io
-[Prose.io](http://prose.io) is an easy-to-use online editor with support for both Markdown (the format we write web pages in), and GitHub pages/Jekyll (the technology that generates our website). To use prose.io, just [visit the website](http://prose.io) and authenticate with your GitHub account. You will then see a list of the repositories to which you have access. Filter by BuildACell in the right panel, and select the 'engineering' project from the list.
-
-You will be presented with a list of files and directories available for editing. There are two kinds of webpages you can add: *pages*, which form the main website, and *posts*, which are dated and presented as updates or entries in a lab notebook. To edit a page or post, navigate to it and open it in prose. To create a new page, choose the appropriate directory (about, devkit, etc), and create a new file within it. To create a new post, create a file under the `_posts` directory and ensure its filename begins with the date. All file names should be lowercase, separated by hyphens, and end in `.md` for markdown. 
-
-For example, to create a new page relating to the development kit, navigate to the `devkit` directory and create a new file. Prose will suggest a filename at the top, change this to reflect the page: `my-new-page.md`. Note that we do not include the date, since this is a page.
-
-You can now create the pages content by directly entering [Markdown](http://daringfireball.net/projects/markdown/) or using the widgets to insert headers, links, etc. To link to other pages on the website, the easiest means is to make a markdown link pointing to the page's *relative path*. On our website, this looks like `/engineering/<directory>/<page name>/`. For example, to link to the 'Unix philosophy' page in the 'about' section, we would link to `/engineering/about/unix-philosophy/`. The overall markdown code looks like: `[Unix Philosophy](/engineering/about/unix-philosophy/)`.
-
-Once you have finished creating or editing the new page, you can preview it by clicking on the eye icon to the right of the editor. If the page is correct, the next step is to *commit* it to the git repository. This adds your changes to the permanent history of the website, and publishes it online. For more information, see our instructions on [git](#git) below.
-
-To commit, click on the save icon to the right. You will be presented with a list of your changes and a commit button. Add a message describing your changes (for example, "Added new instructions on how to contribute"), and click commit. Your changes should be visible on the website shortly.
-
-Prose has more features, such as writing draft posts (which won't be visible on the website) and then publishing them later. Check out the internal help for more details.
 
 ### Editing in GitHub
 
