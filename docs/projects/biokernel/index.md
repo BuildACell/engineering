@@ -13,11 +13,11 @@ The BioKernel is a set of genes and biomolecules defined at single-molecule reso
 # Contents
 
 * [What is the strategy for developing the BioKernel?](#what-is-the-strategy-for-developing-the-biokernel)
-* [How can the biokernel be collaboratively developed?](#how-can-the-biokernel-be-collaboratively-developed)
+* [How can the BioKernel be collaboratively developed?](#how-can-the-biokernel-be-collaboratively-developed)
 * [What is PURE?](#what-is-pure)
 * [What are the advantages of building out from PURE?](#what-are-the-advantages-of-building-out-from-pure)
 * [What is the first module being developed?](#what-is-the-first-module-being-developed)
-* [What are the tools necessary to build out the biokernel?](#what-are-the-tools-necessary-to-build-out-the-biokernel)
+* [What are the tools necessary to build out the BioKernel?](#what-are-the-tools-necessary-to-build-out-the-biokernel)
 * [How can I learn more?/How can I contribute?](http://buildacell-invite.herokuapp.com/)
 
 # What is the strategy for developing the biokernel?
@@ -33,9 +33,9 @@ The BioKernel is a set of genes and biomolecules defined at single-molecule reso
  The prototyping platform to validate modules involves the design of chosen genes encoding the production of biomolecules to perform functions, building and integrating those genetic constructs and reconstituted cytosol, and testing them in a defined background while taking the requisite measurements to inform the next design cycle.
 
 
-# How can the biokernel be collaboratively developed?
+# How can the BioKernel be collaboratively developed?
 
-Once separate groups have made the decision to collaborate, the transaction cost for working together can be minimized through two benchmarks.
+Once separate groups have made the decision to collaborate, the transaction cost for working together can be minimized through two modalities.
 
 <img class="biokernel-figure" src="/engineering/images/Distribution.png">
 
@@ -92,7 +92,7 @@ The genes necessary to form a regenerative central dogma can be categorized in f
 Our belief is that successfully building out central dogma would be a key hallmark for the realization of building a molecularly defined cell. Achieving this would also greatly augment the ability for workers on synthetic cells to improve their own design and open the possibility of other cellular functions to be pursued.
 
 
-# What are the tools necessary to build out the biokernel?
+# What are the tools necessary to build out the BioKernel?
 
 The following are a set of tools that are essential to engineering a molecularly defined understandable cell. All these tools are/will be made available to anyone who wishes to use them for purposes of collaboration or using for their own work.
 
