@@ -13,7 +13,7 @@ weight: 5
 </head>
 <body>
 
-<img src="/engineering/images/Biokernel.png">
+<p style="text-align:center;"><img src="/engineering/images/Biokernel.png"></p>
 
 <div class="container">
 
