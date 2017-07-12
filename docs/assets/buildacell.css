@@ -3,6 +3,17 @@
   border-left: 1px solid #cccccc;
 }
 
+.post-content h1 {
+  margin-top: 2em;
+}
+
+.biokernel-figure {
+  display: block;
+  width: 80%;
+  margin: 0.8em auto 0.8em auto;
+  padding: 0.5em;
+}
+
 .contributors {
 }
 
