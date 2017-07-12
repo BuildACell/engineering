@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Phage Based Pathway Knockout
-mainmenu: true
+mainmenu: false
 weight: 5
 ---
 
