@@ -98,4 +98,4 @@ The following are a set of tools that are essential to engineering a molecularly
 
 <img class="biokernel-figure" src="/engineering/images/DevKit.png">
 
-Join the [Build-A-Cell Slack](http://buildacell-invite.herokuapp.com/)
+Join the [Build-A-Cell Slack](http://buildacell-invite.herokuapp.com/) for more info.
