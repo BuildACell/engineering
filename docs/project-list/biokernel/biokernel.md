@@ -2,7 +2,6 @@
 layout: page
 title: Biokernel
 permalink: /biokernel/
-mainmenu: true
 weight: 5
 ---
 
