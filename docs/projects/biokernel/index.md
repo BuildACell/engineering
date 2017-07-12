@@ -6,6 +6,8 @@ weight: 5
 
 # Introduction
 
+<img class="biokernel-figure" src="/engineering/images/BioKernel.png">
+
 The BioKernel is a set of genes and biomolecules defined at single-molecule resolution that when organized appropriately lead to a functioning, modellable, and understandable cell. It will possess the core components and functions necessary for an organism, and be developed in a manner amenable to the distributed construction of arbitrary organisms of desired function. For such a goal to be achieved, we believe the BioKernel will require a set of genes encoding a cell in which all biomolecules that are produced are accounted for, an operational understanding of the functionality of each biomolecule, and a comprehensive model of their abundances and locations and interactions over time.
 
 # Contents
@@ -16,6 +18,7 @@ The BioKernel is a set of genes and biomolecules defined at single-molecule reso
 * [What are the advantages of building out from PURE?](#what-are-the-advantages-of-building-out-from-pure)
 * [What is the first module being developed?](#what-is-the-first-module-being-developed)
 * [What are the tools necessary to build out the biokernel?](#what-are-the-tools-necessary-to-build-out-the-biokernel)
+* [How can I learn more?/How can I contribute?](http://buildacell-invite.herokuapp.com/)
 
 # What is the strategy for developing the biokernel?
 
@@ -94,3 +97,5 @@ Our belief is that successfully building out central dogma would be a key hallma
 The following are a set of tools that are essential to engineering a molecularly defined understandable cell. All these tools are/will be made available to anyone who wishes to use them for purposes of collaboration or using for their own work.
 
 <img class="biokernel-figure" src="/engineering/images/DevKit.png">
+
+Join the [Build-A-Cell Slack](http://buildacell-invite.herokuapp.com/)
