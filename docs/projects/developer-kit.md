@@ -8,11 +8,11 @@ Our developer kit consists of an open-source and freely-redistributable toolkit 
 
 # Kit Components
 * *In vitro*
-  * [PURE Reaction Mixture](/engineering/projects/biokernel/pure)
-  * [PURE Vectors](/engineering/projects/biokernel/pure)
-  * [BioKernel Module Constructs](/engineering/projects/biokernel/modules)
+  * [PURE Reaction Mixture](/engineering/projects/biokernel/)
+  * [PURE Vectors](/engineering/projects/biokernel/)
+  * [BioKernel Module Constructs](/engineering/projects/biokernel/)
 * *In vivo*
   * [Phage-based Pathway Knockdown](/engineering/projects/phage-based-pathway-knockdown/)
   * [Whole Genome Conjugation Toolkit](/engineering/projects/whole-genome-conjugation/)
 * Software
-  * [BioKernel Model](/engineering/projects/biokernel/model)
+  * [BioKernel Model](/engineering/projects/biokernel/)
