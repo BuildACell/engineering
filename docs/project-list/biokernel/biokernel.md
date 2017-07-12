@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Build an Engineerable Cell
-permalink: /bae-cell/
+title: Biokernel
+permalink: /biokernel/
 mainmenu: true
 weight: 5
 ---
