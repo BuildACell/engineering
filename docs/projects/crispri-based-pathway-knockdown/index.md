@@ -1,12 +1,12 @@
 ---
 layout: page
 title: CRISPRi Based Pathway Knockdown
-mainmenu: true
+mainmenu: false
 weight: 5
 ---
 
 ## What
-A CRISPRi tool for knockdown based module development. 
+A CRISPRi tool for knockdown based module development.
 
 ![Blockdiagram](/engineering/images/Fig4_CRISPRiBlock.png)
 
@@ -16,7 +16,7 @@ A CRISPRi tool for knockdown based module development.
 Instead of complete removal, it may be useful to be able to knockdown the function of a part, device, circuit or module in a genome.
 
 ## How
-Clustered Regularly Interspaced Short Palindromic Repeats Inhibition (CRISPRi) -based system coupled with CRISPathBrick arrays. 
+Clustered Regularly Interspaced Short Palindromic Repeats Inhibition (CRISPRi) -based system coupled with CRISPathBrick arrays.
 
 ## What Is Success
 A versatile platform for knockdown-based development.
@@ -40,7 +40,3 @@ We constructed a protospacer to knockdown the histidine biosynthetic pathway by 
 | His.P  | Minimal + His    | Y|
 | His2.NP  | Minimal + His    | |
 | His2.P  | Minimal + His    | Y|
-
-
-
-

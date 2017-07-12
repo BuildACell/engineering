@@ -2,7 +2,7 @@
 layout: page
 title:  "Protocols"
 categories: protocols
-mainmenu: true
+mainmenu: false
 weight: 20
 ---
 
