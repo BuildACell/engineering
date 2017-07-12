@@ -80,8 +80,30 @@ weight: 5
 		</div>
       </div>
     </div>
-
 	
+        <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">What are the advantages of building out from PURE?</a>
+        </h4>
+      </div>
+      <div id="collapse5" class="panel-collapse collapse">
+        <div class="panel-body">
+        <p>There are four distinct advantages for using PURE to build a cell.</p>
+        <p style="text-align:center;"><img src="/engineering/images/One.png" width = "600"></p>
+       	<p>Constructs can be measured and prototyped on the same time order of the biochemical reactions taking place (no need to wait for cells to grow!).</p>
+        <p style="text-align:center;"><img src="/engineering/images/Two.png" width = "600"></p>
+        <p>The reconstituted cytosol can be defined to your choosing allowing for measuring perturbations and changes that occur through tuning of the collections of biomolecules.</p>
+		<p style="text-align:center;"><img src="/engineering/images/Three.png" width = "600"></p>
+        <p>Collections of genes can be measured to confirm that the biomolecules expressed do indeed perform their predicted function.</p>
+		<p style="text-align:center;"><img src="/engineering/images/Four.png" width = "600"></p>
+        <p>If the molecule to perform a specific biochemical function is unknown, then systematic screens can be used to discover genes that perform unknown functions.</p>
+        
+        <p>The major drawback of PURE (aside from cost) is that what you prototype in PURE has a risk of not working in another in vitro or in vivo context. Thus it is highly advisable to build out of the same context to test within - build out a cell from defined reconstituted biomolecules expressing a synthetic genome.</p>
+        
+        </div>
+      </div>
+    </div>
 	
 	
 	
