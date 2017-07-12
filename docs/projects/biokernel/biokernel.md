@@ -135,11 +135,30 @@ weight: 5
       </div>
       <div id="collapse7" class="panel-collapse collapse">
         <div class="panel-body">
-        <p>The following are a set of tools that are essential to engineering a molecularly defined simulatable cell and are/will be made available to anyone who wishes to use them.</p>
+        <p>The following are a set of tools that are essential to engineering a molecularly defined simulatable cell and are/will be made available to anyone who wishes to use them for purposes of collaboration or their own work.</p>
 		<p style="text-align:center;"><img src="/engineering/images/DevKit.png" width = "600"></p>
         </div>
       </div>
     </div>
+	
+	
+        <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">How can I learn more?/How can I contribute?</a>
+        </h4>
+      </div>
+      <div id="collapse8" class="panel-collapse collapse">
+        <div class="panel-body">
+ 		Stanford Team: based in the <a href="http://www.openwetware.org/wiki/Endy_Lab">Endy Lab</a>
+        Contact: endy AT stanford.edu
+        
+        Join the <a href="http://buildacell-invite.herokuapp.com/">Build-A-Cell Slack channel</a>
+        </div>
+      </div>
+    </div>
+
+     
 	
   </div> 
 </div>
