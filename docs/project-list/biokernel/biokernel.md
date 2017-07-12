@@ -39,9 +39,9 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
       </div>
       <div id="collapse3" class="panel-collapse collapse">
         <div class="panel-body">
-				<p style="text-align:center;"><img src="/engineering/images/Approach.png" width = "500"></p>
+				<p style="text-align:center;"><img src="/engineering/images/Approach.png" width = "700"></p>
 				<p> Construction of a semi-synthetic cell, or the design of a synthetic genome encoding and operating within biomolecules derived from natural organisms, is the most technically approachable path towards the goal of a molecularly defined simulatable cell. </p>
-				<p style="text-align:center;"><img src="/engineering/images/in vitro.png" width = "500"></p>
+				<p style="text-align:center;"><img src="/engineering/images/in vitro.png" width = "850"></p>
 				<p> The prototyping platform to validate modules involve the design of chosen genes encoding the production of biomolecules to perform functions, building and integrating those genetic constructs and reconstituted cytosol, and testing them in a defined background while taking the requisite measurements to inform the next design cycle. </p>	
 		</div>
       </div>
