@@ -26,9 +26,25 @@ weight: 5
       </div>
       <div id="collapse1" class="panel-collapse collapse">
         <div class="panel-body">The biokernel is the genome and associated biomolecules that comprise a molecularly defined cell that can be computationally simulated. It will possess the core components and functions necessary for an organism and developed and constructed in a manner to form the basis in which designers can construct arbitrary organisms of desired function.
-For this to be achieved, we believe it will require a genome encoding a cell in which all biomolecules that are produced are accounted for, operational understanding of the functionality of each biomolecule, and a comprehensive model of their abundancies and position over time.</div>
+For this to be achieved, we believe it will require a genome encoding a cell in which all biomolecules that are produced are accounted for, operational understanding of the functionality of each biomolecule, and a comprehensive model of their abundancies and positions over time.</div>
       </div>
     </div>
+	
+	
+   <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">What is the strategy for developing the biokernel?</a>
+        </h4>
+      </div>
+      <div id="collapse3" class="panel-collapse collapse">
+        <div class="panel-body">
+				<p style="text-align:center;"><img src="/engineering/images/Approaches.png"></p>
+		</div>
+      </div>
+    </div>
+
+	
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
@@ -36,17 +52,14 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
         </h4>
       </div>
       <div id="collapse2" class="panel-collapse collapse">
-        <div class="panel-body">Yes.</div>
-      </div>
-    </div>
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">What is the strategy for developing the biokernel?</a>
-        </h4>
-      </div>
-      <div id="collapse3" class="panel-collapse collapse">
-        <div class="panel-body">Will be explained.</div>
+        <div class="panel-body">
+		<p>Once seperate groups have made the decision to collaborate, the transaction cost for working together can be minimized through two benchmarks.</p>
+		<p style="text-align:center;"><img src="/engineering/images/Distribution.png"></p>
+		<p>The forward engineering of an entire genome provides opportunity for modularization and distributed development across multiple individuals and labs.</p>
+		<p style="text-align:center;"><img src="/engineering/images/Standards.png"></p>
+		<p>The testing of designs of an ensemble of defined molecular compenents that is accessible promotes communication and reproducibility of results for communal development.</p>
+		
+		</div>
       </div>
     </div>
   </div> 
