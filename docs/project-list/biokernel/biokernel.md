@@ -37,7 +37,7 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">What is the strategy for developing the biokernel?</a>
         </h4>
       </div>
-      <div id="collapse3" class="panel-collapse collapse">
+      <div id="collapse2" class="panel-collapse collapse">
         <div class="panel-body">
 				<p style="text-align:center;"><img src="/engineering/images/Approach.png" width = "700"></p>
 				<p> Construction of a semi-synthetic cell, or the design of a synthetic genome encoding and operating within biomolecules derived from natural organisms, is the most technically approachable path towards the goal of a molecularly defined simulatable cell. </p>
@@ -47,22 +47,6 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
       </div>
     </div>
 	
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">How can the biokernel be collaboratively developed?</a>
-        </h4>
-      </div>
-      <div id="collapse2" class="panel-collapse collapse">
-        <div class="panel-body">
-		<p>Once separate groups have made the decision to collaborate, the transaction cost for working together can be minimized through two benchmarks.</p>
-		<p style="text-align:center;"><img src="/engineering/images/Distribution.png" width = "500"></p>
-		<p><strong>Distributed development</strong>The forward engineering of an entire genome provides opportunity for modularization and distributed development across multiple individuals and labs.</p>
-		<p style="text-align:center;"><img src="/engineering/images/Standards.png" width = "500"></p>
-		<p><strong>Standardization and Reproducibility</strong>The testing of designs within the background of an ensemble of defined molecular compenents that is also accessible promotes communication and reproducibility of results for communal development.</p>
-		</div>
-      </div>
-    </div>
 	
 	    <div class="panel panel-default">
       <div class="panel-heading">
@@ -70,7 +54,7 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">How can the biokernel be collaboratively developed?</a>
         </h4>
       </div>
-      <div id="collapse2" class="panel-collapse collapse">
+      <div id="collapse3" class="panel-collapse collapse">
         <div class="panel-body">
 		<p>Once separate groups have made the decision to collaborate, the transaction cost for working together can be minimized through two benchmarks.</p>
 		<p style="text-align:center;"><img src="/engineering/images/Distribution.png" width = "500"></p>
@@ -87,7 +71,7 @@ For this to be achieved, we believe it will require a genome encoding a cell in 
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">What is PURE?</a>
         </h4>
       </div>
-      <div id="collapse3" class="panel-collapse collapse">
+      <div id="collapse4" class="panel-collapse collapse">
         <div class="panel-body">
 		<p>PURE is a reconstituted expression system (mostly from E. coli) developed by <a href="http://www.nature.com/nbt/journal/v19/n8/full/nbt0801_751.html">Ueda et al. in 2001</a>. It contains all the purified components required to generate a polypeptide sequence from a DNA template. Its composition provides a <strong>defined</strong> background to drive consistent expression and can be used as the fundamental basis for building out into a cell.</p>
 		<p style="text-align:center;"><img src="/engineering/images/PUREdata.png" width = "400"></p>
