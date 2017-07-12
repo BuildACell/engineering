@@ -60,7 +60,7 @@ weight: 5
         <div class="panel-body">
 		<p>Once separate groups have made the decision to collaborate, the transaction cost for working together can be minimized through two benchmarks.</p>
 		<p style="text-align:center;"><img src="/engineering/images/Distribution.png" width = "500"></p>
-		<p><strong>Distributed development: </strong>The forward engineering of an entire genome provides opportunity for modularization and distributed development across multiple individuals and labs.</p>
+		<p><strong>Distributed Development: </strong>The forward engineering of an entire genome provides opportunity for modularization and distributed development across multiple individuals and labs.</p>
 		<p style="text-align:center;"><img src="/engineering/images/Standards.png" width = "500"></p>
 		<p><strong>Standardization and Reproducibility: </strong>The testing of designs within the background of an ensemble of defined molecular components that is also accessible promotes communication and reproducibility of results for communal development.</p>
 		</div>
@@ -117,19 +117,29 @@ weight: 5
         
         <p>Several different functional modules will be required to build up a cell, including growth, division, and replication of its genome.</p>
         <p style="text-align:center;"><img src="/engineering/images/CDog.png" width = "700"></p>
-        <p>One fundamental aspect is for the cell to internally replicate and regenerate all of the components necessary for gene expression. Stated differently, what is the DNA that when expressed in an expression system remakes said expression system? A defined purified reconstituted expression is a tractable approach for answering this question.</p>
+        <p>One fundamental aspect is for the cell to internally replicate and regenerate all of the components necessary for gene expression. Stated differently, what is the DNA that when expressed in an expression system remakes said expression system? Working through a way to reinstantiate a defined purified reconstituted expression is a tractable approach for answering this question.</p>
         <p style="text-align:center;"><img src="/engineering/images/CDogGenes.png" width = "700"></p>
-        <p>The genes necessary to form a regenerative central dogma can be categorized in four ways: 1) Enzymes encoded by 1 or a few genes (RNAP, tRNA synthetases, translation factors) 2) genes required for tRNA biogenesis 3) genes required for ribosome biogenesis 4) genes required to facilitate expression of all the above (chaperones, assembly factors).</p>
+        <p>The genes necessary to form a regenerative central dogma can be categorized in four ways: 1) Enzymes encoded by 1 or a few genes (RNAP, tRNA synthetases, translation factors) 2) Genes required for tRNA biogenesis 3) Genes required for ribosome biogenesis 4) Genes required to facilitate expression of all the above (chaperones, assembly factors).</p>
         
-        <p>Our belief is that successfully building out central dogma would be a key hallmark for the realization of a molecularly defined cell. Achieving this would also greatly augment the ability for workers on synthetic cells to improve their own design and open the possibility of other cellular functions to be pursued.</p>
-        
-        
+        <p>Our belief is that successfully building out central dogma would be a key hallmark for the realization of building a molecularly defined cell. Achieving this would also greatly augment the ability for workers on synthetic cells to improve their own design and open the possibility of other cellular functions to be pursued.</p>
         
         </div>
       </div>
     </div>
 
-	
+	        <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">What are the tools necessary to build out the biokernel?</a>
+        </h4>
+      </div>
+      <div id="collapse7" class="panel-collapse collapse">
+        <div class="panel-body">
+        <p>The following are a set of tools that are essential to engineering a molecularly defined simulatable cell and are/will be made available to anyone who wishes to use them.</p>
+		<p style="text-align:center;"><img src="/engineering/images/DevKit.png" width = "600"></p>
+        </div>
+      </div>
+    </div>
 	
   </div> 
 </div>
