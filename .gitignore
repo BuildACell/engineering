@@ -3,3 +3,4 @@ _site
 .DS_Store
 *.sublime-project
 buildacell-engineering.sublime-workspace
+.ipynb_checkpoints/
