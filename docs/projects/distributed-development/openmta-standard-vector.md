@@ -90,7 +90,7 @@ Any and all feedback will be taken into consideration!
 
 # Map
 
-![pOpenMTA Plasmid Map](https://github.com/BuildACell/engineering/blob/master/distributed-development/openmta-vectors/pOpenMTA v1 map.svg?raw=true)
+![pOpenMTA Plasmid Map](https://github.com/BuildACell/engineering/blob/master/distributed-development/openmta-vectors/pOpenMTA v1 map.png?raw=true)
 
 Download the design in GenBank format: [pOpenMTA.gb](https://github.com/BuildACell/engineering/blob/master/distributed-development/openmta-vectors/pOpenMTA.gb)
 
