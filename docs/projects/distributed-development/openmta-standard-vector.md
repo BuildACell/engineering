@@ -89,7 +89,7 @@ Any and all feedback will be taken into consideration!
 
 # Map
 
-![pOpenMTA Plasmid Map](https://github.com/BuildACell/engineering/blob/master/distributed-development/openmta-vectors/pOpenMTA v1 map.png)
+![pOpenMTA Plasmid Map](https://github.com/BuildACell/engineering/blob/master/distributed-development/openmta-vectors/pOpenMTA v1 map.png?raw=true)
 # Use
 
 Please see the [Assembly Strategy](/engineering/project/distributed-development/openmta-assembly-strategy/)
