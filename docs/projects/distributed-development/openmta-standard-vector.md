@@ -1,6 +1,7 @@
 ---
 layout: page
 title: OpenMTA Standard Vector
+permalink: /projects/distributed-development/openmta-standard-vector/
 ---
 
 # Introduction
@@ -92,7 +93,7 @@ Any and all feedback will be taken into consideration!
 ![pOpenMTA Plasmid Map](https://github.com/BuildACell/engineering/blob/master/distributed-development/openmta-vectors/pOpenMTA v1 map.png?raw=true)
 # Use
 
-Please see the [Assembly Strategy](/engineering/project/distributed-development/openmta-assembly-strategy.html)
+Please see the [Assembly Strategy](/engineering/projects/distributed-development/standard-vector-assembly-strategy/)
 
 ## References
 [^1]: "The replicative polymerases PolC and DnaE are required for theta replication of the Bacillus subtilis plasmid pBS72", http://www.microbiologyresearch.org/docserver/fulltext/micro/152/5/1471.pdf
