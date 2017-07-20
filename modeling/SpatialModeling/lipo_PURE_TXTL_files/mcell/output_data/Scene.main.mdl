@@ -1,0 +1,63 @@
+INCLUDE_FILE = "Scene.parameters.mdl"
+
+ITERATIONS = 80000
+TIME_STEP = dte*1000
+VACANCY_SEARCH_DISTANCE = 10
+
+INCLUDE_FILE = "Scene.initialization.mdl"
+
+INCLUDE_FILE = "Scene.molecules.mdl"
+
+INCLUDE_FILE = "Scene.surface_classes.mdl"
+
+INCLUDE_FILE = "Scene.reactions.mdl"
+
+INCLUDE_FILE = "Scene.geometry.mdl"
+
+INCLUDE_FILE = "Scene.mod_surf_regions.mdl"
+
+INSTANTIATE Scene OBJECT
+{
+  liposome OBJECT liposome {}
+  pole RELEASE_SITE
+  {
+   SHAPE = Scene.liposome[pole1]
+   MOLECULE = b'
+   NUMBER_TO_RELEASE = 100
+   RELEASE_PROBABILITY = 1
+  }
+  center RELEASE_SITE
+  {
+   SHAPE = SPHERICAL
+   LOCATION = [0, 0, 0]
+   SITE_DIAMETER = 0
+   MOLECULE = p
+   NUMBER_TO_RELEASE = 100
+   RELEASE_PROBABILITY = 1
+  }
+  spherical_ribosome RELEASE_SITE
+  {
+   SHAPE = SPHERICAL
+   LOCATION = [0, 0, 0]
+   SITE_DIAMETER = 0
+   MOLECULE = r
+   NUMBER_TO_RELEASE = 100
+   RELEASE_PROBABILITY = 1
+  }
+  spherical_nucleotides RELEASE_SITE
+  {
+   SHAPE = SPHERICAL
+   LOCATION = [0, 0, 0]
+   SITE_DIAMETER = 0
+   MOLECULE = n
+   NUMBER_TO_RELEASE = 100
+   RELEASE_PROBABILITY = 1
+  }
+}
+
+sprintf(seed,"%05g",SEED)
+
+INCLUDE_FILE = "Scene.viz_output.mdl"
+
+INCLUDE_FILE = "Scene.rxn_output.mdl"
+

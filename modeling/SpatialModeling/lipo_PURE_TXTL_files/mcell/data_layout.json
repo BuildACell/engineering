@@ -1,0 +1,8 @@
+{
+ "version": 2,
+ "data_layout": [
+  ["/DIR", ["output_data"]],
+  ["/FILE_TYPE", ["react_data", "viz_data"]],
+  ["/SEED", [1]]
+ ]
+}

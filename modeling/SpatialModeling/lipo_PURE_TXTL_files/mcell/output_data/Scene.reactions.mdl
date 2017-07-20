@@ -1,0 +1,10 @@
+DEFINE_REACTIONS
+{
+  b' + p, <-> c1, [>k1f, <k1r]
+  c2, -> b' + p, + m, [alphpt] : q
+  m + r <-> d [>k1ft, <k1rt]
+  d -> m + r + x [beta]
+  c1, + n; -> c2, [knuc]
+  m -> NULL [kdeg]
+}
+

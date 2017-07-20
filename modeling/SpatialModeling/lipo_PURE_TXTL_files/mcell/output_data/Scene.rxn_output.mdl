@@ -1,0 +1,15 @@
+REACTION_DATA_OUTPUT
+{
+  OUTPUT_BUFFER_SIZE=100
+  STEP=1
+  {COUNT[b,WORLD]}=> "./react_data/seed_" & seed & "/b.World.dat"
+  {COUNT[p,WORLD]}=> "./react_data/seed_" & seed & "/p.World.dat"
+  {COUNT[c1,WORLD]}=> "./react_data/seed_" & seed & "/c1.World.dat"
+  {COUNT[m,WORLD]}=> "./react_data/seed_" & seed & "/m.World.dat"
+  {COUNT[r,WORLD]}=> "./react_data/seed_" & seed & "/r.World.dat"
+  {COUNT[d,WORLD]}=> "./react_data/seed_" & seed & "/d.World.dat"
+  {COUNT[x,WORLD]}=> "./react_data/seed_" & seed & "/x.World.dat"
+  {COUNT[n,WORLD]}=> "./react_data/seed_" & seed & "/n.World.dat"
+  {COUNT[c2,WORLD]}=> "./react_data/seed_" & seed & "/c2.World.dat"
+}
+

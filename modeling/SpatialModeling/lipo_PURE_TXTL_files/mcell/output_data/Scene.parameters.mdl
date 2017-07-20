@@ -1,0 +1,11 @@
+/* DEFINE PARAMETERS */
+k1f = 0.29/(8.21e-9)
+k1r = 0.29
+alphpt = 0.1020368
+dte = 2e-06
+beta = 2.5e-2
+k1ft = 7.75e4
+k1rt = 0.01
+knuc = 10e11
+kdeg = 3e-3
+
