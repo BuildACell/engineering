@@ -1,0 +1,8 @@
+MODIFY_SURFACE_REGIONS
+{
+  liposome[ALL]
+  {
+    SURFACE_CLASS = pole
+  }
+}
+
