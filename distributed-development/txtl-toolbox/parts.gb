@@ -1,0 +1,2421 @@
+LOCUS       P70a                      77 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part P70a.
+ACCESSION   P70a
+VERSION     P70a
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="X"
+     regulatory      12..66
+                     /standard_name="P70a"
+                     /label="P70a"
+                     /regulatory_class="promoter"
+     misc_feature    67..<70
+                     /function="MoClo Adapter"
+                     /standard_name="i0"
+     misc_feature    71..77
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcagga gtgagctaac accgtgcgtg ttgacaattt tacctctggc ggtgataatg
+       61 gttgcatact tgagacc
+//
+LOCUS       P19a                      64 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part P19a.
+ACCESSION   P19a
+VERSION     P19a
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="X"
+     regulatory      12..53
+                     /standard_name="P19a"
+                     /label="P19a"
+                     /regulatory_class="promoter"
+     misc_feature    54..<57
+                     /function="MoClo Adapter"
+                     /standard_name="i0"
+     misc_feature    58..64
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcagga gctgtaagga aaataattct tatttcgatt gtccttttta ccctacttga
+       61 gacc
+//
+LOCUS       P24a                      59 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part P24a.
+ACCESSION   P24a
+VERSION     P24a
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="X"
+     regulatory      12..48
+                     /standard_name="P24a"
+                     /label="P24a"
+                     /regulatory_class="promoter"
+     misc_feature    49..<52
+                     /function="MoClo Adapter"
+                     /standard_name="i0"
+     misc_feature    53..59
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcagga gtcggaactt caggctataa aacgaatctg aagaacacta cttgagacc
+//
+LOCUS       P28a                      68 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part P28a.
+ACCESSION   P28a
+VERSION     P28a
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="X"
+     regulatory      12..57
+                     /standard_name="P28a"
+                     /label="P28a"
+                     /regulatory_class="promoter"
+     misc_feature    58..<61
+                     /function="MoClo Adapter"
+                     /standard_name="i0"
+     misc_feature    62..68
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcagga gcaagcttca ataaagtttc ccccctcctt gccgataacg agatcaatac
+       61 ttgagacc
+//
+LOCUS       P32a                      70 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part P32a.
+ACCESSION   P32a
+VERSION     P32a
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="X"
+     regulatory      12..59
+                     /standard_name="P32a"
+                     /label="P32a"
+                     /regulatory_class="promoter"
+     misc_feature    60..<63
+                     /function="MoClo Adapter"
+                     /standard_name="i0"
+     misc_feature    64..70
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcagga gcagtttccc ccttgaaggg gcgaagcctc atccccatat aatctagaat
+       61 acttgagacc
+//
+LOCUS       P38a                      63 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part P38a.
+ACCESSION   P38a
+VERSION     P38a
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="X"
+     regulatory      12..52
+                     /standard_name="P38a"
+                     /label="P38a"
+                     /regulatory_class="promoter"
+     misc_feature    53..<56
+                     /function="MoClo Adapter"
+                     /standard_name="i0"
+     misc_feature    57..63
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcagga gatcccgagc ggtttcaaaa ttgtgatcta tatttaacaa agtacttgag
+       61 acc
+//
+LOCUS       P54a                      63 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part P54a.
+ACCESSION   P54a
+VERSION     P54a
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="X"
+     regulatory      12..52
+                     /standard_name="P54a"
+                     /label="P54a"
+                     /regulatory_class="promoter"
+     misc_feature    53..<56
+                     /function="MoClo Adapter"
+                     /standard_name="i0"
+     misc_feature    57..63
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcagga gggcaattta aaagttggca cagatttcgc tttatctttt tatacttgag
+       61 acc
+//
+LOCUS       pBad                      77 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part pBad.
+ACCESSION   pBad
+VERSION     pBad
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="X"
+     regulatory      12..66
+                     /standard_name="PLtetO1"
+                     /label="PLtetO1"
+                     /regulatory_class="promoter"
+     misc_feature    67..<70
+                     /function="MoClo Adapter"
+                     /standard_name="i0"
+     misc_feature    71..77
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcagga gtccctatca gtgatagaga ttgacatccc tatcagtgat agagatactg
+       61 agcacatact tgagacc
+//
+LOCUS       pBad                      77 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part pBad.
+ACCESSION   pBad
+VERSION     pBad
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="X"
+     regulatory      12..66
+                     /standard_name="PLtetO1"
+                     /label="PLtetO1"
+                     /regulatory_class="promoter"
+     misc_feature    67..<70
+                     /function="MoClo Adapter"
+                     /standard_name="i0"
+     misc_feature    71..77
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcagga gtccctatca gtgatagaga ttgacatccc tatcagtgat agagatactg
+       61 agcacatact tgagacc
+//
+LOCUS       UTR1                      52 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part UTR1.
+ACCESSION   UTR1
+VERSION     UTR1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i0"
+     5'UTR           12..44
+                     /standard_name="UTR1"
+                     /label="UTR1"
+     misc_feature    45..<48
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     misc_feature    46..52
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcatac taataatttt gtttaacttt aagaaggaga tataatgaga cc
+//
+LOCUS       T500                      52 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part T500.
+ACCESSION   T500
+VERSION     T500
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     regulatory      12..41
+                     /standard_name="T500"
+                     /label="T500"
+                     /regulatory_class="terminator"
+     misc_feature    42..<45
+                     /function="MoClo Adapter"
+                     /standard_name="Y"
+     misc_feature    46..52
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcagct tcaaagcccg ccgaaaggcg ggcttttctg tcgcttgaga cc
+//
+LOCUS       eGFP                     739 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part eGFP.
+ACCESSION   eGFP
+VERSION     eGFP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..728
+                     /label="eGFP"
+                     /gene="eGFP"
+     misc_feature    729..<732
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    733..739
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggtgagcaag ggcgaggagc tgttcaccgg ggtggtgccc atcctggtcg
+       61 agctggacgg cgacgtaaac ggccacaagt tcagcgtgtc cggcgagggc gagggcgatg
+      121 ccacctacgg caagctgacc ctgaagttca tctgcaccac cggcaagctg cccgtgccct
+      181 ggcccaccct cgtgaccacc ctgacctacg gcgtgcagtg cttcagccgc taccccgacc
+      241 acatgaagca gcacgacttc ttcaagtccg ccatgcccga aggctacgtc caggagcgca
+      301 ccatcttctt caaggacgac ggcaactaca agacccgcgc cgaggtgaag ttcgagggcg
+      361 acaccctggt gaaccgcatc gagctgaagg gcatcgactt caaggaggac ggcaacatcc
+      421 tggggcacaa gctggagtac aactacaaca gccacaacgt ctatatcatg gccgacaagc
+      481 agaagaacgg catcaaggtg aacttcaaga tccgccacaa catcgaggac ggcagcgtgc
+      541 agctcgccga ccactaccag cagaacaccc ccatcggcga cggccccgtg ctgctgcccg
+      601 acaaccacta cctgagcacc cagtccgccc tgagcaaaga ccccaacgag aagcgcgatc
+      661 acatggtcct gctggagttc gtgaccgccg ccgggatcac tctcggcatg gacgagctgt
+      721 acaagtaagc tttgagacc
+//
+LOCUS       deGFP                    697 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part deGFP.
+ACCESSION   deGFP
+VERSION     deGFP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..686
+                     /label="deGFP"
+                     /gene="deGFP"
+     misc_feature    687..<690
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    691..697
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggagcttttc actggcgttg ttcccatcct ggtcgagctg gacggcgacg
+       61 taaacggcca caagttcagc gtgtccggcg agggcgaggg cgatgccacc tacggcaagc
+      121 tgaccctgaa gttcatctgc accaccggca agctgcccgt gccctggccc accctcgtga
+      181 ccaccctgac ctacggcgtg cagtgcttca gccgctaccc cgaccacatg aagcagcacg
+      241 acttcttcaa gtccgccatg cccgaaggct acgtccagga gcgcaccatc ttcttcaagg
+      301 acgacggcaa ctacaagacc cgcgccgagg tgaagttcga gggcgacacc ctggtgaacc
+      361 gcatcgagct gaagggcatc gacttcaagg aggacggcaa catcctgggg cacaagctgg
+      421 agtacaacta caacagccac aacgtctata tcatggccga caagcagaag aacggcatca
+      481 aggtgaactt caagatccgc cacaacatcg aggacggcag cgtgcagctc gccgaccact
+      541 accagcagaa cacccccatc ggcgacggcc ccgtgctgct gcccgacaac cactacctga
+      601 gcacccagtc cgccctgagc aaagacccca acgagaagcg cgatcacatg gtcctgctgg
+      661 agttcgtgac cgccgccggg atctaagctt tgagacc
+//
+LOCUS       deGFP-ssrA               730 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part deGFP-ssrA.
+ACCESSION   deGFP-ssrA
+VERSION     deGFP-ssrA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..719
+                     /label="deGFP-ssrA"
+                     /gene="deGFP-ssrA"
+     misc_feature    720..<723
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    724..730
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggagcttttc actggcgttg ttcccatcct ggtcgagctg gacggcgacg
+       61 taaacggcca caagttcagc gtgtccggcg agggcgaggg cgatgccacc tacggcaagc
+      121 tgaccctgaa gttcatctgc accaccggca agctgcccgt gccctggccc accctcgtga
+      181 ccaccctgac ctacggcgtg cagtgcttca gccgctaccc cgaccacatg aagcagcacg
+      241 acttcttcaa gtccgccatg cccgaaggct acgtccagga gcgcaccatc ttcttcaagg
+      301 acgacggcaa ctacaagacc cgcgccgagg tgaagttcga gggcgacacc ctggtgaacc
+      361 gcatcgagct gaagggcatc gacttcaagg aggacggcaa catcctgggg cacaagctgg
+      421 agtacaacta caacagccac aacgtctata tcatggccga caagcagaag aacggcatca
+      481 aggtgaactt caagatccgc cacaacatcg aggacggcag cgtgcagctc gccgaccact
+      541 accagcagaa cacccccatc ggcgacggcc ccgtgctgct gcccgacaac cactacctga
+      601 gcacccagtc cgccctgagc aaagacccca acgagaagcg cgatcacatg gtcctgctgg
+      661 agttcgtgac cgccgccggg atcgcagcaa acgacgaaaa ctacgcttta gctgcttaag
+      721 ctttgagacc
+//
+LOCUS       eCFP                     748 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part eCFP.
+ACCESSION   eCFP
+VERSION     eCFP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..737
+                     /label="eCFP"
+                     /gene="eCFP"
+     misc_feature    738..<741
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    742..748
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggtgagcaag ggcgaggagc tgttcaccgg ggtggtgccc atcctggtcg
+       61 agctggacgg cgacgtaaac ggccacaagt tcagcgtgtc cggcgagggc gagggcgatg
+      121 ccacctacgg caagctgacc ctgaagttca tctgcaccac cggcaagctg cccgtgccct
+      181 ggcccaccct cgtgaccacc ctgacctggg gcgtgcagtg cttcagccgc taccccgacc
+      241 acatgaagca gcacgacttc ttcaagtccg ccatgcccga aggctacgtc caggagcgca
+      301 ccatcttctt caaggacgac ggcaactaca agacccgcgc cgaggtgaag ttcgagggcg
+      361 acaccctggt gaaccgcatc gagctgaagg gcatcgactt caaggaggac ggcaacatcc
+      421 tggggcacaa gctggagtac aactacatca gccacaacgt ctatatcacc gccgacaagc
+      481 agaagaacgg catcaaggcc aacttcaaga tccgccacaa catcgaggac ggcagcgtgc
+      541 agctcgccga ccactaccag cagaacaccc ccatcggcga cggccccgtg ctgctgcccg
+      601 acaaccacta cctgagcacc cagtccgccc tgagcaaaga ccccaacgag aagcgcgatc
+      661 acatggtcct gctggagttc gtgaccgccg ccgggatcac tctcggcatg gacgagctgt
+      721 acaagctgta caagtaagct ttgagacc
+//
+LOCUS       deCFP                    697 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part deCFP.
+ACCESSION   deCFP
+VERSION     deCFP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..686
+                     /label="deCFP"
+                     /gene="deCFP"
+     misc_feature    687..<690
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    691..697
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggagcttttc actggcgttg ttcccatcct ggtcgagctg gacggcgacg
+       61 taaacggcca caagttcagc gtgtccggcg agggcgaggg cgatgccacc tacggcaagc
+      121 tgaccctgaa gttcatctgc accaccggca agctgcccgt gccctggccc accctcgtga
+      181 ccaccctgac ctggggcgtg cagtgcttca gccgctaccc cgaccacatg aagcagcacg
+      241 acttcttcaa gtccgccatg cccgaaggct acgtccagga gcgcaccatc ttcttcaagg
+      301 acgacggcaa ctacaagacc cgcgccgagg tgaagttcga gggcgacacc ctggtgaacc
+      361 gcatcgagct gaagggcatc gacttcaagg aggacggcaa catcctgggg cacaagctgg
+      421 agtacaacta catcagccac aacgtctata tcaccgccga caagcagaag aacggcatca
+      481 aggccaactt caagatccgc cacaacatcg aggacggcag cgtgcagctc gccgaccact
+      541 accagcagaa cacccccatc ggcgacggcc ccgtgctgct gcccgacaac cactacctga
+      601 gcacccagtc cgccctgagc aaagacccca acgagaagcg cgatcacatg gtcctgctgg
+      661 agttcgtgac cgccgccggg atctaagctt tgagacc
+//
+LOCUS       YFP                      739 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part YFP.
+ACCESSION   YFP
+VERSION     YFP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..728
+                     /label="YFP"
+                     /gene="YFP"
+     misc_feature    729..<732
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    733..739
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggtgagcaag ggcgaggagc tgttcaccgg ggtggtgccc atcctggtcg
+       61 agctggacgg cgacgtaaac ggccacaagt tcagcgtgtc cggcgagggc gagggcgatg
+      121 ccacctacgg caagctgacc ctgaagttca tctgcaccac cggcaagctg cccgtgccct
+      181 ggcccaccct cgtgaccacc ttcggctacg gcctgcagtg cttcgcccgc taccccgacc
+      241 acatgaagca gcacgacttc ttcaagtccg ccatgcccga aggctacgtc caggagcgca
+      301 ccatcttctt caaggacgac ggcaactaca agacccgcgc cgaggtgaag ttcgagggcg
+      361 acaccctggt gaaccgcatc gagctgaagg gcatcgactt caaggaggac ggcaacatcc
+      421 tggggcacaa gctggagtac aactacaaca gccacaacgt ctatatcatg gccgacaagc
+      481 agaagaacgg catcaaggtg aacttcaaga tccgccacaa catcgaggac ggcagcgtgc
+      541 agctcgccga ccactaccag cagaacaccc ccatcggcga cggccccgtg ctgctgcccg
+      601 acaaccacta cctgagctac cagtccgccc tgagcaaaga ccccaacgag aagcgcgatc
+      661 acatggtcct gctggagttc gtgaccgccg ccgggatcac tctcggcatg gacgagctgt
+      721 acaagtaagc tttgagacc
+//
+LOCUS       deYFP                    697 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part deYFP.
+ACCESSION   deYFP
+VERSION     deYFP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..686
+                     /label="deYFP"
+                     /gene="deYFP"
+     misc_feature    687..<690
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    691..697
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggagcttttc actggcgttg ttcccatcct ggtcgagctg gacggcgacg
+       61 taaacggcca caagttcagc gtgtccggcg agggcgaggg cgatgccacc tacggcaagc
+      121 tgaccctgaa gttcatctgc accaccggca agctgcccgt gccctggccc accctcgtga
+      181 ccaccttcgg ctacggcctg cagtgcttcg cccgctaccc cgaccacatg aagcagcacg
+      241 acttcttcaa gtccgccatg cccgaaggct acgtccagga gcgcaccatc ttcttcaagg
+      301 acgacggcaa ctacaagacc cgcgccgagg tgaagttcga gggcgacacc ctggtgaacc
+      361 gcatcgagct gaagggcatc gacttcaagg aggacggcaa catcctgggg cacaagctgg
+      421 agtacaacta caacagccac aacgtctata tcatggccga caagcagaag aacggcatca
+      481 aggtgaactt caagatccgc cacaacatcg aggacggcag cgtgcagctc gccgaccact
+      541 accagcagaa cacccccatc ggcgacggcc ccgtgctgct gcccgacaac cactacctga
+      601 gctaccagtc cgccctgagc aaagacccca acgagaagcg cgatcacatg gtcctgctgg
+      661 agttcgtgac cgccgccggg atctaagctt tgagacc
+//
+LOCUS       mVenus                   739 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part mVenus.
+ACCESSION   mVenus
+VERSION     mVenus
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..728
+                     /label="mVenus"
+                     /gene="mVenus"
+     misc_feature    729..<732
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    733..739
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggtgagcaag ggcgaggagc tgttcaccgg ggtggtgccc atcctggtcg
+       61 agctggacgg cgacgtaaac ggccacaagt tcagcgtgtc cggcgagggc gagggcgatg
+      121 ccacctacgg caagctgacc ctgaagctga tctgcaccac cggcaagctg cccgtgccct
+      181 ggcccaccct cgtgaccacc ctgggctacg gcctgcagtg cttcgcccgc taccccgacc
+      241 acatgaagca gcacgacttc ttcaagtccg ccatgcccga aggctacgtc caggagcgca
+      301 ccatcttctt caaggacgac ggcaactaca agacccgcgc cgaggtgaag ttcgagggcg
+      361 acaccctggt gaaccgcatc gagctgaagg gcatcgactt caaggaggac ggcaacatcc
+      421 tggggcacaa gctggagtac aactacaaca gccacaacgt ctatatcacc gccgacaagc
+      481 agaagaacgg catcaaggcc aacttcaaga tccgccacaa catcgaggac ggcggcgtgc
+      541 agctcgccga ccactaccag cagaacaccc ccatcggcga cggccccgtg ctgctgcccg
+      601 acaaccacta cctgagctac cagtccaagc tgagcaaaga ccccaacgag aagcgcgatc
+      661 acatggtcct gctggagttc gtgaccgccg ccgggatcac tctcggcatg gacgagctgt
+      721 acaagtaagc tttgagacc
+//
+LOCUS       dmVenus                  697 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part dmVenus.
+ACCESSION   dmVenus
+VERSION     dmVenus
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..686
+                     /label="dmVenus"
+                     /gene="dmVenus"
+     misc_feature    687..<690
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    691..697
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggagcttttc actggcgttg ttcccatcct ggtcgagctg gacggcgacg
+       61 taaacggcca caagttcagc gtgtccggcg agggcgaggg cgatgccacc tacggcaagc
+      121 tgaccctgaa gctgatctgc accaccggca agctgcccgt gccctggccc accctcgtga
+      181 ccaccctggg ctacggcctg cagtgcttcg cccgctaccc cgaccacatg aagcagcacg
+      241 acttcttcaa gtccgccatg cccgaaggct acgtccagga gcgcaccatc ttcttcaagg
+      301 acgacggcaa ctacaagacc cgcgccgagg tgaagttcga gggcgacacc ctggtgaacc
+      361 gcatcgagct gaagggcatc gacttcaagg aggacggcaa catcctgggg cacaagctgg
+      421 agtacaacta caacagccac aacgtctata tcaccgccga caagcagaag aacggcatca
+      481 aggccaactt caagatccgc cacaacatcg aggacggcgg cgtgcagctc gccgaccact
+      541 accagcagaa cacccccatc ggcgacggcc ccgtgctgct gcccgacaac cactacctga
+      601 gctaccagtc cgccctgagc aaagacccca acgagaagcg cgatcacatg gtcctgctgg
+      661 agttcgtgac cgccgccggg atctaagctt tgagacc
+//
+LOCUS       mCherry                  730 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part mCherry.
+ACCESSION   mCherry
+VERSION     mCherry
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..719
+                     /label="mCherry"
+                     /gene="mCherry"
+     misc_feature    720..<723
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    724..730
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggtgagcaag ggcgaggagg ataacatggc catcatcaag gagttcatgc
+       61 gcttcaaggt gcacatggag ggctccgtga acggccacga gttcgagatc gagggcgagg
+      121 gcgagggccg cccctacgag ggcacccaga ccgccaagct gaaggtgacc aagggtggcc
+      181 ccctgccctt cgcctgggac atcctgtccc ctcagttcat gtacggctcc aaggcctacg
+      241 tgaagcaccc cgccgacatc cccgactact tgaagctgtc cttccccgag ggcttcaagt
+      301 gggagcgcgt gatgaacttc gaggacggcg gcgtggtgac cgtgacccag gactcctccc
+      361 tgcaggacgg cgagttcatc tacaaggtga agctgcgcgg caccaacttc ccctccgacg
+      421 gccccgtaat gcagaagaag accatgggct gggaggcctc ctccgagcgg atgtaccccg
+      481 aggacggcgc cctgaagggc gagatcaagc agaggctgaa gctgaaggac ggcggccact
+      541 acgacgctga ggtcaagacc acctacaagg ccaagaagcc cgtgcagctg cccggcgcct
+      601 acaacgtcaa catcaagttg gacatcacct cccacaacga ggactacacc atcgtggaac
+      661 agtacgaacg cgccgagggc cgccactcca ccggcggcat ggacgagctg tacaagtaag
+      721 ctttgagacc
+//
+LOCUS       mmCherry                 730 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part mmCherry.
+ACCESSION   mmCherry
+VERSION     mmCherry
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..719
+                     /label="mmCherry"
+                     /gene="mmCherry"
+     misc_feature    720..<723
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    724..730
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggtgagcaag ggcgaagaag ataacatggc catcatcaag gagttcatgc
+       61 gcttcaaggt gcacatggag ggctccgtga acggccacga gttcgagatc gagggcgagg
+      121 gcgagggccg cccctacgag ggcacccaga ccgccaagct gaaggtgacc aagggtggcc
+      181 ccctgccctt cgcctgggac atcctgtccc ctcagttcat gtacggctcc aaggcctacg
+      241 tgaagcaccc cgccgacatc cccgactact tgaagctgtc cttccccgag ggcttcaagt
+      301 gggagcgcgt gatgaacttc gaggacggcg gcgtggtgac cgtgacccag gactcctccc
+      361 tgcaggacgg cgagttcatc tacaaggtga agctgcgcgg caccaacttc ccctccgacg
+      421 gccccgtaat gcagaagaag accatgggct gggaggcctc ctccgagcgg atgtaccccg
+      481 aggacggcgc cctgaagggc gagatcaagc agaggctgaa gctgaaggac ggcggccact
+      541 acgacgctga ggtcaagacc acctacaagg ccaagaagcc cgtgcagctg cccggcgcct
+      601 acaacgtcaa catcaagttg gacatcacct cccacaacga ggactacacc atcgtggaac
+      661 agtacgaacg cgccgagggc cgccactcca ccggcggcat ggacgagctg tacaagtaag
+      721 ctttgagacc
+//
+LOCUS       dTomato                  724 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part dTomato.
+ACCESSION   dTomato
+VERSION     dTomato
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..713
+                     /label="dTomato"
+                     /gene="dTomato"
+     misc_feature    714..<717
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    718..724
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggtgagcaag ggcgaggagg tcatcaaaga gttcatgcgc ttcaaggtgc
+       61 gcatggaggg ctccatgaac ggccacgagt tcgagatcga gggcgagggc gagggccgcc
+      121 cctacgaggg cacccagacc gccaagctga aggtgaccaa gggcggcccc ctgcccttcg
+      181 cctgggacat cctgtccccc cagttcatgt acggctccaa ggcgtacgtg aagcaccccg
+      241 ccgacatccc cgattacaag aagctgtcct tccccgaggg cttcaagtgg gagcgcgtga
+      301 tgaacttcga ggacggcggt ctggtgaccg tgacccagga ctcctccctg caggacggca
+      361 cgctgatcta caaggtgaag atgcgcggca ccaacttccc ccccgacggc cccgtaatgc
+      421 agaagaagac catgggctgg gaggcctcca ccgagcgcct gtacccccgc gacggcgtgc
+      481 tgaagggcga gatccaccag gccctgaagc tgaaggacgg cggccactac ctggtggagt
+      541 tcaagaccat ctacatggcc aagaagcccg tgcaactgcc cggctactac tacgtggaca
+      601 ccaagctgga catcacctcc cacaacgagg actacaccat cgtggaacag tacgagcgct
+      661 ccgagggccg ccaccacctg ttcctgtacg gcatggacga gctgtacaag taagctttga
+      721 gacc
+//
+LOCUS       TagRFP-T                 754 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part TagRFP-T.
+ACCESSION   TagRFP-T
+VERSION     TagRFP-T
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..743
+                     /label="TagRFP-T"
+                     /gene="TagRFP-T"
+     misc_feature    744..<747
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    748..754
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggtgtctaag ggcgaagagc tgattaagga gaacatgcac atgaagctgt
+       61 acatggaggg caccgtgaac aaccaccact tcaagtgcac atccgagggc gaaggcaagc
+      121 cctacgaggg cacccagacc atgagaatca aggtggtcga gggcggccct ctccccttcg
+      181 ccttcgacat cctggctacc agcttcatgt acggcagcag aaccttcatc aaccacaccc
+      241 agggcatccc cgacttcttt aagcagtcct tccctgaggg cttcacatgg gagagagtca
+      301 ccacatacga agacgggggc gtgctgaccg ctacccagga caccagcctc caggacggct
+      361 gcctcatcta caacgtcaag atcagagggg tgaacttccc atccaacggc cctgtgatgc
+      421 agaagaaaac actcggctgg gaggccaaca ccgagatgct gtaccccgct gacggcggcc
+      481 tggaaggcag aaccgacatg gccctgaagc tcgtgggcgg gggccacctg atctgcaact
+      541 tcaagaccac atacagatcc aagaaacccg ctaagaacct caagatgccc ggcgtctact
+      601 atgtggacca cagactggaa agaatcaagg aggccgacaa agagacctac gtcgagcagc
+      661 acgaggtggc tgtggccaga tactgcgacc tccctagcaa actggggcac aaacttaatg
+      721 gcatggacga gctgtacaag taagctttga gacc
+//
+LOCUS       mApple                   730 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part mApple.
+ACCESSION   mApple
+VERSION     mApple
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..719
+                     /label="mApple"
+                     /gene="mApple"
+     misc_feature    720..<723
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    724..730
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggtgagcaag ggcgaggaga ataacatggc catcatcaag gagttcatgc
+       61 gcttcaaggt gcacatggag ggctccgtga acggccacga gttcgagatc gagggcgagg
+      121 gcgagggccg cccctacgag gcctttcaga ccgctaagct gaaggtgacc aagggtggcc
+      181 ccctgccctt cgcctgggac atcctgtccc ctcagttcat gtacggctcc aaggtctaca
+      241 ttaagcaccc agccgacatc cccgactact tcaagctgtc cttccccgag ggcttcaggt
+      301 gggagcgcgt gatgaacttc gaggacggcg gcattattca cgttaaccag gactcctccc
+      361 tgcaggacgg cgtgttcatc tacaaggtga agctgcgcgg caccaacttc ccctccgacg
+      421 gccccgtaat gcagaagaag accatgggct gggaggcctc cgaggagcgg atgtaccccg
+      481 aggacggcgc cctgaagagc gagatcaaga agaggctgaa gctgaaggac ggcggccact
+      541 acgccgccga ggtcaagacc acctacaagg ccaagaagcc cgtgcagctg cccggcgcct
+      601 acatcgtcga catcaagttg gacatcgtgt cccacaacga ggactacacc atcgtggaac
+      661 agtacgaacg cgccgagggc cgccactcca ccggcggcat ggacgagctg tacaagtaag
+      721 ctttgagacc
+//
+LOCUS       mRuby                    703 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part mRuby.
+ACCESSION   mRuby
+VERSION     mRuby
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..692
+                     /label="mRuby"
+                     /gene="mRuby"
+     misc_feature    693..<696
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    697..703
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gaacagcctg atcaaagaaa acatgcggat gaaggtggtg ctggaaggca
+       61 gcgtgaacgg ccaccagttc aagtgcaccg gcgagggcga gggcaacccc tacatgggca
+      121 cccagaccat gcggatcaaa gtgatcgagg gcggacctct gcccttcgcc ttcgacatcc
+      181 tggccacatc cttcatgtac ggcagccgga ccttcatcaa gtaccccaag ggcatccccg
+      241 atttcttcaa gcagagcttc cccgagggct tcacctggga gagagtgacc agatacgagg
+      301 acggcggcgt gatcaccgtg atgcaggaca ccagcctgga agatggctgc ctggtgtacc
+      361 atgcccaggt caggggcgtg aattttccca gcaacggcgc cgtgatgcag aagaaaacca
+      421 agggctggga gcccaacacc gagatgatgt accccgctga cggcggactg agaggctaca
+      481 cccacatggc cctgaaggtg gacggcggag ggcacctgag ctgcagcttc gtgaccacct
+      541 accgatccaa gaaaaccgtg ggcaacatca agatgcccgg catccacgcc gtggaccacc
+      601 ggctggaaag gctggaagag tccgacaacg agatgttcgt ggtgcagcgg gagcacgccg
+      661 tggccaagtt cgccggcctg ggcggagggt aagctttgag acc
+//
+LOCUS       ClpXP                   2043 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part ClpXP.
+ACCESSION   ClpXP
+VERSION     ClpXP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..2032
+                     /label="ClpXP"
+                     /gene="ClpXP"
+     misc_feature    2033..<2036
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    2037..2043
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtcatacagc ggcgaacgag ataactttgc accccatatg gcgctggtgc
+       61 cgatggtcat tgaacagacc tcacgcggtg agcgctcttt tgatatctat tctcgtctac
+      121 ttaaggaacg cgtcattttt ctgactggcc aggttgaaga ccacatggct aacctgattg
+      181 tggcgcagat gctgttcctg gaagcggaaa acccagaaaa agatatctat ctgtacatta
+      241 actccccagg cggggtgatc actgccggga tgtctatcta tgacaccatg cagtttatca
+      301 agcctgatgt cagcaccatc tgtatgggcc aggcggcctc gatgggcgct ttcttgctga
+      361 ccgcaggggc aaaaggtaaa cgtttttgcc tgccgaattc gcgcgtgatg attcaccaac
+      421 cgttgggcgg ctaccagggc caggcgaccg atatcgaaat tcatgcccgt gaaattctga
+      481 aagttaaagg gcgcatgaat gaacttatgg cgcttcatac gggtcaatca ttagaacaga
+      541 ttgaacgtga taccgagcgc gatcgcttcc tttccgcccc tgaagcggtg gaatacggtc
+      601 tggtcgattc gattctgacc catcgtaatt gatgccagag gcgcaactgt gccgctatac
+      661 ttatccaggg cggcacaacg ctgtaagcgg cttgcgcctg agaatggcat ttgcgtcgtc
+      721 gtgtgcggca caaagaacaa agaagaggtt ttgacccatg acagataaac gcaaagatgg
+      781 ctcaggcaaa ttgctgtatt gctctttttg cggcaaaagc cagcatgaag tgcgcaagct
+      841 gattgccggt ccatccgtgt atatctgcga cgaatgtgtt gatttatgta acgacatcat
+      901 tcgcgaagag attaaagaag ttgcaccgca tcgtgaacgc agtgcgctac cgacgccgca
+      961 tgaaattcgc aaccacctgg acgattacgt tatcggccag gaacaggcga aaaaagtgct
+     1021 ggcggtcgcg gtatacaacc attacaaacg tctgcgcaac ggcgatacca gcaatggcgt
+     1081 cgagttgggc aaaagtaaca ttctgctgat cggtccgacc ggttccggta aaacgctgct
+     1141 ggctgaaacg ctggcgcgcc tgctggatgt tccgttcacc atggccgacg cgactacact
+     1201 gaccgaagcc ggttatgtgg gtgaagacgt tgaaaacatc attcagaagc tgttgcagaa
+     1261 atgcgactac gatgtccaga aagcacagcg tggtattgtc tacatcgatg aaatcgacaa
+     1321 gatttctcgt aagtcagaca acccgtccat tacccgagac gtttccggtg aaggcgtaca
+     1381 gcaggcactg ttgaaactga tcgaaggtac ggtagctgct gttccaccgc aaggtgggcg
+     1441 taaacatccg cagcaggaat tcttgcaggt tgatacctct aagatcctgt ttatttgtgg
+     1501 cggtgcgttt gccggtctgg ataaagtgat ttcccaccgt gtagaaaccg gctccggcat
+     1561 tggttttggc gcgacggtaa aagcgaagtc cgacaaagca agcgaaggcg agctgctggc
+     1621 gcaggttgaa ccggaagatc tgatcaagtt tggtcttatc cctgagttta ttggtcgtct
+     1681 gccggttgtc gcaacgttga atgaactgag cgaagaagct ctgattcaga tcctcaaaga
+     1741 gccgaaaaac gccctgacca agcagtatca ggcgctgttt aatctggaag gcgtggatct
+     1801 ggaattccgt gacgaggcgc tggatgctat cgctaagaaa gcgatggcgc gtaaaaccgg
+     1861 tgcccgtggc ctgcgttcca tcgtagaagc cgcactgctc gataccatgt acgatctgcc
+     1921 gtccatggaa gacgtcgaaa aagtggttat cgacgagtcg gtaattgatg gtcaaagcaa
+     1981 accgttgctg atttatggca agccggaagc gcaacaggca tctggtgaat aagctttgag
+     2041 acc
+//
+LOCUS       S19                      541 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part S19.
+ACCESSION   S19
+VERSION     S19
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..530
+                     /label="S19"
+                     /gene="S19"
+     misc_feature    531..<534
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    535..541
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtctgaccgc gccactacca cagcttcctt aacgttcgag tcgctttatg
+       61 gcacacatca cggctggttg aaaagctggc tgacgcgcaa actccagtct gcttttgatg
+      121 cagatgacat tgcccaggac acttttttgc gggtaatggt cagcgaaacg ctctcgacga
+      181 tccgcgatcc tcgctccttc ctctgcacta tcgccaaacg cgtgatggtg gacctgtttc
+      241 gccgaaacgc gctggaaaaa gcgtatctgg agatgctggc gcttatgccg gaggggggag
+      301 cgccttcacc tgaggaacgc gaaagccaac tcgagaccct acaactcctc gacagcatgc
+      361 tggacgggct aaacggcaaa acacgtgaag cgtttctgct ttcgcaactg gatggtctga
+      421 catacagcga gattgcgcac aaactcggtg tttccatcag ctccgtgaaa aaatacgtgg
+      481 cgaaagccgt cgagcactgc ctgctgttcc gtctggagta tgggttatga gctttgagac
+      541 c
+//
+LOCUS       S24                      595 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part S24.
+ACCESSION   S24
+VERSION     S24
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..584
+                     /label="S24"
+                     /gene="S24"
+     misc_feature    585..<588
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    589..595
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gagcgagcag ttaacggacc aggtcctggt tgaacgggtc cagaagggag
+       61 atcagaaagc ctttaactta ctggtagtgc gctatcagca taaagtggcg agtctggttt
+      121 cccgctatgt gccgtcgggt gatgttcccg atgtggtaca agaagctttt attaaagcct
+      181 atcgtgcgct ggattcgttc cggggagata gcgcttttta tacatggctg tatcggattg
+      241 ctgtaaatac agcgaaaaat tacctggttg ctcaggggcg tcgtccacct tccagtgatg
+      301 tggatgccat tgaagctgaa aacttcgaaa gtggcggcgc gttgaaagaa atttcgaacc
+      361 ctgagaactt aatgttgtca gaagaactga gacagatagt tttccgaact attgagtccc
+      421 tcccggaaga tttacgcatg gcaataacct tgcgggagct ggatggcctg agctatgaag
+      481 agatagccgc tatcatggat tgtccggtag gtacggtgcg ttcacgtatc ttccgagcga
+      541 gggaagctat tgataacaaa gttcaaccgc ttatcaggcg ttgagctttg agacc
+//
+LOCUS       S28                      739 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part S28.
+ACCESSION   S28
+VERSION     S28
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..728
+                     /label="S28"
+                     /gene="S28"
+     misc_feature    729..<732
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    733..739
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gaattcactc tataccgctg aaggtgtaat ggataaacac tcgctgtggc
+       61 agcgttatgt cccgctggtg cgtcacgaag cattgcgcct gcaggttcga ctgcccgcga
+      121 gcgtggaact tgacgatctg ctacaggcgg gcggcattgg gttacttaat gccgtcgaac
+      181 gctatgacgc cctacaagga acggcattta caacttacgc agtgcagcgt atccgtggcg
+      241 ctatgctgga tgaacttcgc agccgtgact gggtgccgcg cagcgtgcga cgcaacgcgc
+      301 gtgaagtggc acaggcaata gggcaactgg agcaggaact tggccgcaac gccacggaaa
+      361 ctgaggtagc ggaacgttta gggatcgata ttgccgatta tcgccaaatg ttgctcgaca
+      421 ccaataacag ccagctcttc tcctacgatg agtggcgcga agagcacggc gatagcatcg
+      481 aactggttac tgatgatcat cagcgagaaa acccgctaca acaactactg gacagtaatc
+      541 tgcgccagcg ggtgatggaa gccatcgaaa cgttgccgga gcgcgaaaaa ctggtattaa
+      601 ccctctatta ccaggaagag ctgaatctca aagagattgg cgcggtgctg gaggtcgggg
+      661 aatcgcgggt cagtcagtta cacagccagg ctattaaacg gttacgcact aaactgggta
+      721 agttataagc tttgagacc
+//
+LOCUS       S32                      874 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part S32.
+ACCESSION   S32
+VERSION     S32
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..863
+                     /label="S32"
+                     /gene="S32"
+     misc_feature    864..<867
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    868..874
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gactgacaaa atgcaaagtt tagctttagc cccagttggc aacctggatt
+       61 cctacatccg ggcagctaac gcgtggccga tgttgtcggc tgacgaggag cgggcgctgg
+      121 ctgaaaagct gcattaccat ggcgatctgg aagcagctaa aacgctgatc ctgtctcacc
+      181 tgcggtttgt tgttcatatt gctcgtaatt atgcgggcta tggcctgcca caggcggatt
+      241 tgattcagga aggtaacatc ggcctgatga aagcagtgcg ccgtttcaac ccggaagtgg
+      301 gtgtgcgcct ggtctccttc gccgttcact ggatcaaagc agagatccac gaatacgttc
+      361 tgcgtaactg gcgtatcgtc aaagttgcga ccaccaaagc gcagcgcaaa ctgttcttca
+      421 acctgcgtaa aaccaagcag cgtctgggct ggtttaacca ggatgaagtc gaaatggtgg
+      481 cccgtgaact gggcgtaacc agcaaagacg tacgtgagat ggaatcacgt atggcggcac
+      541 aggacatgac ctttgacctg tcttccgacg acgattccga cagccagccg atggctccgg
+      601 tgctctatct gcaggataaa tcatctaact ttgccgacgg cattgaagat gataactggg
+      661 aagagcaggc ggcaaaccgt ctgaccgacg cgatgcaggg tctggacgaa cgcagccagg
+      721 acatcatccg tgcgcgctgg ctggacgaag acaacaagtc cacgttgcag gaactggctg
+      781 accgttacgg cgtttccgct gagcgtgtac gccagctgga aaagaacgcg atgaaaaaat
+      841 tgcgtgctgc cattgaagcg taagctttga gacc
+//
+LOCUS       S38                     1012 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part S38.
+ACCESSION   S38
+VERSION     S38
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..1001
+                     /label="S38"
+                     /gene="S38"
+     misc_feature    1002..<1005
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    1006..1012
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gagtcagaat acgctgaaag ttcatgattt aaatgaagat gcggaatttg
+       61 atgagaacgg agttgaggtt tttgacgaaa aggccttagt agaacaggaa cccagtgata
+      121 acgatttggc cgaagaggaa ctgttatcgc agggagccac acagcgtgtg ttggacgcga
+      181 ctcagcttta ccttggtgag attggttatt caccactgtt aacggccgaa gaagaagttt
+      241 attttgcgcg tcgcgcactg cgtggagatg tcgcctctcg ccgccggatg atcgagagta
+      301 acttgcgtct ggtggtaaaa attgcccgcc gttatggcaa tcgtggtctg gcgttgctgg
+      361 accttatcga agagggcaac ctggggctga tccgcgcggt agagaagttt gacccggaac
+      421 gtggtttccg cttctcaaca tacgcaacct ggtggattcg ccagacgatt gaacgggcga
+      481 ttatgaacca aacccgtact attcgtttgc cgattcacat cgtaaaggag ctgaacgttt
+      541 acctgcgaac cgcacgtgag ttgtcccata agctggacca tgaaccaagt gcggaagaga
+      601 tcgcagagca actggataag ccagttgatg acgtcagccg tatgcttcgt cttaacgagc
+      661 gcattacctc ggtagacacc ccgctgggtg gtgattccga aaaagcgttg ctggacatcc
+      721 tggccgatga aaaagagaac ggtccggaag ataccacgca agatgacgat atgaagcaga
+      781 gcatcgtcaa atggctgttc gagctgaacg ccaaacagcg tgaagtgctg gcacgtcgat
+      841 tcggtttgct ggggtacgaa gcggcaacac tggaagatgt aggtcgtgaa attggcctca
+      901 cccgtgaacg tgttcgccag attcaggttg aaggcctgcg ccgtttgcgc gaaatcctgc
+      961 aaacgcaggg gctgaatatc gaagcgctgt tccgcgagta agctttgaga cc
+//
+LOCUS       S54                     1453 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part S54.
+ACCESSION   S54
+VERSION     S54
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..1442
+                     /label="S54"
+                     /gene="S54"
+     misc_feature    1443..<1446
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    1447..1453
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gaagcaaggt ttgcaactca ggcttagcca acaactggcg atgacgccac
+       61 agctccaaca ggcaattcgt ctgttgcagt tgtcgacgct ggaacttcag caggagctac
+      121 agcaggcgct ggagagtaat ccgctgcttg agcaaatcga cactcatgaa gaaatcgaca
+      181 cccgcgaaac gcaagacagt gaaacgctgg acaccgccga cgcgctcgaa caaaaagaga
+      241 tgccggaaga gctgccgctc gatgccagtt gggacaccat ttacaccgct ggtacaccat
+      301 ccggcaccag cggtgactac attgacgacg agctgccggt ctaccagggc gaaacgacgc
+      361 agaccttgca ggattacctg atgtggcagg ttgagctgac accgttttcc gacactgacc
+      421 gcgctattgc tacctctatc gtcgatgccg ttgatgaaac cggttatctg actgtcccgc
+      481 tggaagatat tctcgaaagt ataggcgatg aagagatcga catcgacgaa gttgaagccg
+      541 tccttaagcg gatccaacgg tttgatccgg tcggtgtggc ggcaaaagat ctgcgtgact
+      601 gtctgctgat ccaactctcc caattcgata agaccacgcc gtggctggaa gaggccagac
+      661 tgatcattag cgatcatctc gatctgttag ccaatcacga cttccgcact ttaatgcgcg
+      721 tcacgcgtct gaaagaagat gtgctgaaag aagccgtcaa tctgatccag tcgctcgatc
+      781 cgcgccccgg gcagtcgatc cagactggcg aacctgagta tgtcattcca gatgtgctgg
+      841 tgcgtaagca taacggtcac tggacggtag aactcaacag tgacagcatt ccgcgtctgc
+      901 aaatcaacca gcactacgcc tcgatgtgca ataacgcgcg caacgatggt gacagccagt
+      961 ttatccgcag caatctgcag gatgccaaat ggttgatcaa gagtctggaa agccgtaacg
+     1021 atacgctact gcgcgtgagt cgctgtatcg ttgaacagca gcaagccttc tttgagcaag
+     1081 gtgaagaata tatgaaaccg atggtactgg ccgatatcgc ccaggctgtc gaaatgcatg
+     1141 aatcgacgat atctcgcgtg accacgcaaa aatacctgca tagtccacga ggcatttttg
+     1201 aactgaagta tttcttttcc agtcacgtca ataccgaggg cggcggcgaa gcttcctcca
+     1261 cggcgattcg tgcgctggtg aagaaattaa tcgcggcgga aaacccagcg aaaccgttga
+     1321 gcgacagcaa gttaacctct ttgctgtcgg aacaaggtat catggtggca cgccgcactg
+     1381 ttgcgaagta ccgagagtct ttatccattc cgccgtcaaa ccagcgtaaa caactcgttt
+     1441 gagctttgag acc
+//
+LOCUS       cI                       733 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part cI.
+ACCESSION   cI
+VERSION     cI
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..722
+                     /label="cI"
+                     /gene="cI"
+     misc_feature    723..<726
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    727..733
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gagcacaaaa aagaaaccat taacacaaga gcagcttgag gacgcacgtc
+       61 gccttaaagc aatttatgaa aaaaagaaaa atgaacttgg cttatcccag gaatctgtcg
+      121 cagacaagat ggggatgggg cagtcaggcg ttggtgcttt atttaatggc atcaatgcat
+      181 taaatgctta taacgccgca ttgcttgcaa aaattctcaa agttagcgtt gaagaattta
+      241 gcccttcaat cgccagagaa atctacgaga tgtatgaagc ggttagtatg cagccgtcac
+      301 ttagaagtga gtatgagtac cctgtttttt ctcatgttca ggcagggatg ttctcacctg
+      361 agcttagaac ctttaccaaa ggtgatgcgg agagatgggt aagcacaacc aaaaaagcca
+      421 gtgattctgc attctggctt gaggttgaag gtaattccat gaccgcacca acaggctcca
+      481 agccaagctt tcctgacgga atgttaattc tcgttgaccc tgagcaggct gttgagccag
+      541 gtgatttctg catagccaga cttgggggtg atgagtttac cttcaagaaa ctgatcaggg
+      601 atagcggtca ggtgttttta caaccactaa acccacagta cccaatgatc ccatgcaatg
+      661 agagttgttc cgttgtgggg aaagttatcg ctagtcagtg gcctgaagag acgtttggct
+      721 gagctttgag acc
+//
+LOCUS       tetR                     643 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part tetR.
+ACCESSION   tetR
+VERSION     tetR
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..632
+                     /label="tetR"
+                     /gene="tetR"
+     misc_feature    633..<636
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    637..643
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtctagatta gataaaagta aagtgattaa cagcgcatta gagctgctta
+       61 atgaggtcgg aatcgaaggt ttaacaaccc gtaaactcgc ccagaagcta ggtgtagagc
+      121 agcctacatt gtattggcat gtaaaaaata agcgggcttt gctcgacgcc ttagccattg
+      181 agatgttaga taggcaccat actcactttt gccctttaga aggggaaagc tggcaagatt
+      241 ttttacgtaa taacgctaaa agttttagat gtgctttact aagtcatcgc gatggagcaa
+      301 aagtacattt aggtacacgg cctacagaaa aacagtatga aactctcgaa aatcaattag
+      361 cctttttatg ccaacaaggt ttttcactag agaatgcatt atatgcactc agcgctgtgg
+      421 ggcattttac tttaggttgc gtattggaag atcaagagca tcaagtcgct aaagaagaaa
+      481 gggaaacacc tactactgat agtatgccgc cattattacg acaagctatc gaattatttg
+      541 atcaccaagg tgcagagcca gccttcttat tcggccttga attgatcata tgcggattag
+      601 aaaaacaact taaatgtgaa agtgggtctt aagctttgag acc
+//
+LOCUS       tetR-ssrA                676 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part tetR-ssrA.
+ACCESSION   tetR-ssrA
+VERSION     tetR-ssrA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..665
+                     /label="tetR-ssrA"
+                     /gene="tetR-ssrA"
+     misc_feature    666..<669
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    670..676
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtctagatta gataaaagta aagtgattaa cagcgcatta gagctgctta
+       61 atgaggtcgg aatcgaaggt ttaacaaccc gtaaactcgc ccagaagcta ggtgtagagc
+      121 agcctacatt gtattggcat gtaaaaaata agcgggcttt gctcgacgcc ttagccattg
+      181 agatgttaga taggcaccat actcactttt gccctttaga aggggaaagc tggcaagatt
+      241 ttttacgtaa taacgctaaa agttttagat gtgctttact aagtcatcgc gatggagcaa
+      301 aagtacattt aggtacacgg cctacagaaa aacagtatga aactctcgaa aatcaattag
+      361 cctttttatg ccaacaaggt ttttcactag agaatgcatt atatgcactc agcgctgtgg
+      421 ggcattttac tttaggttgc gtattggaag atcaagagca tcaagtcgct aaagaagaaa
+      481 gggaaacacc tactactgat agtatgccgc cattattacg acaagctatc gaattatttg
+      541 atcaccaagg tgcagagcca gccttcttat tcggccttga attgatcata tgcggattag
+      601 aaaaacaact taaatgtgaa agtgggtctg cagcaaacga cgaaaactac gctttagctg
+      661 cttaagcttt gagacc
+//
+LOCUS       vioABCDE                7364 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part vioABCDE.
+ACCESSION   vioABCDE
+VERSION     vioABCDE
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..7353
+                     /label="vioABCDE"
+                     /gene="vioABCDE"
+     misc_feature    7354..<7357
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    7358..7364
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaatt aaggaggtaa aaaaaatgaa acattcttcc gatatctgca ttgttggtgc
+       61 tggtatttct ggtttgacgt gcgcaagcca tctgctggac agcccggcat gccgtggtct
+      121 gagcctgcgt atctttgaca tgcagcaaga agccggtggc cgtatccgca gcaaaatgct
+      181 ggatggtaag gcaagcattg aactgggcgc aggtcgctac tcccctcagt tgcacccgca
+      241 tttccaaagc gcaatgcagc actatagcca aaagagcgaa gtctatccgt tcacccagtt
+      301 gaagttcaaa tctcacgtgc agcaaaagct gaagcgcgcc atgaatgaac tgtccccgcg
+      361 tctgaaagag catggtaaag agagcttttt gcagtttgtc agccgttatc aaggtcacga
+      421 tagcgcggtt ggtatgatcc gctctatggg ttacgacgca ctgttcctgc cggatatcag
+      481 cgcagaaatg gcctacgaca ttgtgggtaa gcacccggag atccagagcg tgacggacaa
+      541 cgacgcgaac caatggtttg cagcggaaac gggctttgct ggtctgattc agggcatcaa
+      601 ggctaaggtt aaggcggcag gtgcgcgttt tagcctgggt tatcgtctgc tgagcgtccg
+      661 taccgacggt gacggctacc tgctgcaact ggcaggtgac gacggctgga aactggagca
+      721 ccgtacccgc catctgattc tggcgattcc gccgagcgcg atggcgggtt tgaatgttga
+      781 ttttccagaa gcctggtccg gtgcgcgcta tggcagcctg ccgctgttta agggctttct
+      841 gacgtacggt gagccgtggt ggttggacta caaactggac gatcaggtgc tgattgttga
+      901 caacccgctg cgcaaaatct atttcaaagg cgataagtac ctgttcttct ataccgatag
+      961 cgagatggcg aattactggc gcggttgtgt cgcggagggc gaggacggtt acctggagca
+     1021 aattcgcacc catttggcta gcgcactggg tatcgtccgt gaacgtatcc cgcaaccgct
+     1081 ggcacacgtt cacaagtatt gggcgcacgg cgttgagttt tgccgtgatt ctgatattga
+     1141 ccacccgagc gcactgtctc atcgcgacag cggtatcatc gcgtgctccg atgcgtacac
+     1201 ggagcattgt ggttggatgg agggcggtct gctgagcgcc cgtgaggcaa gccgtctgct
+     1261 gttgcagcgt atcgccgcgt gattaaggag gtaaaaaaaa tgagcattct ggatttcccg
+     1321 cgtatccact tccgtggctg ggcccgtgtc aatgcgccga ccgcgaaccg cgatccgcac
+     1381 ggccacatcg atatggccag caataccgtg gcgatggcgg gtgagccgtt cgacctggca
+     1441 cgccatccta cggagttcca ccgtcacctg cgctccctgg gtccgcgctt cggcttggat
+     1501 ggtcgtgctg acccggaagg cccgttcagc ctggccgagg gctacaacgc tgccggtaac
+     1561 aaccactttt cgtgggagag cgcaaccgtt agccacgtgc aatgggatgg cggtgaggcg
+     1621 gatcgtggtg acggtctggt cggtgctcgt ttggcactgt ggggtcacta caatgattat
+     1681 ctgcgtacca ccttcaatcg tgctcgttgg gtcgacagcg acccgacgcg ccgtgacgct
+     1741 gcacaaatct atgcgggcca attcaccatt agcccggctg gtgccggtcc gggtacgccg
+     1801 tggctgttta cggcagacat tgatgatagc catggtgcac gttggacgcg tggcggccac
+     1861 attgcagagc gtggcggcca cttcttggat gaagagtttg gtctggcacg cctgtttcag
+     1921 ttctctgtgc cgaaagatca cccacatttt ctgtttcacc cgggtccgtt tgattccgag
+     1981 gcctggcgtc gtctgcaatt ggctctggag gatgacgacg ttctgggtct gaccgtgcaa
+     2041 tatgcgttgt tcaatatgag caccccgcct cagccgaaca gcccggtttt tcacgatatg
+     2101 gtcggtgttg tcggtctgtg gcgtcgtggt gaactggcga gctacccggc tggtcgtctg
+     2161 ctgcgtccgc gtcaaccggg tctgggtgac ctgaccctgc gcgtcaacgg tggtcgcgtt
+     2221 gcgctgaatt tggcgtgtgc cattccgttc agcactcgtg ccgcgcagcc aagcgcaccg
+     2281 gaccgcctga ccccggacct gggtgccaaa ctgccgctgg gcgatctgct gctgcgtgat
+     2341 gaggacggcg cactgttggc acgtgtgccg caggctctgt accaagacta ttggacgaat
+     2401 cacggtattg tggacctgcc gctgctgcgc gaaccgcgtg gtagcttgac cctgagcagc
+     2461 gaactggcgg agtggcgtga gcaagactgg gtcacccaaa gcgacgcgtc taacctgtac
+     2521 ctggaggcac cggatcgccg tcacggtcgc tttttccctg agagcatcgc gctgcgcagc
+     2581 tactttcgcg gtgaagcgcg tgcgcgtccg gatatcccgc atcgtatcga gggcatgggc
+     2641 ctggtcggcg tcgaatctcg tcaggatggc gacgctgcgg aatggcgtct gacgggtctg
+     2701 cgtccgggtc cggcacgcat tgttctggac gatggtgccg aggcgatccc tctgcgtgtt
+     2761 ctgcctgacg attgggcgct ggatgacgcg accgtcgaag aagtggatta cgcctttttg
+     2821 taccgccacg ttatggcgta ttacgagctg gtgtatccat tcatgagcga caaggtgttt
+     2881 tccctggctg atcgttgcaa atgtgaaacg tacgcacgtc tgatgtggca gatgtgtgat
+     2941 ccgcagaacc gcaacaagtc ctattacatg ccgagcaccc gcgaactgtc ggcaccgaaa
+     3001 gctcgtttgt tcttgaagta tctggcccac gtggaaggcc aggcacgcct gcaagcacct
+     3061 ccgccagcgg gtccggcacg cattgaatct aaagcccagt tggcggcaga gctgcgtaaa
+     3121 gccgtcgacc tggagctgtc tgtgatgctg caatacctgt acgcggcgta tagcattccg
+     3181 aactatgcac agggccaaca acgtgttcgt gacggtgcgt ggaccgccga gcagctgcaa
+     3241 ctggcgtgcg gtagcggtga ccgtcgccgt gatggcggta ttcgtgcagc actgctggaa
+     3301 attgctcatg aagaaatgat tcattacctg gtcgttaaca acctgctgat ggccctgggc
+     3361 gagccgttct acgcgggtgt cccgctgatg ggcgaagcgg cacgtcaggc gtttggcctg
+     3421 gacaccgagt tcgctctgga accgtttagc gaaagcacgc tggcacgttt tgttcgtctg
+     3481 gaatggccgc actttatccc agcaccgggc aaatccatcg cggactgcta tgccgccatt
+     3541 cgtcaggcgt ttttggatct gccggacttg tttggtggcg aggcaggtaa gcgtggcggt
+     3601 gaacaccacc tgttcctgaa tgagctgacc aaccgtgcgc atccgggtta tcaactggaa
+     3661 gttttcgatc gcgactcggc gctgtttggt attgcatttg tgaccgatca gggcgaaggt
+     3721 ggcgctctgg acagcccgca ctacgaacat agccattttc aacgtctgcg tgaaatgagc
+     3781 gcgcgtatca tggctcaaag cgcaccgttc gaaccggcgc tgccggcgtt gcgtaatccg
+     3841 gttctggatg agagcccggg ttgccaacgt gtcgcagacg gtcgtgcgcg tgcgctgatg
+     3901 gcattgtacc aaggcgttta tgagctgatg tttgcgatga tggcgcagca cttcgccgtg
+     3961 aaaccgctgg gtagcttgcg tcgcagccgc ctgatgaacg cagcaatcga tctgatgacc
+     4021 ggtctgttgc gtccgctgag ctgcgcgctg atgaacctgc caagcggcat cgccggtcgc
+     4081 acggccggtc cgccgctgcc gggtccggtt gacacccgta gctatgacga ctacgcgctg
+     4141 ggctgtcgca tgctggcacg ccgttgcgag cgtctgctgg agcaggcgag catgctggaa
+     4201 ccgggttggc tgccggatgc gcagatggag ctgctggatt tctatcgtcg ccaaatgctg
+     4261 gacttggcgt gcggcaaact gagccgcgag gcctaatgat ccttaaggag gtaaaaaaaa
+     4321 tgaaacgtgc gattatcgtt ggtggcggcc tggcgggtgg cctgaccgcg atctacctgg
+     4381 cgaagcgtgg ctacgaagtg cacgtcgtgg agaagcgtgg tgatcctctg cgcgatctga
+     4441 gctcttacgt ggacgttgtt agcagccgtg cgatcggcgt gagcatgacc gttcgtggta
+     4501 tcaagagcgt tttggctgcg ggcattccgc gtgcagagct ggatgcgtgt ggcgaaccga
+     4561 tcgtggcaat ggctttctcc gtgggtggtc agtatcgcat gcgcgaactg aagccgttgg
+     4621 aggatttccg tccgctgagc ttgaaccgtg cggcgtttca aaagctgctg aacaaatacg
+     4681 cgaacctggc aggcgttcgt tactactttg agcataagtg cctggatgtt gacctggatg
+     4741 gtaagagcgt gttgattcag ggcaaagatg gtcagccgca gcgtctgcaa ggtgacatga
+     4801 ttatcggtgc ggatggcgcc cacagcgccg tccgtcaggc gatgcagagc ggcctgcgtc
+     4861 gtttcgagtt ccagcaaacg ttcttccgcc atggctacaa aaccctggtt ttgccggacg
+     4921 cgcaagcact gggttaccgt aaagacacgc tgtacttttt cggcatggat tccggtggcc
+     4981 tgttcgcggg tcgtgcggct acgatcccag atggtagcgt cagcatcgcc gtttgcctgc
+     5041 cgtactcggg tagcccttcc ctgacgacca ccgacgaacc gacgatgcgt gcgttcttcg
+     5101 atcgttactt cggtggcctg ccgcgtgacg cgcgtgacga aatgctgcgt cagtttctgg
+     5161 cgaagccgag caacgacctg attaacgtgc gctctagcac ctttcactat aagggtaatg
+     5221 tgctgttgct gggtgatgct gcgcatgcga ctgcgccgtt cctgggtcag ggtatgaaca
+     5281 tggcgctgga ggacgcccgc acgtttgtcg agctgctgga ccgccaccag ggcgaccaag
+     5341 acaaagcctt tccggagttc acggagctgc gcaaagtcca ggcagacgca atgcaagaca
+     5401 tggctcgcgc caactatgac gttttgagct gctcgaaccc gatctttttc atgcgtgcgc
+     5461 gttacacgcg ttacatgcat tccaagtttc cgggcctgta tccgccggat atggccgaga
+     5521 aactgtactt tacgagcgag ccgtacgatc gtctgcaaca aatccagcgt aaacagaatg
+     5581 tttggtacaa gattggtcgc gtgaattgat gatctttaag gaggtaaaaa aaatgaagat
+     5641 tctggtcatt ggtgctggtc cagctggtct ggttttcgca tcccaactga agcaggcacg
+     5701 ccctttgtgg gccattgaca tcgtggagaa gaatgacgag caagaagtgc tgggctgggg
+     5761 tgtcgtgctg cctggccgtc cgggtcagca cccggcgaac ccgctgtcct atctggatgc
+     5821 accggagcgt ctgaatccgc aatttctgga ggacttcaaa ctggtgcatc ataatgagcc
+     5881 gtccttgatg tccacgggcg ttttgttgtg cggcgtggag cgtcgcggtc tggttcacgc
+     5941 gctgcgcgat aagtgccgca gccaaggcat tgctattcgt ttcgaaagcc cgttgctgga
+     6001 acacggtgag ctgccgctgg cggactatga tctggtggtc ctggctaatg gtgttaatca
+     6061 caaaaccgcg catttcaccg aggctctggt cccgcaggtg gactacggcc gcaataagta
+     6121 catttggtat ggcactagcc agctgttcga tcagatgaat ctggtttttc gtacccatgg
+     6181 taaagatatc tttatcgcgc atgcctataa gtatagcgat accatgagca cgttcattgt
+     6241 cgaatgtagc gaagagactt acgcacgcgc acgcctgggc gaaatgtccg aagaggcgag
+     6301 cgcagaatac gttgctaagg tgttccaggc cgagctgggt ggtcacggcc tggtgagcca
+     6361 gccgggtctg ggttggcgta acttcatgac gttgtctcat gaccgttgtc atgatggtaa
+     6421 gttggttctg ctgggtgacg cgctgcaaag cggtcacttt agcatcggcc acggcaccac
+     6481 gatggccgtg gtggtggcgc agctgctggt taaagcgctg tgtaccgaag atggtgtgcc
+     6541 tgccgcgctg aaacgtttcg aagagcgtgc cctgccgctg gtgcagttgt tccgtggcca
+     6601 cgcagacaac agccgcgttt ggttcgaaac cgtcgaagag cgcatgcacc tgtcctcggc
+     6661 ggaatttgtg caaagcttcg acgcacgccg caaaagcctg ccgccgatgc cggaagcact
+     6721 ggcgcagaat ctgcgttatg ctttgcagcg ctgatgatca ttaaggaggt aaaaaaaatg
+     6781 gagaaccgtg agccaccact gttgccagcc cgttggagca gcgcctatgt ctcttattgg
+     6841 agcccgatgc tgccggatga ccagctgacc agcggctatt gctggttcga ctatgaacgt
+     6901 gacatctgtc gtattgacgg cctgttcaat ccgtggagcg agcgtgatac tggttatcgc
+     6961 ctgtggatgt cggaggttgg taatgcggcc agcggccgta cctggaaaca aaaagtcgcc
+     7021 tatggtcgtg agcgtaccgc cctgggtgaa cagctgtgtg agcgtccgct ggatgatgag
+     7081 actggccctt ttgccgaatt gttcctgcca cgcgatgtcc tgcgccgtct gggtgcccgt
+     7141 cacattggcc gtcgcgtggt tctgggtcgc gaagcggacg gttggcgtta ccagcgccca
+     7201 ggtaaaggtc cgagcaccct gtacctggat gcggcgagcg gcactccact gcgcatggtc
+     7261 accggcgatg aagcgtcgcg tgcaagcctg cgtgattttc cgaatgtgag cgaggcggag
+     7321 atcccggacg cggttttcgc ggccaagcgc taagctttga gacc
+//
+LOCUS       ntrC                    1429 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part ntrC.
+ACCESSION   ntrC
+VERSION     ntrC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..1418
+                     /label="ntrC"
+                     /gene="ntrC"
+     misc_feature    1419..<1422
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    1423..1429
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gcaacgaggg atagtctggg tagtcgatga cgatagttcc atccgttggg
+       61 tgcttgaacg tgcgctcgct ggggcaggtt taacctgtac gacgtttgag aacggcgcag
+      121 aagtgctgga ggcgctggcg agcaaaacgc cggatgtgct gctttcagat atccgtatgc
+      181 cgggaatgga cgggctggcg ctgctcaagc agattaaaca gcgccatcca atgcttccgg
+      241 tcatcattat gaccgcacat tccgatctgg atgctgccgt cagcgcctat caacaagggg
+      301 cgtttgatta tctgcccaaa ccgtttgata tcgacgaagc agtggcgctg gttgagcgcg
+      361 ctatcagtca ttaccaggaa cagcagcagc cgcgtaatgt tcagcttaac ggcccaacga
+      421 ccgatatcat cggcgaagcg ccagccatgc aggacgtgtt ccgtattatc ggtcggcttt
+      481 cgcgttcttc tattagcgtg ctgattaacg gcgaatccgg caccggtaaa gaactggtcg
+      541 ctcatgccct gcatcgccac agtccgcgcg ccaaagcgcc gtttatcgcg ctgaatatgg
+      601 cagctatccc aaaagatttg atcgaatcag aactgtttgg ccacgagaaa ggcgcgttta
+      661 ctggcgcgaa taccattcgt caggggcgtt ttgaacaggc cgatggcggt acattattcc
+      721 tcgacgaaat tggtgatatg ccgctggatg tgcagacgcg tttgctgcgc gtgctggcag
+      781 acggtcagtt ttaccgcgtt ggcggctatg cgccggtgaa agtggatgtg cggattatcg
+      841 ctgccactca ccagaatctc gaacagcgag tgcaggaagg taagttccgt gaggatctgt
+      901 tccaccgcct gaacgttatc cgcgttcatc tgccgccgct gcgcgaacgt cgggaagata
+      961 ttccccgtct ggcgcgccat tttttacagg ttgccgcgcg cgaactgggc gtagaagcga
+     1021 agttactgca tccggaaacc gaagctgctc tgacgcgtct ggcgtggcca ggcaacgtgc
+     1081 gccagctgga aaacacctgc cgctggctaa cggtgatggc cgccgggcag gaagtgttga
+     1141 ttcaggattt gcccggcgaa ctgtttgaat caacggttgc ggagagtact tcgcaaatgc
+     1201 aaccggacag ctgggcgacg cttcttgcgc agtgggcaga cagagcgctg cgttccggtc
+     1261 atcaaaatct gctttccgaa gcgcagccag agctggagcg gacgttactg acgaccgcgt
+     1321 tgcgacatac gcaggggcat aaacaggaag cggcgcggct actcggctgg ggccgcaaca
+     1381 ccctgacgcg taagttaaaa gagctgggga tggagtgagc tttgagacc
+//
+LOCUS       mazE                     268 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part mazE.
+ACCESSION   mazE
+VERSION     mazE
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..257
+                     /label="mazE"
+                     /gene="mazE"
+     misc_feature    258..<261
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    262..268
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gatccacagt agcgtaaagc gttggggaaa ttcaccggcg gtgcggatcc
+       61 cggctacgtt aatgcaggcg ctcaatctga atattgatga tgaagtgaag attgacctgg
+      121 tggatggcaa attaattatt gagccagtgc gtaaagagcc cgtatttacg cttgctgaac
+      181 tggtcaacga catcacgccg gaaaacctcc acgagaatat cgactgggga gagccgaaag
+      241 ataaggaagt ctggtaagct ttgagacc
+//
+LOCUS       mazF                     355 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part mazF.
+ACCESSION   mazF
+VERSION     mazF
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..344
+                     /label="mazF"
+                     /gene="mazF"
+     misc_feature    345..<348
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    349..355
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggtaagccga tacgtacccg atatgggcga tctgatttgg gttgattttg
+       61 acccgacaaa aggtagcgag caagctggac atcgtccagc tgttgtcctg agtcctttca
+      121 tgtacaacaa caaaacaggt atgtgtctgt gtgttccttg tacaacgcaa tcaaaaggat
+      181 atccgttcga agttgtttta tccggtcagg aacgtgatgg cgtagcgtta gctgatcagg
+      241 taaaaagtat cgcctggcgg gcaagaggag caacgaagaa aggaacagtt gccccagagg
+      301 aattacaact cattaaagcc aaaattaacg tactgattgg gtaggctttg agacc
+//
+LOCUS       T7RNAP                  2671 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part T7RNAP.
+ACCESSION   T7RNAP
+VERSION     T7RNAP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..2660
+                     /label="T7RNAP"
+                     /gene="T7RNAP"
+     misc_feature    2661..<2664
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    2665..2671
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gaacacgatt aacatcgcta agaacgactt ctctgacatc gaactggctg
+       61 ctatcccgtt caacactctg gctgaccatt acggtgagcg tttagctcgc gaacagttgg
+      121 cccttgagca tgagtcttac gagatgggtg aagcacgctt ccgcaagatg tttgagcgtc
+      181 aacttaaagc tggtgaggtt gcggataacg ctgccgccaa gcctctcatc actaccctac
+      241 tccctaagat gattgcacgc atcaacgact ggtttgagga agtgaaagct aagcgcggca
+      301 agcgcccgac agccttccag ttcctgcaag aaatcaagcc ggaagccgta gcgtacatca
+      361 ccattaagac cactctggct tgcctaacca gtgctgacaa tacaaccgtt caggctgtag
+      421 caagcgcaat cggtcgggcc attgaggacg aggctcgctt cggtcgtatc cgtgaccttg
+      481 aagctaagca cttcaagaaa aacgttgagg aacaactcaa caagcgcgta gggcacgtct
+      541 acaagaaagc atttatgcaa gttgtcgagg ctgacatgct ctctaagggt ctactcggtg
+      601 gcgaggcgtg gtcttcgtgg cataaggaag actctattca tgtaggagta cgctgcatcg
+      661 agatgctcat tgagtcaacc ggaatggtta gcttacaccg ccaaaatgct ggcgtagtag
+      721 gtcaagactc tgagactatc gaactcgcac ctgaatacgc tgaggctatc gcaacccgtg
+      781 caggtgcgct ggctggcatc tctccgatgt tccaaccttg cgtagttcct cctaagccgt
+      841 ggactggcat tactggtggt ggctattggg ctaacggtcg tcgtcctctg gcgctggtgc
+      901 gtactcacag taagaaagca ctgatgcgct acgaagacgt ttacatgcct gaggtgtaca
+      961 aagcgattaa cattgcgcaa aacaccgcat ggaaaatcaa caagaaagtc ctagcggtcg
+     1021 ccaacgtaat caccaagtgg aagcattgtc cggtcgagga catccctgcg attgagcgtg
+     1081 aagaactccc gatgaaaccg gaagacatcg acatgaatcc tgaggctctc accgcgtgga
+     1141 aacgtgctgc cgctgctgtg taccgcaagg acaaggctcg caagtctcgc cgtatcagcc
+     1201 ttgagttcat gcttgagcaa gccaataagt ttgctaacca taaggccatc tggttccctt
+     1261 acaacatgga ctggcgcggt cgtgtttacg ctgtgtcaat gttcaacccg caaggtaacg
+     1321 atatgaccaa aggactgctt acgctggcga aaggtaaacc aatcggtaag gaaggttact
+     1381 actggctgaa aatccacggt gcaaactgtg cgggtgtcga taaggttccg ttccctgagc
+     1441 gcatcaagtt cattgaggaa aaccacgaga acatcatggc ttgcgctaag tctccactgg
+     1501 agaacacttg gtgggctgag caagattctc cgttctgctt ccttgcgttc tgctttgagt
+     1561 acgctggggt acagcaccac ggcctgagct ataactgctc ccttccgctg gcgtttgacg
+     1621 ggtcttgctc tggcatccag cacttctccg cgatgctccg agatgaggta ggtggtcgcg
+     1681 cggttaactt gcttcctagt gaaaccgttc aggacatcta cgggattgtt gctaagaaag
+     1741 tcaacgagat tctacaagca gacgcaatca atgggaccga taacgaagta gttaccgtga
+     1801 ccgatgagaa cactggtgaa atctctgaga aagtcaagct gggcactaag gcactggctg
+     1861 gtcaatggct ggcttacggt gttactcgca gtgtgactaa gcgttcagtc atgacgctgg
+     1921 cttacgggtc caaagagttc ggcttccgtc aacaagtgct ggaagatacc attcagccag
+     1981 ctattgattc cggcaagggt ctgatgttca ctcagccgaa tcaggctgct ggatacatgg
+     2041 ctaagctgat ttgggaatct gtgagcgtga cggtggtagc tgcggttgaa gcaatgaact
+     2101 ggcttaagtc tgctgctaag ctgctggctg ctgaggtcaa agataagaag actggagaga
+     2161 ttcttcgcaa gcgttgcgct gtgcattggg taactcctga tggtttccct gtgtggcagg
+     2221 aatacaagaa gcctattcag acgcgcttga acctgatgtt cctcggtcag ttccgcttac
+     2281 agcctaccat taacaccaac aaagatagcg agattgatgc acacaaacag gagtctggta
+     2341 tcgctcctaa ctttgtacac agccaagacg gtagccacct tcgtaagact gtagtgtggg
+     2401 cacacgagaa gtacggaatc gaatcttttg cactgattca cgactccttc ggtaccattc
+     2461 cggctgacgc tgcgaacctg ttcaaagcag tgcgcgaaac tatggttgac acatatgagt
+     2521 cttgtgatgt actggctgat ttctacgacc agttcgctga ccagttgcac gagtctcaat
+     2581 tggacaaaat gccagcactt ccggctaaag gtaacttgaa cctccgtgac atcttagagt
+     2641 cggacttcgc gttcgcgtaa gctttgagac c
+//
+LOCUS       T4RNAP                  2674 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part T4RNAP.
+ACCESSION   T4RNAP
+VERSION     T4RNAP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..2663
+                     /label="T4RNAP"
+                     /gene="T4RNAP"
+     misc_feature    2664..<2667
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    2668..2674
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gaacatcatc gaaaacatcg aaaagaatga cttctcagaa atcgaactgg
+       61 ctgctatccc gttcaacaca ctggctgacc actacggaag cgccttggct aaagagcagt
+      121 tggctttaga acatgagtct tatgagctag gcgagcgccg cttcctcaag atgcttgagc
+      181 gtcaagcgaa agctggtgag attgcagaca acgcagccgc taagccgtta ctcgctacgc
+      241 ttctccctaa gttaaccaca cgtatcgtcg agtggctcga agagtacgca tcgaagaaag
+      301 gccgcaagcc tagcgcatac gcaccgctcc agttactcaa gccggaggcc tccgcgttta
+      361 tcaccctgaa agttatcctt gcgtcactaa ccagtacgaa catgacaacc attcaggccg
+      421 ctgctggtat gctggggaaa gccattgagg acgaggcacg atttgggcgc atccgtgacc
+      481 tagaagcgaa gcacttcaag aagcacgttg aggaacagct taacaagcgc cacgggcaag
+      541 tctacaagaa agcatttatg caggtggtcg aggccgatat gattggtcga ggtctgcttg
+      601 gtggcgaggc gtggtctagc tgggataaag aaaccacgat gcacgtaggg attcgcctga
+      661 ttgaaatgct gattgaatcc acgggtctgg tggaattaca gcgccacaac gcaggtaacg
+      721 caggctctga ccatgaggca ctgcaactgg cccaagagta cgtggacgta ttagcgaagc
+      781 gtgcaggcgc tctggcgggt atctctccga tgttccagcc gtgtgtcgta ccgccgaaac
+      841 cttgggtagc aatcacaggg ggcggctatt gggctaacgg tcgcagacct ttggcactcg
+      901 ttcgcactca ctctaagaag ggcttgatgc gctacgaaga cgtttacatg ccagaagtct
+      961 acaaggctgt gaacctcgcg caaaacaccg catggaaaat caacaagaaa gttcttgctg
+     1021 ttgtcaatga gattgttaac tggaagaatt gcccggtagc agacattcca tcgctggagc
+     1081 gccaagagtt accgcctaag cctgacgaca ttgacaccaa cgaggcagcg ctcaaggagt
+     1141 ggaagaaagc cgctgctggt atctatcgct tggacaaggc acgagtgtct cgccgtatca
+     1201 gcttagagtt catgctggag caggccaaca agttcgcaag taagaaagca atctggttcc
+     1261 cttacaacat ggactggcgc ggtcgtgtgt acgctgtgcc gatgttcaac ccgcaaggca
+     1321 acgacatgac gaaaggtctg ctgacccttg ctaaaggcaa gccaatcggt gaggaaggtt
+     1381 tctactggct gaaaatccac ggtgcgaact gtgcgggtgt tgataaggtt ccattcccgg
+     1441 agcgcatcgc gttcattgag aagcacgtag acgacattct ggcttgcgct aaagacccaa
+     1501 tcaataacac ttggtgggct gagcaggatt caccgttctg tttcctcgcg ttttgcttcg
+     1561 agtatgcagg cgttacgcac cacggtctga gctacaattg ctctctgccg ctggcgttcg
+     1621 acgggtcttg ctctggtatc cagcacttct ccgcgatgct ccgcgatgag gtaggcggtc
+     1681 gtgcggttaa cctgctgcca agcgaaaccg tgcaggacat ttacggcatc gttgcacaga
+     1741 aagtaaacga gattctcaaa caggatgcaa tcaacggcac gcctaacgag atgattaccg
+     1801 tgaccgacaa ggacaccggg gaaatctcag agaagctcaa acttggaacc tcaacgctgg
+     1861 cgcaacagtg gctggcatat ggtgtaaccc gtagcgtaac taaacgttcg gtcatgacgc
+     1921 tggcttacgg ttccaaggag ttcggctttc gtcaacaggt attggatgac accattcagc
+     1981 ctgcaattga cagcggtaag ggcttgatgt tcacccaacc gaaccaagcg gctggctata
+     2041 tggctaagct gatttgggat gcggtaagcg tgaccgtagt tgcagcggtt gaggcgatga
+     2101 actggctcaa atctgccgct aagctgctgg ctgctgaggt caaggacaag aagaccaagg
+     2161 agattctgcg ccaccgttgc gcggttcact ggactacgcc ggacggcttc ccggtctggc
+     2221 aggaataccg caagccactc cagaagcgtc tcgatatgat tttcttaggg caattccgtc
+     2281 tgcaaccgac gattaatacc ctcaaggatt caggcattga cgcacacaag caggagtctg
+     2341 gcatcgctcc taactttgtt cactcacagg acggtagcca cctccgcatg acagtcgttt
+     2401 atgctcacga gaagtatggc attgagtcct ttgcgctcat ccatgacagc tttgggacta
+     2461 tcccggcaga cgctggtaag ctctttaagg ctgtgcgtga aacgatggtt atcacctatg
+     2521 agaacaacga tgtgctggca gacttctact ctcagtttgc cgaccagcta cacgagaccc
+     2581 aactggacaa gatgcctccg cttccgaaga aaggaaacct gaacctgcaa gacattctca
+     2641 agtctgactt tgcctttgca taagctttga gacc
+//
+LOCUS       araC                     898 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part araC.
+ACCESSION   araC
+VERSION     araC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..887
+                     /label="araC"
+                     /gene="araC"
+     misc_feature    888..<891
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    892..898
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggctgaagcg caaaatgatc ccctgctgcc gggatactcg tttaacgccc
+       61 atctggtggc gggtttaacg ccgattgagg ccaacggtta tctcgatttt tttatcgacc
+      121 gaccgctggg aatgaaaggt tatattctca atctcaccat tcgcggtcag ggggtggtga
+      181 aaaatcaggg acgagaattt gtctgccgac cgggtgatat tttgctgttc ccgccaggag
+      241 agattcatca ctacggtcgt catccggagg ctcgcgaatg gtatcaccag tgggtttact
+      301 ttcgtccgcg cgcctactgg catgaatggc ttaactggcc gtcaatattt gccaatacgg
+      361 gtttctttcg cccggatgaa gcgcaccagc cgcatttcag cgacctgttt gggcaaatca
+      421 ttaacgccgg gcaaggggaa gggcgctatt cggagctgct ggcgataaat ctgcttgagc
+      481 aattgttact gcggcgcatg gaagcgatta acgagtcgct ccatccaccg atggataatc
+      541 gggtacgcga ggcttgtcag tacatcagcg atcacctggc agacagcaat tttgatatcg
+      601 ccagcgtcgc acagcatgtt tgcttgtcgc cgtcgcgtct gtcacatctt ttccgccagc
+      661 agttagggat tagcgtctta agctggcgcg aggaccaacg cattagtcag gcgaagctgc
+      721 ttttgagcac tacccggatg cctatcgcca ccgtcggtcg caatgttggt tttgacgatc
+      781 aactctattt ctcgcgagta tttaaaaaat gcaccggggc cagcccgagc gagtttcgtg
+      841 ccggttgtga agaaaaagtg aatgatgtag ccgtcaagtt gtcataagct ttgagacc
+//
+LOCUS       asiA                     292 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part asiA.
+ACCESSION   asiA
+VERSION     asiA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..281
+                     /label="asiA"
+                     /gene="asiA"
+     misc_feature    282..<285
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    286..292
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gaataaaaac attgatacag ttcgtgaaat tattactgtt gcatctattt
+       61 tgattaaatt ttccagagaa gatattgttg agaatcgtgc taattttatt gcatttctaa
+      121 atgagattgg agtaacgcat gaaggtagaa agttaaatca aaattcattc cgtaaaattg
+      181 tttctgaatt aactcaagaa gataagaaaa ccctcatcga cgaattcaac gagggttttg
+      241 agggtgtata tcgatatcta gagatgtata cgaacaaata agctttgaga cc
+//
+LOCUS       amilGFP_(yellow)         715 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part amilGFP_(yellow).
+ACCESSION   amilGFP_(yellow)
+VERSION     amilGFP_(yellow)
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     cds             9..704
+                     /label="amilGFP"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    705..<708
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    709..715
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtcttattca aagcatggca tcgtacaaga aatgaagacg aaataccata
+       61 tggaaggcag tgtcaatggc catgaattta cgatcgaagg tgtaggaact gggtaccctt
+      121 acgaagggaa acagatgtcc gaattagtga tcatcaagcc tgcgggaaaa ccccttccat
+      181 tctcctttga catactgtca tcagtctttc aatatggaaa ccgttgcttc acaaagtacc
+      241 cggcagacat gcctgactat ttcaagcaag cattcccaga tggaatgtca tatgaaaggt
+      301 catttctatt tgaggatgga gcagttgcta cagccagctg gaacattcgt ctcgaaggaa
+      361 attgcttcat ccacaaatcc atctttcatg gcgtaaactt tcccgctgat ggacccgtaa
+      421 tgaaaaagaa gacaattgac tgggataagt ccttcgaaaa aatgactgtg tctaaagagg
+      481 tgctaagagg tgacgtgact atgtttctta tgctcgaagg aggtggttct cacagatgcc
+      541 aatttcactc cacttacaaa acagagaagc cggtcacact gcccccgaat catgtcgtag
+      601 aacatcaaat tgtgaggacc gaccttggcc aaagtgcaaa aggctttaca gtcaagctgg
+      661 aagcacatgc cgcggctcat gttaaccctt tgaaggttaa ataagctttg agacc
+//
+LOCUS       aeBlue                   718 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part aeBlue.
+ACCESSION   aeBlue
+VERSION     aeBlue
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     cds             9..707
+                     /label="aeBlue"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     misc_feature    708..<711
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    712..718
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggcttcactg gttaaaaaag acatgtgcat caaaatgacg atggaaggaa
+       61 cagtaaacgg tcaccatttc aagtgtgtag gagaaggcga aggcaaacca tttgaaggga
+      121 cccaggtgga aaagatacgc atcactgaag gtgggccctt accatttgcg tatgatattt
+      181 tggccccttg ttgcatgtat ggcagtaaaa ccttcattaa gcatgtgtcg ggtattccgg
+      241 attactttaa ggagtctttt cctgagggct ttacctggga aagaacacaa atcttcgagg
+      301 atggcggcta tctcaccata caccaggaca cgagccttca gggtaataat tttattttca
+      361 aagttaatgt catcggtgcc aacttccctg caaacggtcc cgtgatgcag aaaaaaacag
+      421 ctggatggga accgtgcgtt gagatgcttt atccgcggga cggcgtcctg tgtggtcaga
+      481 gcctgatggc cctgaaatgc actgatggca atcatctgac gtcccacctg cgcactacct
+      541 atcgttctcg caagccatcc aatgcagtta acatgccgga atttcatttt ggggatcatc
+      601 gcattgagat tttgaaagct gaacaaggta aattttatga acaatacgag tcagcggtgg
+      661 cccgttactg tgaggcggca ccgagtaaat tagggcatca ctaataagct ttgagacc
+//
+LOCUS       cjBlue                   721 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part cjBlue.
+ACCESSION   cjBlue
+VERSION     cjBlue
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..710
+                     /label="cjBlue"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    711..<714
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    715..721
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggcttccaaa ataagcgaca acgtacgtat caaactgtat atggagggca
+       61 cggttaataa tcaccacttc atgtgtgaag cggagggtga gggcaagcca tacgaaggaa
+      121 cgcagatgga aaacattaaa gtgaccaaag gaggcccgct gccgttctct tttgatatcc
+      181 tgacgccgaa ctgccaatat ggttctgtag ccataaccaa gtacacgtcg gggattccgg
+      241 actattttaa acagtcattc cctgaaggtt ttacctggga aagaaccacc atttatgaag
+      301 atggggctta tctgacaact cagcaggaaa ccaaacttga tggaaattgc ttagtctaca
+      361 atattaaaat cctcggctgc aattttcccc ccaatggtcc tgttatgcag aaaaaaacgc
+      421 aaggctggga accatgttgc gagatgcgct atacacgtga tggtgtcttg tgcggtcaga
+      481 cattaatggc actgaaatgt gccgatggga accatctgac ttgtcatctg cggactactt
+      541 accgatccaa aaaggcagcg aaggcgttgc aaatgccacc tttccatttt tcagaccatc
+      601 gtccggaaat tgtgaaggtt agcgagaacg gcacactgtt tgagcagcac gaaagtagtg
+      661 tggcacgcta ttgtcagaca tgcccgagca aacttggtca taattaataa gctttgagac
+      721 c
+//
+LOCUS       eforRed_(pink)           706 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part eforRed_(pink).
+ACCESSION   eforRed_(pink)
+VERSION     eforRed_(pink)
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..695
+                     /label="eforRed"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    696..<699
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    700..706
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtcggtaatc aagcaagtga tgaaaactaa gcttcatctt gaaggtaccg
+       61 ttaatggcca tgattttacc atcgagggta aaggcgaagg caaaccttac gaaggtcttc
+      121 agcatatgaa gatgacagtt accaaaggtg cgccactgcc cttctcagta catatcctga
+      181 ccccttcaca catgtatggt tcaaagccat ttaataagta cccggctgac atcccggatt
+      241 accacaaaca gtcgttccca gagggcatgt cctgggaaag atccatgatc ttcgaggatg
+      301 gcggagtctg tactgctagc aatcactcgt cgatcaacct acaggaaaat tgctttattt
+      361 atgatgtcaa gtttcacggt gtgaatttgc cacctgatgg cccggtcatg cagaagacga
+      421 tcgctggttg ggagccttcc gtcgaaactc tgtacgtccg agatgggatg cttaagtctg
+      481 acacagcaat ggtgttcaaa ttgaaagggg gaggtcacca tagggtggat tttaagacca
+      541 cctacaaggc taagaagcca gtgaagctgc ctgagtttca ttttgtggaa caccgcctcg
+      601 aactgaccaa gcacgataag gatttcacca cttgggatca acaagaggca gcggagggcc
+      661 atttctcccc tctcccgaag gctctcccgt aataagcttt gagacc
+//
+LOCUS       RFP_(red)                697 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part RFP_(red).
+ACCESSION   RFP_(red)
+VERSION     RFP_(red)
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..686
+                     /label="RFP"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    687..<690
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    691..697
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggcttcctcc gaagacgtta tcaaagagtt catgcgtttc aaagttcgta
+       61 tggaaggttc cgttaacggt cacgagttcg aaatcgaagg tgaaggtgaa ggtcgtccgt
+      121 acgaaggtac ccagaccgct aaactgaaag ttaccaaagg tggtccgctg ccgttcgctt
+      181 gggacatcct gtccccgcag ttccagtacg gttccaaagc ttacgttaaa cacccggctg
+      241 acatcccgga ctacctgaaa ctgtccttcc cggaaggttt caaatgggaa cgtgttatga
+      301 acttcgaaga cggtggtgtt gttaccgtta cccaggactc ctccctgcaa gacggtgagt
+      361 tcatctacaa agttaaactg cgtggtacca acttcccgtc cgacggtccg gttatgcaga
+      421 aaaaaaccat gggttgggaa gcttccaccg aacgtatgta cccggaagac ggtgctctga
+      481 aaggtgaaat caaaatgcgt ctgaaactga aagacggtgg tcactacgac gctgaagtta
+      541 aaaccaccta catggctaaa aaaccggttc agctgccggg tgcttacaaa accgacatca
+      601 aactggacat cacctcccac aacgaagact acaccatcgt tgaacagtac gaacgtgctg
+      661 aaggtcgtca ctccaccggt gcttaagctt tgagacc
+//
+LOCUS       asPink                   721 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part asPink.
+ACCESSION   asPink
+VERSION     asPink
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     cds             9..710
+                     /label="asPink"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    711..<714
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    715..721
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggcgagcttc ctgaaaaaga cgatgccgtt caaaaccacg attgaaggca
+       61 cggtcaacgg tcactacttt aaatgtacgg gtaaaggcga aggtaacccg ttcgaaggca
+      121 cccaggaaat gaaaattgaa gtcatcgaag gcggtccgct gccgtttgcg tttcatattc
+      181 tgagcacgtc ttgcatgtac ggctcaaaga ccttcatcaa gtacgtgtcg ggtatcccgg
+      241 attactttaa acagagcttc ccggaaggct ttacctggga acgtaccacg acctatgaag
+      301 atggcggttt cctgacggcg caccaagaca cctctctgga tggtgactgt ctggtgtaca
+      361 aagttaagat tctgggcaac aattttccgg ccgatggtcc ggttatgcag aacaaagcgg
+      421 gccgttggga accggctacg gaaatcgtct atgaagtgga cggcgttctg cgcggtcaat
+      481 ccctgatggc cctgaaatgc ccgggcggtc gtcatctgac ctgtcatctg cacacgacct
+      541 atcgtagcaa aaaaccggcg agcgccctga aaatgccggg ctttcatttc gaagatcacc
+      601 gcattgaaat catggaagaa gtcgaaaaag gtaagtgcta caagcagtac gaagcagcag
+      661 tgggtcgcta ttgtgatgcg gcaccgagca agctgggtca taattaataa gctttgagac
+      721 c
+//
+LOCUS       spisPink                 697 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part spisPink.
+ACCESSION   spisPink
+VERSION     spisPink
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     cds             9..686
+                     /label="spisPink"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    687..<690
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    691..697
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtcgcactca aaacaagcac tggcagatac gatgaaaatg acgtggctga
+       61 tggaaggttc ggtcaacggt cacgccttta cgattgaagg cgaaggtacc ggcaaaccgt
+      121 atgaaggtaa acagagtggc acctttcgtg ttacgaaagg cggtccgctg ccgtttgcgt
+      181 ttgatattgt cgctccgacc ctgaaatacg gtttcaaatg cttcatgaaa tacccggcgg
+      241 atattccgga ctactttaaa ctggccttcc cggaaggcct gacgtacgat cgtaaaattg
+      301 cgtttgaaga cggcggttgt gcgaccgcca cggtcgaaat gagcctgaag ggtaacaccc
+      361 tggtgcataa aacgaacttt cagggcggta atttcccgat tgatggtccg gtgatgcaaa
+      421 aacgcaccct gggctgggaa ccgacctctg aaaaaatgac gccgtgcgat ggtattatca
+      481 aaggcgacac catcatgtac ctgatggttg aaggcggtaa aacgctgaaa tgtcgttatg
+      541 aaaacaatta ccgcgccaac aaaccagtgc tgatgccgcc gagccacttt gtggatctgc
+      601 gtctgacccg cacgaatctg gataaagaag gtctggcgtt caaactggaa gaatatgctg
+      661 ttgcccgtgt gctggaagtg taataagctt tgagacc
+//
+LOCUS       gfasPurple               685 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part gfasPurple.
+ACCESSION   gfasPurple
+VERSION     gfasPurple
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     cds             9..674
+                     /label="gfasPurple"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    675..<678
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    679..685
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtcggtgatt gctaaacaga tgacctacaa agtctatatg tcgggtacgg
+       61 tgaacggcca ttattttgaa gttgaaggtg acggtaaagg caagccgtat gaaggcgaac
+      121 agaccgttaa actgaccgtc acgaagggcg gtccgctgcc gtttgcatgg gatattctga
+      181 gtccgcagtc ccaatatggc agcatcccgt tcacgaaata tccggaagat atcccggact
+      241 acgtgaagca gtcttttccg gaaggttaca cctgggaacg tatcatgaac ttcgaagatg
+      301 gcgccgtctg caccgtgagt aacgacagct ctattcaagg taattgtttc atctaccatg
+      361 tcaagttctc aggtctgaac ttcccgccga atggcccggt gatgcagaaa aagacccaag
+      421 gctgggaacc gaatacggaa cgtctgtttg cacgcgatgg tatgctgatt ggcaacaatt
+      481 tcatggctct gaaactggaa ggcggtggcc actatctgtg cgaatttaaa agcacctaca
+      541 aggcgaaaaa gccggttaaa atgccgggct atcattacgt ggatcgtaaa ctggacgtta
+      601 ccaaccacaa taaggactat acgtccgtcg aacagtgtga aatttcaatc gcgcgcaaat
+      661 cggtggttgc ctaagctttg agacc
+//
+LOCUS       meffBlue                 688 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part meffBlue.
+ACCESSION   meffBlue
+VERSION     meffBlue
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     cds             9..677
+                     /label="meffBlue"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    678..<681
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    682..688
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtccgttatc gcaacccaga tgacgtacaa agtttatatg tcgggcaccg
+       61 tgaatggtca ttattttgaa gtcgaaggtg atggcaaagg tcgtccgtat gaaggcgaac
+      121 agaccgtcaa actgaccgtg acgaaaggcg gtccgctgcc gtttgcatgg gatattctga
+      181 gtccgcagtg ccaatacggt tccattccgt tcaccaaata tccggaagat atcccggact
+      241 acgtcaaaca gagctttccg gaaggtttca cgtgggaacg cattatgaac tttgaagatg
+      301 gcgctgtgtg caccgtttca aacgacagct ctatccaagg caactgcttc acgtatcatg
+      361 tgaaattttc gggtctgaac ttcccgccga atggcccggt tatgcagaag aaaacccaag
+      421 gttgggaacc gcacagtgaa cgtctgtttg cgcgcggcgg tatgctgatc ggcaacaatt
+      481 tcatggccct gaaactggaa ggcggtggcc attatctgtg tgaatttaaa accacgtaca
+      541 aagcgaaaaa accagtgaaa atgccgggtt atcattacgt tgatcgtaaa ctggacgtca
+      601 cgaaccacaa taaagactat acctcagttg aacagtgtga aatcagcatc gcacgcaagc
+      661 cggtggtcgc ctaataagct ttgagacc
+//
+LOCUS       amajLime                 709 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part amajLime.
+ACCESSION   amajLime
+VERSION     amajLime
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     cds             9..698
+                     /label="amajLime"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    699..<702
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    703..709
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggcactgagc aacaagttta tcggtgatga tatgaaaatg acgtaccaca
+       61 tggacggctg cgtgaacggc cactacttta cggtgaaagg tgaaggcaac ggtaaaccgt
+      121 atgaaggcac ccagacgagc acctttaaag ttacgatggc gaatggcggt ccgctggcct
+      181 ttagtttcga tattctgtcc accgtcttta aatacggcaa ccgttgcttc acggcgtatc
+      241 cgaccagcat gccggattac tttaagcaag ccttcccgga cggcatgtct tatgaacgca
+      301 cgtttaccta cgaagatggc ggtgtggcga ccgccagctg ggaaatttct ctgaaaggca
+      361 actgtttcga acataagagt acctttcacg gcgtgaattt cccggcagat ggtccggtta
+      421 tggctaaaaa gaccacgggt tgggacccgt catttgaaaa aatgacggtc tgcgatggca
+      481 tcctgaaggg tgacgtgacc gcatttctga tgctgcaagg cggcggcaat tatcgttgtc
+      541 aattccatac gtcctacaaa accaaaaagc cggttacgat gccgccgaac catgtggttg
+      601 aacaccgtat tgcgcgcacc gatctggaca aaggtggcaa ttcagttcag ctgacggaac
+      661 atgcagtcgc tcacatcacc tcggtcgtgc cgttctaagc tttgagacc
+//
+LOCUS       tsPurple                 709 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part tsPurple.
+ACCESSION   tsPurple
+VERSION     tsPurple
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     cds             9..698
+                     /label="tsPurple"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    699..<702
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    703..709
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat ggcgagcttg gttaagaaag atatgtgtgt taagatgacg atggaaggta
+       61 ctgtgaacgg ttatcacttt aagtgcgttg gcgagggtga aggcaagccg ttcgagggca
+      121 cgcagaacat gcgcattcgt gtcaccgagg gcggtccgct gccttttgca ttcgacatcc
+      181 tggccccgtg ctgtatgtac ggctctaaga ccttcattaa acacgtgagc ggtatcccgg
+      241 attactttaa agagtccttt ccagagggct tcacttggga acgtacccag atttttgagg
+      301 acggtggtgt tctgaccgcg caccaagaca ccagcctgga aggtaattgc ctgatctata
+      361 aagtgaaggt tctgggtacc aatttcccgg cgaatggtcc ggtgatgcaa aagaaaaccg
+      421 cgggttggga gccgtgcgtc gagatgctgt atccgcgtga cggcgtcttg tgtggtcaga
+      481 gcttgatggc gctgaagtgc accgatggca atcatctgac cagccacctg cgcacgacgt
+      541 atcgtagccg taaaccgagc aacgccgtta acatgccgga gttccatttt ggtgaccatc
+      601 gcatcgaaat cctgaaagct gagcagggca aattctacga acaatacgaa tcggctgtcg
+      661 cacgttacag cgatgtgccg gaaaaagcga cgtaataagc tttgagacc
+//
+LOCUS       TannenRFP                700 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part TannenRFP.
+ACCESSION   TannenRFP
+VERSION     TannenRFP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..689
+                     /label="tannenRFP"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    690..<693
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    694..700
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtccctgtcg aaacaagtac tgccacgtga tgttcgcatg cgctttcata
+       61 tggatggctg cgttaatggt catcagttca tcattgaggg tgaaggtgca ggcaaaccgg
+      121 atgagggcaa gaagattctg aaactgcgcg tgacgaaagg tggcccgctg ccgtttgcgt
+      181 tcgatatcct gagctctact tttacttacg gtaaccgttg tttttgcgat tatccagagg
+      241 acatgccgga ctactttaaa cagagcctgc cggaaggtca ctcttgggaa cgcaccctga
+      301 tgtttgagga tggcggttgt ggtacggcga gcgcgcacat tagtctggat aaggactgct
+      361 tcgtgcacca gagcaccttc ctgggcgtca atttcccggc aaacggtccg gtcatgcaaa
+      421 agaaaacgct gaactgggag ccgagcagcg aactgattac ggcgtgcgac ggtatcctga
+      481 aaggcgatgt gaccatgttt ctgttgctgg aaggtggcca ccgtcttaaa tgtcagttca
+      541 ccaccagcta caaagccagc aaggcagtta agatgccgcc gaatcacatt atcgaacacg
+      601 tgcttgttaa aaaagaggtt gccgacggct ttcagatcca agagcatgcg gtcgcaaagc
+      661 acttcaccgt cgacgttaaa gaaacgtaag ctttgagacc
+//
+LOCUS       BlazeYFP                 730 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part BlazeYFP.
+ACCESSION   BlazeYFP
+VERSION     BlazeYFP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..719
+                     /label="blazeYFP"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    720..<723
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    724..730
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gacggcattg acggaaggtg caaaactgtt tgagaaagag atcccgtata
+       61 tcaccgaact ggaaggcaac gtcgaaggta tgaaatttat cattaaaggc gagggtaccg
+      121 gtgacgcgag cgttggtaag gtcgacgcgc agtttatctg caccacgggt gacgtcccgg
+      181 tgccgtggag cacgttggtg acgacgctgg ggtacggtgc ccaatgtttc gcgaaatatc
+      241 cgcgtcacat cgcagacttc ttcaaatcct gtatgccgga aggttatgtg caagagcgca
+      301 ctattacctt tgagggtgac ggtgtcttta agacccgtgc cgaagtgacc ttcgaaaacg
+      361 gtagcgttta caaccgtgtc aagctgaatg gccagggttt caaaaaggat ggtcacgttc
+      421 tgggtaagaa tctggaattc aacttcaccc cacattgcct gtacatctgg ggcgatcaag
+      481 cgaatcatgg tctgaaaagc gcatttaaga tcatgcacga gattaccggc tccaaagaag
+      541 atttcatcgt ggctgatcac acccagatga ataccccgat tggcggtggc cctgtgcacg
+      601 ttccggaata tcatcacatt acctaccatg tcacgctgag caaggatgtt accgaccatc
+      661 gcgaccacct gaacatcgta gaggttcaaa aagcagtgga cctggagacg tatcgctaag
+      721 ctttgagacc
+//
+LOCUS       amilCP_(blue)            685 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part amilCP_(blue).
+ACCESSION   amilCP_(blue)
+VERSION     amilCP_(blue)
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..674
+                     /label="amilCP"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    675..<678
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    679..685
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gagtgtgatc gctaaacaaa tgacctacaa ggtttatatg tcaggcacgg
+       61 tcaatggaca ctactttgag gtcgaaggcg atggaaaagg taagccctac gagggggagc
+      121 agacggtaaa gctcactgtc accaagggcg gacctctgcc atttgcttgg gatattttat
+      181 caccacagtg tcagtacgga agcataccat tcaccaagta ccctgaagac atccctgact
+      241 atgtaaagca gtcattcccg gagggctata catgggagag gatcatgaac tttgaagatg
+      301 gtgcagtgtg tactgtcagc aatgattcca gcatccaagg caactgtttc atctaccatg
+      361 tcaagttctc tggtttgaac tttcctccca atggacctgt catgcagaag aagacacagg
+      421 gctgggaacc caacactgag cgtctctttg cacgagatgg aatgctgcta ggaaacaact
+      481 ttatggctct gaagttagaa ggaggcggtc actatttgtg tgaatttaaa actacttaca
+      541 aggcaaagaa gcctgtgaag atgccagggt atcactatgt tgaccgcaaa ctggatgtaa
+      601 ccaatcacaa caaggattac acttcggttg agcagtgtga aatttccatt gcacgcaaac
+      661 ctgtggtcgc ctaagctttg agacc
+//
+LOCUS       JuniperGFP               724 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part JuniperGFP.
+ACCESSION   JuniperGFP
+VERSION     JuniperGFP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..713
+                     /label="juniperGFP"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    714..<717
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    718..724
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtcgtctggt gcactgttgt ttcatggtaa aatcccgtat gttgtagaaa
+       61 tggaaggcaa tgtcgatggt cacaccttta gcattcgcgg caagggttac ggtgacgcga
+      121 gcgttggtaa ggtcgacgcg cagtttatct gcaccacggg tgacgtcccg gtgccgtgga
+      181 gcacgttggt gacgacgctg acttacggtg cccaatgttt cgcgaaatat ggcccggggc
+      241 tgaaagactt ctacaaatcc tgtatgccgg aaggttatgt gcaagagcgc actattacct
+      301 ttgagggtga cggtgtcttt aagacccgtg ccgaagtgac cttcgaaaac ggtagcgttt
+      361 acaaccgtgt caagctgaat ggccagggtt tcaaaaagga tggtcacgtt ctgggtaaga
+      421 atctggaatt caacttcacc ccacactgcc tgtacatctg gggcgatcaa gcgaatcatg
+      481 gtctgaaaag cgcatttaag atcatgcacg agattaccgg ctccaaagaa gatttcatcg
+      541 tggctgatca cacccagatg aataccccga ttggcggtgg ccctgtgcac gttccggaat
+      601 atcatcacct gaccgtctgg acgagcttcg gtaaggatcc ggatgacgac gaaaccgacc
+      661 acctgaacat cgtagaggtt atcaaagcag tggacctgga gacgtatcgc taagctttga
+      721 gacc
+//
+LOCUS       EiraCFP                  721 bp    DNA              UNK 01-JAN-1980
+DEFINITION  MoClo assembly fragment for part EiraCFP.
+ACCESSION   EiraCFP
+VERSION     EiraCFP
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..7
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+     misc_feature    8..<11
+                     /function="MoClo Adapter"
+                     /standard_name="i1"
+     CDS             9..710
+                     /label="eiraCFP"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    711..<714
+                     /function="MoClo Adapter"
+                     /standard_name="i2"
+     misc_feature    715..721
+                     /function="MoClo RE Site"
+                     /standard_name="BsaI"
+ORIGIN
+        1 ggtctcaaat gtcgtctggt accaaattgt ttgaaaagga aatcccgtat atcactgaac
+       61 tggagggcga cgtcaatggt atgaagttta ccattcatgg taaaggtacc ggcgatgcga
+      121 gcacgggtac cattaaagcg aaattcatct gcactacggg cgacgttccg gtcccgtggg
+      181 caaccctggt gagcaccctg agctacggtg ttcagtgttt cgccaagtac ccgccgcaca
+      241 tcaaggattt ctttaagagc gccatgccgg aaggttatgt tcaagagcgt accatcacct
+      301 tcgaaggcga cggcgtgttt aagacgcgtg ctgaggttac ctttgaaaac ggttctgtct
+      361 acaatcgtgt cacgctgaac ggccagggtt ttaagaaaga cggtcacatt ctgcgtaaga
+      421 acgttgcatt ccaatgcccg ccagatattg tgtatatttt gcctgacacc gttaacaatg
+      481 gcatccgcgt tgagttcaac caggcgtacg atattgaagg tgtgaccgaa aaactggtta
+      541 ccaaatgcag ccaaatgaat cgtccgttgg cgggctccgc ggcagtgcat atcccgcgtt
+      601 atcatcacct gagcaaacac accaaactga gcaaagaccg cgacgagcgc cgtgatcaca
+      661 tgtgtctggt agaggtcgtg aaagcggttg atctggacac gtatcagtaa gctttgagac
+      721 c
+//

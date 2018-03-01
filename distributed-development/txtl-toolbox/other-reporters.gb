@@ -1,0 +1,352 @@
+LOCUS       amilGFP_(yellow)         696 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_K1033931"                                           
+FEATURES             Location/Qualifiers
+     cds             1..696
+                     /label="amilGFP"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 atgtcttatt caaagcatgg catcgtacaa gaaatgaaga cgaaatacca tatggaaggc
+       61 agtgtcaatg gccatgaatt tacgatcgaa ggtgtaggaa ctgggtaccc ttacgaaggg
+      121 aaacagatgt ccgaattagt gatcatcaag cctgcgggaa aaccccttcc attctccttt
+      181 gacatactgt catcagtctt tcaatatgga aaccgttgct tcacaaagta cccggcagac
+      241 atgcctgact atttcaagca agcattccca gatggaatgt catatgaaag gtcatttcta
+      301 tttgaggatg gagcagttgc tacagccagc tggaacattc gtctcgaagg aaattgcttc
+      361 atccacaaat ccatctttca tggcgtaaac tttcccgctg atggacccgt aatgaaaaag
+      421 aagacaattg actgggataa gtccttcgaa aaaatgactg tgtctaaaga ggtgctaaga
+      481 ggtgacgtga ctatgtttct tatgctcgaa ggaggtggtt ctcacagatg ccaatttcac
+      541 tccacttaca aaacagagaa gccggtcaca ctgcccccga atcatgtcgt agaacatcaa
+      601 attgtgagga ccgaccttgg ccaaagtgca aaaggcttta cagtcaagct ggaagcacat
+      661 gccgcggctc atgttaaccc tttgaaggtt aaataa
+//
+LOCUS       aeBlue                   699 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_K864401"                                            
+FEATURES             Location/Qualifiers
+     cds             1..699
+                     /label="aeBlue"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+ORIGIN
+        1 atggcttcac tggttaaaaa agacatgtgc atcaaaatga cgatggaagg aacagtaaac
+       61 ggtcaccatt tcaagtgtgt aggagaaggc gaaggcaaac catttgaagg gacccaggtg
+      121 gaaaagatac gcatcactga aggtgggccc ttaccatttg cgtatgatat tttggcccct
+      181 tgttgcatgt atggcagtaa aaccttcatt aagcatgtgt cgggtattcc ggattacttt
+      241 aaggagtctt ttcctgaggg ctttacctgg gaaagaacac aaatcttcga ggatggcggc
+      301 tatctcacca tacaccagga cacgagcctt cagggtaata attttatttt caaagttaat
+      361 gtcatcggtg ccaacttccc tgcaaacggt cccgtgatgc agaaaaaaac agctggatgg
+      421 gaaccgtgcg ttgagatgct ttatccgcgg gacggcgtcc tgtgtggtca gagcctgatg
+      481 gccctgaaat gcactgatgg caatcatctg acgtcccacc tgcgcactac ctatcgttct
+      541 cgcaagccat ccaatgcagt taacatgccg gaatttcatt ttggggatca tcgcattgag
+      601 attttgaaag ctgaacaagg taaattttat gaacaatacg agtcagcggt ggcccgttac
+      661 tgtgaggcgg caccgagtaa attagggcat cactaataa
+//
+LOCUS       cjBlue                   702 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_K592011"                                            
+FEATURES             Location/Qualifiers
+     CDS             1..702
+                     /label="cjBlue"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+ORIGIN
+        1 atggcttcca aaataagcga caacgtacgt atcaaactgt atatggaggg cacggttaat
+       61 aatcaccact tcatgtgtga agcggagggt gagggcaagc catacgaagg aacgcagatg
+      121 gaaaacatta aagtgaccaa aggaggcccg ctgccgttct cttttgatat cctgacgccg
+      181 aactgccaat atggttctgt agccataacc aagtacacgt cggggattcc ggactatttt
+      241 aaacagtcat tccctgaagg ttttacctgg gaaagaacca ccatttatga agatggggct
+      301 tatctgacaa ctcagcagga aaccaaactt gatggaaatt gcttagtcta caatattaaa
+      361 atcctcggct gcaattttcc ccccaatggt cctgttatgc agaaaaaaac gcaaggctgg
+      421 gaaccatgtt gcgagatgcg ctatacacgt gatggtgtct tgtgcggtca gacattaatg
+      481 gcactgaaat gtgccgatgg gaaccatctg acttgtcatc tgcggactac ttaccgatcc
+      541 aaaaaggcag cgaaggcgtt gcaaatgcca cctttccatt tttcagacca tcgtccggaa
+      601 attgtgaagg ttagcgagaa cggcacactg tttgagcagc acgaaagtag tgtggcacgc
+      661 tattgtcaga catgcccgag caaacttggt cataattaat aa
+//
+LOCUS       eforRed_(pink)           687 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_K1023005"                                           
+FEATURES             Location/Qualifiers
+     CDS             1..687
+                     /label="eforRed"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+ORIGIN
+        1 atgtcggtaa tcaagcaagt gatgaaaact aagcttcatc ttgaaggtac cgttaatggc
+       61 catgatttta ccatcgaggg taaaggcgaa ggcaaacctt acgaaggtct tcagcatatg
+      121 aagatgacag ttaccaaagg tgcgccactg cccttctcag tacatatcct gaccccttca
+      181 cacatgtatg gttcaaagcc atttaataag tacccggctg acatcccgga ttaccacaaa
+      241 cagtcgttcc cagagggcat gtcctgggaa agatccatga tcttcgagga tggcggagtc
+      301 tgtactgcta gcaatcactc gtcgatcaac ctacaggaaa attgctttat ttatgatgtc
+      361 aagtttcacg gtgtgaattt gccacctgat ggcccggtca tgcagaagac gatcgctggt
+      421 tgggagcctt ccgtcgaaac tctgtacgtc cgagatggga tgcttaagtc tgacacagca
+      481 atggtgttca aattgaaagg gggaggtcac catagggtgg attttaagac cacctacaag
+      541 gctaagaagc cagtgaagct gcctgagttt cattttgtgg aacaccgcct cgaactgacc
+      601 aagcacgata aggatttcac cacttgggat caacaagagg cagcggaggg ccatttctcc
+      661 cctctcccga aggctctccc gtaataa
+//
+LOCUS       RFP_(red)                678 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_E1010"                                              
+FEATURES             Location/Qualifiers
+     CDS             1..678
+                     /label="RFP"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+ORIGIN
+        1 atggcttcct ccgaagacgt tatcaaagag ttcatgcgtt tcaaagttcg tatggaaggt
+       61 tccgttaacg gtcacgagtt cgaaatcgaa ggtgaaggtg aaggtcgtcc gtacgaaggt
+      121 acccagaccg ctaaactgaa agttaccaaa ggtggtccgc tgccgttcgc ttgggacatc
+      181 ctgtccccgc agttccagta cggttccaaa gcttacgtta aacacccggc tgacatcccg
+      241 gactacctga aactgtcctt cccggaaggt ttcaaatggg aacgtgttat gaacttcgaa
+      301 gacggtggtg ttgttaccgt tacccaggac tcctccctgc aagacggtga gttcatctac
+      361 aaagttaaac tgcgtggtac caacttcccg tccgacggtc cggttatgca gaaaaaaacc
+      421 atgggttggg aagcttccac cgaacgtatg tacccggaag acggtgctct gaaaggtgaa
+      481 atcaaaatgc gtctgaaact gaaagacggt ggtcactacg acgctgaagt taaaaccacc
+      541 tacatggcta aaaaaccggt tcagctgccg ggtgcttaca aaaccgacat caaactggac
+      601 atcacctccc acaacgaaga ctacaccatc gttgaacagt acgaacgtgc tgaaggtcgt
+      661 cactccaccg gtgcttaa
+//
+LOCUS       asPink                   702 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_K1033933"                                           
+FEATURES             Location/Qualifiers
+     cds             1..702
+                     /label="asPink"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+ORIGIN
+        1 atggcgagct tcctgaaaaa gacgatgccg ttcaaaacca cgattgaagg cacggtcaac
+       61 ggtcactact ttaaatgtac gggtaaaggc gaaggtaacc cgttcgaagg cacccaggaa
+      121 atgaaaattg aagtcatcga aggcggtccg ctgccgtttg cgtttcatat tctgagcacg
+      181 tcttgcatgt acggctcaaa gaccttcatc aagtacgtgt cgggtatccc ggattacttt
+      241 aaacagagct tcccggaagg ctttacctgg gaacgtacca cgacctatga agatggcggt
+      301 ttcctgacgg cgcaccaaga cacctctctg gatggtgact gtctggtgta caaagttaag
+      361 attctgggca acaattttcc ggccgatggt ccggttatgc agaacaaagc gggccgttgg
+      421 gaaccggcta cggaaatcgt ctatgaagtg gacggcgttc tgcgcggtca atccctgatg
+      481 gccctgaaat gcccgggcgg tcgtcatctg acctgtcatc tgcacacgac ctatcgtagc
+      541 aaaaaaccgg cgagcgccct gaaaatgccg ggctttcatt tcgaagatca ccgcattgaa
+      601 atcatggaag aagtcgaaaa aggtaagtgc tacaagcagt acgaagcagc agtgggtcgc
+      661 tattgtgatg cggcaccgag caagctgggt cataattaat aa
+//
+LOCUS       spisPink                 678 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_K1033932"                                           
+FEATURES             Location/Qualifiers
+     cds             1..678
+                     /label="spisPink"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+ORIGIN
+        1 atgtcgcact caaaacaagc actggcagat acgatgaaaa tgacgtggct gatggaaggt
+       61 tcggtcaacg gtcacgcctt tacgattgaa ggcgaaggta ccggcaaacc gtatgaaggt
+      121 aaacagagtg gcacctttcg tgttacgaaa ggcggtccgc tgccgtttgc gtttgatatt
+      181 gtcgctccga ccctgaaata cggtttcaaa tgcttcatga aatacccggc ggatattccg
+      241 gactacttta aactggcctt cccggaaggc ctgacgtacg atcgtaaaat tgcgtttgaa
+      301 gacggcggtt gtgcgaccgc cacggtcgaa atgagcctga agggtaacac cctggtgcat
+      361 aaaacgaact ttcagggcgg taatttcccg attgatggtc cggtgatgca aaaacgcacc
+      421 ctgggctggg aaccgacctc tgaaaaaatg acgccgtgcg atggtattat caaaggcgac
+      481 accatcatgt acctgatggt tgaaggcggt aaaacgctga aatgtcgtta tgaaaacaat
+      541 taccgcgcca acaaaccagt gctgatgccg ccgagccact ttgtggatct gcgtctgacc
+      601 cgcacgaatc tggataaaga aggtctggcg ttcaaactgg aagaatatgc tgttgcccgt
+      661 gtgctggaag tgtaataa
+//
+LOCUS       gfasPurple               666 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_K1033919"                                           
+FEATURES             Location/Qualifiers
+     cds             1..666
+                     /label="gfasPurple"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+ORIGIN
+        1 atgtcggtga ttgctaaaca gatgacctac aaagtctata tgtcgggtac ggtgaacggc
+       61 cattattttg aagttgaagg tgacggtaaa ggcaagccgt atgaaggcga acagaccgtt
+      121 aaactgaccg tcacgaaggg cggtccgctg ccgtttgcat gggatattct gagtccgcag
+      181 tcccaatatg gcagcatccc gttcacgaaa tatccggaag atatcccgga ctacgtgaag
+      241 cagtcttttc cggaaggtta cacctgggaa cgtatcatga acttcgaaga tggcgccgtc
+      301 tgcaccgtga gtaacgacag ctctattcaa ggtaattgtt tcatctacca tgtcaagttc
+      361 tcaggtctga acttcccgcc gaatggcccg gtgatgcaga aaaagaccca aggctgggaa
+      421 ccgaatacgg aacgtctgtt tgcacgcgat ggtatgctga ttggcaacaa tttcatggct
+      481 ctgaaactgg aaggcggtgg ccactatctg tgcgaattta aaagcaccta caaggcgaaa
+      541 aagccggtta aaatgccggg ctatcattac gtggatcgta aactggacgt taccaaccac
+      601 aataaggact atacgtccgt cgaacagtgt gaaatttcaa tcgcgcgcaa atcggtggtt
+      661 gcctaa
+//
+LOCUS       meffBlue                 669 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_K1033902"                                           
+FEATURES             Location/Qualifiers
+     cds             1..669
+                     /label="meffBlue"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+ORIGIN
+        1 atgtccgtta tcgcaaccca gatgacgtac aaagtttata tgtcgggcac cgtgaatggt
+       61 cattattttg aagtcgaagg tgatggcaaa ggtcgtccgt atgaaggcga acagaccgtc
+      121 aaactgaccg tgacgaaagg cggtccgctg ccgtttgcat gggatattct gagtccgcag
+      181 tgccaatacg gttccattcc gttcaccaaa tatccggaag atatcccgga ctacgtcaaa
+      241 cagagctttc cggaaggttt cacgtgggaa cgcattatga actttgaaga tggcgctgtg
+      301 tgcaccgttt caaacgacag ctctatccaa ggcaactgct tcacgtatca tgtgaaattt
+      361 tcgggtctga acttcccgcc gaatggcccg gttatgcaga agaaaaccca aggttgggaa
+      421 ccgcacagtg aacgtctgtt tgcgcgcggc ggtatgctga tcggcaacaa tttcatggcc
+      481 ctgaaactgg aaggcggtgg ccattatctg tgtgaattta aaaccacgta caaagcgaaa
+      541 aaaccagtga aaatgccggg ttatcattac gttgatcgta aactggacgt cacgaaccac
+      601 aataaagact atacctcagt tgaacagtgt gaaatcagca tcgcacgcaa gccggtggtc
+      661 gcctaataa
+//
+LOCUS       amajLime                 690 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_K1033916"                                           
+FEATURES             Location/Qualifiers
+     cds             1..690
+                     /label="amajLime"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 atggcactga gcaacaagtt tatcggtgat gatatgaaaa tgacgtacca catggacggc
+       61 tgcgtgaacg gccactactt tacggtgaaa ggtgaaggca acggtaaacc gtatgaaggc
+      121 acccagacga gcacctttaa agttacgatg gcgaatggcg gtccgctggc ctttagtttc
+      181 gatattctgt ccaccgtctt taaatacggc aaccgttgct tcacggcgta tccgaccagc
+      241 atgccggatt actttaagca agccttcccg gacggcatgt cttatgaacg cacgtttacc
+      301 tacgaagatg gcggtgtggc gaccgccagc tgggaaattt ctctgaaagg caactgtttc
+      361 gaacataaga gtacctttca cggcgtgaat ttcccggcag atggtccggt tatggctaaa
+      421 aagaccacgg gttgggaccc gtcatttgaa aaaatgacgg tctgcgatgg catcctgaag
+      481 ggtgacgtga ccgcatttct gatgctgcaa ggcggcggca attatcgttg tcaattccat
+      541 acgtcctaca aaaccaaaaa gccggttacg atgccgccga accatgtggt tgaacaccgt
+      601 attgcgcgca ccgatctgga caaaggtggc aattcagttc agctgacgga acatgcagtc
+      661 gctcacatca cctcggtcgt gccgttctaa
+//
+LOCUS       tsPurple                 690 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_K1033906"                                           
+FEATURES             Location/Qualifiers
+     cds             1..690
+                     /label="tsPurple"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+ORIGIN
+        1 atggcgagct tggttaagaa agatatgtgt gttaagatga cgatggaagg tactgtgaac
+       61 ggttatcact ttaagtgcgt tggcgagggt gaaggcaagc cgttcgaggg cacgcagaac
+      121 atgcgcattc gtgtcaccga gggcggtccg ctgccttttg cattcgacat cctggccccg
+      181 tgctgtatgt acggctctaa gaccttcatt aaacacgtga gcggtatccc ggattacttt
+      241 aaagagtcct ttccagaggg cttcacttgg gaacgtaccc agatttttga ggacggtggt
+      301 gttctgaccg cgcaccaaga caccagcctg gaaggtaatt gcctgatcta taaagtgaag
+      361 gttctgggta ccaatttccc ggcgaatggt ccggtgatgc aaaagaaaac cgcgggttgg
+      421 gagccgtgcg tcgagatgct gtatccgcgt gacggcgtct tgtgtggtca gagcttgatg
+      481 gcgctgaagt gcaccgatgg caatcatctg accagccacc tgcgcacgac gtatcgtagc
+      541 cgtaaaccga gcaacgccgt taacatgccg gagttccatt ttggtgacca tcgcatcgaa
+      601 atcctgaaag ctgagcaggg caaattctac gaacaatacg aatcggctgt cgcacgttac
+      661 agcgatgtgc cggaaaaagc gacgtaataa
+//
+LOCUS       TannenRFP                681 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_J97003"                                             
+FEATURES             Location/Qualifiers
+     CDS             1..681
+                     /label="tannenRFP"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+ORIGIN
+        1 atgtccctgt cgaaacaagt actgccacgt gatgttcgca tgcgctttca tatggatggc
+       61 tgcgttaatg gtcatcagtt catcattgag ggtgaaggtg caggcaaacc ggatgagggc
+      121 aagaagattc tgaaactgcg cgtgacgaaa ggtggcccgc tgccgtttgc gttcgatatc
+      181 ctgagctcta cttttactta cggtaaccgt tgtttttgcg attatccaga ggacatgccg
+      241 gactacttta aacagagcct gccggaaggt cactcttggg aacgcaccct gatgtttgag
+      301 gatggcggtt gtggtacggc gagcgcgcac attagtctgg ataaggactg cttcgtgcac
+      361 cagagcacct tcctgggcgt caatttcccg gcaaacggtc cggtcatgca aaagaaaacg
+      421 ctgaactggg agccgagcag cgaactgatt acggcgtgcg acggtatcct gaaaggcgat
+      481 gtgaccatgt ttctgttgct ggaaggtggc caccgtctta aatgtcagtt caccaccagc
+      541 tacaaagcca gcaaggcagt taagatgccg ccgaatcaca ttatcgaaca cgtgcttgtt
+      601 aaaaaagagg ttgccgacgg ctttcagatc caagagcatg cggtcgcaaa gcacttcacc
+      661 gtcgacgtta aagaaacgta a
+//
+LOCUS       BlazeYFP                 711 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_J97002"                                             
+FEATURES             Location/Qualifiers
+     CDS             1..711
+                     /label="blazeYFP"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+ORIGIN
+        1 atgacggcat tgacggaagg tgcaaaactg tttgagaaag agatcccgta tatcaccgaa
+       61 ctggaaggca acgtcgaagg tatgaaattt atcattaaag gcgagggtac cggtgacgcg
+      121 agcgttggta aggtcgacgc gcagtttatc tgcaccacgg gtgacgtccc ggtgccgtgg
+      181 agcacgttgg tgacgacgct ggggtacggt gcccaatgtt tcgcgaaata tccgcgtcac
+      241 atcgcagact tcttcaaatc ctgtatgccg gaaggttatg tgcaagagcg cactattacc
+      301 tttgagggtg acggtgtctt taagacccgt gccgaagtga ccttcgaaaa cggtagcgtt
+      361 tacaaccgtg tcaagctgaa tggccagggt ttcaaaaagg atggtcacgt tctgggtaag
+      421 aatctggaat tcaacttcac cccacattgc ctgtacatct ggggcgatca agcgaatcat
+      481 ggtctgaaaa gcgcatttaa gatcatgcac gagattaccg gctccaaaga agatttcatc
+      541 gtggctgatc acacccagat gaataccccg attggcggtg gccctgtgca cgttccggaa
+      601 tatcatcaca ttacctacca tgtcacgctg agcaaggatg ttaccgacca tcgcgaccac
+      661 ctgaacatcg tagaggttca aaaagcagtg gacctggaga cgtatcgcta a
+//
+LOCUS       amilCP_(blue)            666 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_K592009"                                            
+FEATURES             Location/Qualifiers
+     CDS             1..666
+                     /label="amilCP"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+ORIGIN
+        1 atgagtgtga tcgctaaaca aatgacctac aaggtttata tgtcaggcac ggtcaatgga
+       61 cactactttg aggtcgaagg cgatggaaaa ggtaagccct acgaggggga gcagacggta
+      121 aagctcactg tcaccaaggg cggacctctg ccatttgctt gggatatttt atcaccacag
+      181 tgtcagtacg gaagcatacc attcaccaag taccctgaag acatccctga ctatgtaaag
+      241 cagtcattcc cggagggcta tacatgggag aggatcatga actttgaaga tggtgcagtg
+      301 tgtactgtca gcaatgattc cagcatccaa ggcaactgtt tcatctacca tgtcaagttc
+      361 tctggtttga actttcctcc caatggacct gtcatgcaga agaagacaca gggctgggaa
+      421 cccaacactg agcgtctctt tgcacgagat ggaatgctgc taggaaacaa ctttatggct
+      481 ctgaagttag aaggaggcgg tcactatttg tgtgaattta aaactactta caaggcaaag
+      541 aagcctgtga agatgccagg gtatcactat gttgaccgca aactggatgt aaccaatcac
+      601 aacaaggatt acacttcggt tgagcagtgt gaaatttcca ttgcacgcaa acctgtggtc
+      661 gcctaa
+//
+LOCUS       JuniperGFP               705 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_J97001"                                             
+FEATURES             Location/Qualifiers
+     CDS             1..705
+                     /label="juniperGFP"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 atgtcgtctg gtgcactgtt gtttcatggt aaaatcccgt atgttgtaga aatggaaggc
+       61 aatgtcgatg gtcacacctt tagcattcgc ggcaagggtt acggtgacgc gagcgttggt
+      121 aaggtcgacg cgcagtttat ctgcaccacg ggtgacgtcc cggtgccgtg gagcacgttg
+      181 gtgacgacgc tgacttacgg tgcccaatgt ttcgcgaaat atggcccggg gctgaaagac
+      241 ttctacaaat cctgtatgcc ggaaggttat gtgcaagagc gcactattac ctttgagggt
+      301 gacggtgtct ttaagacccg tgccgaagtg accttcgaaa acggtagcgt ttacaaccgt
+      361 gtcaagctga atggccaggg tttcaaaaag gatggtcacg ttctgggtaa gaatctggaa
+      421 ttcaacttca ccccacactg cctgtacatc tggggcgatc aagcgaatca tggtctgaaa
+      481 agcgcattta agatcatgca cgagattacc ggctccaaag aagatttcat cgtggctgat
+      541 cacacccaga tgaatacccc gattggcggt ggccctgtgc acgttccgga atatcatcac
+      601 ctgaccgtct ggacgagctt cggtaaggat ccggatgacg acgaaaccga ccacctgaac
+      661 atcgtagagg ttatcaaagc agtggacctg gagacgtatc gctaa
+//
+LOCUS       EiraCFP                  702 bp ds-DNA     linear       01-MAR-2018
+DEFINITION  .
+KEYWORDS    "accession:BBa_J97000"                                             
+FEATURES             Location/Qualifiers
+     CDS             1..702
+                     /label="eiraCFP"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+ORIGIN
+        1 atgtcgtctg gtaccaaatt gtttgaaaag gaaatcccgt atatcactga actggagggc
+       61 gacgtcaatg gtatgaagtt taccattcat ggtaaaggta ccggcgatgc gagcacgggt
+      121 accattaaag cgaaattcat ctgcactacg ggcgacgttc cggtcccgtg ggcaaccctg
+      181 gtgagcaccc tgagctacgg tgttcagtgt ttcgccaagt acccgccgca catcaaggat
+      241 ttctttaaga gcgccatgcc ggaaggttat gttcaagagc gtaccatcac cttcgaaggc
+      301 gacggcgtgt ttaagacgcg tgctgaggtt acctttgaaa acggttctgt ctacaatcgt
+      361 gtcacgctga acggccaggg ttttaagaaa gacggtcaca ttctgcgtaa gaacgttgca
+      421 ttccaatgcc cgccagatat tgtgtatatt ttgcctgaca ccgttaacaa tggcatccgc
+      481 gttgagttca accaggcgta cgatattgaa ggtgtgaccg aaaaactggt taccaaatgc
+      541 agccaaatga atcgtccgtt ggcgggctcc gcggcagtgc atatcccgcg ttatcatcac
+      601 ctgagcaaac acaccaaact gagcaaagac cgcgacgagc gccgtgatca catgtgtctg
+      661 gtagaggtcg tgaaagcggt tgatctggac acgtatcagt aa
+//
