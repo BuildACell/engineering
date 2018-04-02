@@ -25,11 +25,12 @@ github_username:  buildacell
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
 
 # Github settings
 repository: buildacell/engineering
