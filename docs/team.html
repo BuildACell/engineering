@@ -144,14 +144,4 @@ published: true
   <span>Cell by Nook Fulloption from the Noun Project</span>
 </div>
 
-<script type="text/javascript">
-// From https://stackoverflow.com/questions/18483241/random-div-order-on-page-load
 
-var cards = $(".contributor");
-
-for (var i = 0; i < cards.length; i++){
-    var target = Math.floor(Math.random() * cards.length -1) + 1;
-    var target2 = Math.floor(Math.random() * cards.length -1) +1;
-    cards.eq(target).before(cards.eq(target2));
-}
-</script>
