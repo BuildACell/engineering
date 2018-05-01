@@ -3,7 +3,7 @@
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" href="http://buildacell.io">Build-a-cell</a>
 
     {% if page_paths %}
       <nav class="site-nav">
@@ -26,8 +26,9 @@
               {% endif %}
             {% endfor %}
             <span class="nav-divide"></span>
-            <a class="page-link" href="http://buildacell-invite.herokuapp.com">Join Slack</a>
-          <a class="page-link" href="http://buildacell.io">Build-a-cell</a>
+            <a class="page-link" href="http://buildacell-invite.herokuapp.com">Join Slack</a> 
+          <span class="nav-divide"></span>
+          <a class="page-link" href="http://buildacell.io/engineering/">Build-a-cell engineering</a>
         </div>
       </nav>
     {% endif %}
