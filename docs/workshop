@@ -1,0 +1,21 @@
+---
+layout: page
+title: Workshop
+categories: metaproject
+mainmenu: true
+weight: 10
+published: true
+---
+
+<p><b>Workshops</b></p>
+
+
+              <h2>Build-a-Cell Workshop #3</h2>
+                <p><a href="http://buildacell.io/engineering/workshop3/">August 2018 workshop at University of Minnesota</a></p>
+              <h2>Build-a-Cell Workshop #2</h2>
+                <p><a href="http://buildacell.io/engineering/workshop2/">February 2018 workshop at Stanford</a></p>
+              <h2>Build-a-Cell Workshop #1</h2>
+                <p><a href="http://buildacell.io/engineering/pasadena/">June 2017 workshop at Caltech</a></p> 
+
+
+
