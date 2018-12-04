@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   We're building a cell. Here are the details.
 baseurl: "/engineering" # the subpath of your site, e.g. /blog
 url: "http://buildacell.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: buildacellproj
+twitter_username: buildacell
 github_username:  buildacell
 
 # Build settings
@@ -34,6 +34,9 @@ exclude:
 
 # Github settings
 repository: buildacell/engineering
+
+# GA settings
+google_analytics: UA-100421349-2
 
 # Prose
 prose:
